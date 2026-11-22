@@ -35,6 +35,8 @@ New to GitHub? [How to have your say](docs/have-your-say.md) shows you how to co
 | 15 | How should asks work? Can parts be shipped to the lab? | Open. Shipping depends on the site host. See [ASKS.md](ASKS.md) | Issues tab |
 | 16 | What is the long-term dream? | Open. Edit [VISION.md](VISION.md) | Issues tab |
 | 17 | How should other towns join the network of boxes? | Open. See [Hatch your own](docs/your-swapatron.md) | Issues tab |
+| 18 | What youth protection and safety rules do events and the petting zoo need? | Open. Needs review by someone who works with kids. See the [draft code of conduct](CODE_OF_CONDUCT.md) and [petting zoo rules](docs/petting-zoo.md) | Issues tab |
+| 19 | Who is on the founding team, and for how long? | Open. See [the founding team](docs/founding-team.md) | Issues tab |
 
 Do not see your question? Add it. Open an [idea](../../issues/new?template=idea.yml).
 
@@ -47,6 +49,8 @@ These are proposals too, but they are about safety, so they need review by the s
 - No battery charging in the outdoor box
 - No collection of used or damaged batteries
 - Any camera or lock needs its own review before it is built
+- At events, children stay with a parent or guardian, and no adult is ever alone with someone else's child
+- No soldering irons, hot tools, or loose lithium cells at the technology petting zoo
 
 If you think one of these is wrong, say so in an issue and explain why.
 

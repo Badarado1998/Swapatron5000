@@ -1,0 +1,86 @@
+name: Join the founding team
+description: Help Swapatron hatch. Pick a role, tell us a little about you. Proposed, nothing is decided.
+title: "Founding team: "
+labels: ["founding-team"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. Everything on this form is public, so please do not post your address, phone number, or email. We will reply right here and set up a chat from there. Read [the founding team page](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/docs/founding-team.md) first if you have not.
+  - type: checkboxes
+    id: roles
+    attributes:
+      label: Which roles interest you?
+      description: Pick any. "Not sure" is a fine answer.
+      options:
+        - label: Maintainer
+        - label: Site steward, box one (near Fishers)
+        - label: Hardware lead
+        - label: Electronics lead
+        - label: Software lead
+        - label: UX and design lead
+        - label: Community and newcomers lead
+        - label: Technology petting zoo lead
+        - label: Hatching day producer
+        - label: Safety and youth protection lead
+        - label: Understudy coordinator
+        - label: Supplies keeper
+        - label: Not sure yet. Help me find one
+  - type: textarea
+    id: why
+    attributes:
+      label: Why do you want to help?
+      description: A sentence or two is plenty.
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: Anything that would help us place you? (optional)
+      description: A skill, a past project, a thing you built. Beginners are welcome. Leave this blank if you like.
+  - type: dropdown
+    id: hours
+    attributes:
+      label: About how many hours a week could you give?
+      description: An honest small number is better than a hopeful big one.
+      options:
+        - "1 hour"
+        - "2 to 3 hours"
+        - "4 or more hours"
+        - "It varies"
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where are you?
+      options:
+        - "Fishers"
+        - "Elsewhere in central Indiana"
+        - "Elsewhere in Indiana"
+        - "Somewhere else. I would help remotely"
+    validations:
+      required: true
+  - type: dropdown
+    id: evening
+    attributes:
+      label: Can you come to the kickoff on a Wednesday evening in January?
+      description: Proposed for Wed Jan 13, 2027. The time and place are not confirmed.
+      options:
+        - "Yes"
+        - "Probably"
+        - "No, but I can join online"
+        - "No"
+    validations:
+      required: true
+  - type: checkboxes
+    id: agree
+    attributes:
+      label: Before you go ahead
+      options:
+        - label: I am 18 or older. (Under 18? Welcome as an understudy. Ask an adult to apply with you.)
+          required: true
+        - label: I have read the draft code of conduct
+          required: true
+        - label: I understand this is volunteer work and that nothing is decided yet
+          required: true

@@ -10,7 +10,7 @@ Meet Swapatron. It is a box. It eats spare electronics parts, and it gives them 
 
 ## The idea
 
-Think of a neighborhood book box, but for dev boards, sensors, wire, and connectors. The first Swapatron is planned for Fishers, Indiana, outside the Indiana IoT Lab. The community would design it, build it, feed it, and look after it.
+Think of a neighborhood book box, but for dev boards, sensors, wire, and connectors. The first Swapatron is planned for Fishers, Indiana, outside the Indiana IoT Lab. It is the HQ model and the primary test bed for the whole idea. The community would design it, build it, feed it, and look after it.
 
 It is not only for Fishers. The plans are open, so any town can [hatch its own](docs/your-swapatron.md).
 
@@ -38,6 +38,7 @@ You do not need to code. Everything here works on a phone. Never used GitHub? [T
 | Ask for a part I need | [Ask for a part](../../issues/new?template=ask-for-a-part.yml) |
 | Take on a job | Pick one from the [bounty board](BOUNTIES.md) |
 | Say why it won't work | [Tell Swapatron to its face](CHALLENGES.md). Every doubt is treated as a challenge to overcome |
+| Join the founding team | Read [the roles](docs/founding-team.md), then [apply](../../issues/new?template=join-founding-team.yml) |
 | Hatch a Swapatron in my town | Read [Hatch your own](docs/your-swapatron.md), then [tell us where](../../issues/new?template=hatch-a-swapatron.yml) |
 | Spread the word | Use the [share kit](docs/share-kit.md) |
 
@@ -66,11 +67,12 @@ See everyone on the [Contributors Wall](CONTRIBUTORS.md), and [how to get your n
 | Mon Dec 7, 2026 | Public launch |
 | Sat Dec 12, 2026 | **Draw Swapatron**, a sketch day for all ages |
 | Thu Jan 7, 2027 | **"This won't work because..." night** |
+| Wed Jan 13, 2027 | **Founding team kickoff**, a Wednesday evening. The call for the team is open now |
 | Jan 11 to Jan 31, 2027 | Decide, in the open. **Decision night** on Thu Jan 21 |
 | Feb 1 to Mar 14, 2027 | Gather materials. **Feed Swapatron** parts drive on Sat Feb 20 |
 | Sat Mar 20, 2027 | **Build day**, indoors at the lab |
 | Sat Apr 10, 2027 | **Install day** |
-| Sat Apr 24, 2027 | **Hatching day.** Swapatron opens, with food trucks and a celebration |
+| Sat Apr 24, 2027 | **Hatching day.** Swapatron opens, with food trucks, a celebration, and a technology petting zoo |
 
 Every date is a proposal. None is confirmed with the lab yet. [Events in detail](docs/events.md) and the [full timeline](ROADMAP.md).
 
@@ -90,6 +92,9 @@ Good. [Tell Swapatron to its face](CHALLENGES.md). Every "this won't work becaus
 | [CHALLENGES.md](CHALLENGES.md) | Every reason this might not work, and how we plan to beat it |
 | [DECISIONS.md](DECISIONS.md) | Every open question, and how decisions get made |
 | [ROADMAP.md](ROADMAP.md) | The proposed timeline in full |
+| [docs/founding-team.md](docs/founding-team.md) | The founding team roles, and how to apply |
+| [docs/petting-zoo.md](docs/petting-zoo.md) and [docs/swapatron-speak.md](docs/swapatron-speak.md) | The technology petting zoo, and a field guide to IoT lingo |
+| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Draft code of conduct, including rules for kids |
 | [docs/your-swapatron.md](docs/your-swapatron.md) | Hatch a Swapatron in your own town |
 | [docs/events.md](docs/events.md) | Launch dates and in-person events |
 | [BOUNTIES.md](BOUNTIES.md) | Jobs with points, levels, and badges |

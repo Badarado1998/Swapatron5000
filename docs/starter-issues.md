@@ -13,7 +13,9 @@ Once the issues exist, you can delete this file.
 | Design the weather shell around the standard bin | `hardware`, `needs owner` |
 | Design the sign and QR code | `docs`, `good first issue` |
 | Review the share-alike licenses in `LICENSE.md` before January 31, 2027 | `decision` |
-| Add a code of conduct | `docs`, `good first issue` |
+| Review the draft code of conduct, and set up a private way to report problems | `docs`, `needs owner` |
+| Plan the technology petting zoo: habitats, keepers, and critters to lend | `event`, `needs owner` |
+| Recruit the founding team (call opens Nov 30, closes Jan 10) | `founding-team`, `needs owner` |
 | Wishlist: anti-static bags, zip bags, desiccant, labels (standing issue) | `supplies` |
 | Power budget for solar, battery, and LED lighting | `electronics`, `needs owner` |
 | Pick a battery chemistry and enclosure for outdoor temperatures | `electronics`, `rfc` |

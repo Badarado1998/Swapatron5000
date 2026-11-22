@@ -8,7 +8,7 @@ A kid walks up to Swapatron, takes a sensor, goes home, builds something, and co
 
 ## The first box
 
-Box one is planned for Fishers, Indiana. It is the first, not the only one.
+Box one is planned for Fishers, Indiana. It is the HQ model and the primary test bed: the first, not the only one.
 
 - It stands outside the Indiana IoT Lab, lit at night, and anyone can use it
 - You can see what is inside before you open the door

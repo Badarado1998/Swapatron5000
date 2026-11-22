@@ -6,7 +6,10 @@ Everyone is welcome, including people who have never used GitHub. If that is you
 
 ## Ways to contribute
 
+Everyone follows the draft [code of conduct](CODE_OF_CONDUCT.md).
+
 - **Share a design sketch.** A photo of a pencil drawing is welcome. See [hardware/README.md](hardware/README.md).
+- **Join the founding team.** Twelve small roles, and beginners are welcome. See [docs/founding-team.md](docs/founding-team.md).
 - **Join a team.** Box design, electronics, box management software, or UI and UX. See the table in the [README](README.md).
 - **Say why it won't work.** Doubts are welcome and are treated as challenges to overcome. See [CHALLENGES.md](CHALLENGES.md).
 - **Ask for a part, or fill an ask.** See [ASKS.md](ASKS.md).

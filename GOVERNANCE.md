@@ -14,7 +14,8 @@
 | Role | Who |
 |---|---|
 | Maintainers | To be named (minimum two) |
-| Site steward, box 1 | To be named |
+| Founding team | To be named by Sun Jan 10, 2027 (proposed). See [founding-team.md](docs/founding-team.md) |
+| Site steward, box 1 (HQ) | To be named |
 | Site host, box 1 | Indiana IoT Lab (approval in progress) |
 
 ## How decisions are made

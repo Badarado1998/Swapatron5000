@@ -60,3 +60,19 @@ A short checklist for the maintainers. Announce in this order.
 - [ ] Three or four people have each posted a first sketch or comment, so the project does not look empty
 - [ ] The web page and every button on it have been tested on a phone
 - [ ] Someone is watching the issues daily for the first two weeks, to welcome people and remove personal details
+
+## Recruiting the founding team
+
+Only post these once the lab has agreed to be named, and keep them true. Roles, dates, and the kickoff are proposals.
+
+**For makers and IoT people**
+
+> We're putting together the founding team for a free outdoor electronics parts swap box in Fishers, Indiana. Box one is the HQ model and the test bed for the whole idea. Twelve small roles, from electronics and software to community and safety. A couple of hours a week. Kickoff is proposed for a Wednesday evening in January. Details and the form: https://fishers-founders-united.github.io/Swapatron5000/
+
+**For teachers, scout leaders, and youth groups**
+
+> We're building a free swap box for electronics parts, and a technology petting zoo for adults and their understudies (kids) when it opens. We'd love someone with youth program experience to help us get the safety rules right. Nothing is decided yet. Come and shape it: https://fishers-founders-united.github.io/Swapatron5000/
+
+**For anyone who is curious**
+
+> Never touched GitHub or a soldering iron? Good. We need people like you on the founding team, and everyone gets a buddy. Tell us which role sounds interesting: https://fishers-founders-united.github.io/Swapatron5000/

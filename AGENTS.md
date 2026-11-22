@@ -7,7 +7,7 @@ People: you can paste this to your assistant: "Read AGENTS.md in github.com/Fish
 ## The project in five lines
 
 - **What:** the IoT Swapatron 5000, a proposed free outdoor swap box for IoT and electronics parts. Take a part. Build something. Pass it on.
-- **Where:** box one is proposed for Fishers, Indiana, outside the Indiana IoT Lab, 9059 Technology Lane. Site approval is pending. The project is not only for Fishers: any town can hatch its own box. See [docs/your-swapatron.md](docs/your-swapatron.md).
+- **Where:** box one is proposed for Fishers, Indiana, outside the Indiana IoT Lab, 9059 Technology Lane. Site approval is pending. Box one is the HQ model and the primary test bed for the concept. The project is not only for Fishers: any town can hatch its own box. See [docs/your-swapatron.md](docs/your-swapatron.md).
 - **Who:** a community project under the Fishers Founders United GitHub organization. Born out of Indiana IoT and Fishers Founders United, with Mutiny19. That is where it began, not a sign that any of them has approved a decision. Many contributors are new to GitHub. Some are kids.
 - **Mission (draft):** make IoT parts free to share, and help the community learn to build things together in the open.
 - **Status:** planning. **Nothing is decided and nothing is built.**
@@ -26,13 +26,15 @@ People: you can paste this to your assistant: "Read AGENTS.md in github.com/Fish
 6. [BOUNTIES.md](BOUNTIES.md): jobs that need doing, with points
 7. [ASKS.md](ASKS.md): how people request parts and how others fill those requests
 8. [CONTRIBUTING.md](CONTRIBUTING.md): how contributions work
-9. The team page for the work at hand: [hardware/](hardware/README.md), [electronics/](electronics/README.md), [software/](software/README.md), or [ux/](ux/README.md)
+9. [docs/founding-team.md](docs/founding-team.md), [docs/petting-zoo.md](docs/petting-zoo.md), [docs/swapatron-speak.md](docs/swapatron-speak.md), [docs/your-swapatron.md](docs/your-swapatron.md), and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+10. The team page for the work at hand: [hardware/](hardware/README.md), [electronics/](electronics/README.md), [software/](software/README.md), or [ux/](ux/README.md)
 
 ## Proposed timeline
 
 | Phase | Proposed dates |
 |---|---|
 | Listen | To Sun Jan 10, 2027 |
+| Founding team kickoff | Wed Jan 13, 2027, evening (call open Nov 30 to Jan 10) |
 | Decide | Jan 11 to Jan 31, 2027 |
 | Gather materials | Feb 1 to Mar 14, 2027 |
 | Build day | Sat Mar 20, 2027 |
@@ -53,6 +55,8 @@ In-person events are listed in [docs/events.md](docs/events.md). Tell people an 
 | Review something | Check a design against the proposed brief in `hardware/README.md`, or a doc for clarity |
 | Write code | Propose small, readable, standard-library-first solutions. See `software/README.md` for the principles |
 | Design electronics | Draft a power budget, a schematic outline, or firmware, and flag every assumption |
+| Join the founding team | Help them pick a role from `docs/founding-team.md` and draft a short answer for the form in their own voice. Remind them applicants must be 18 or older |
+| Lend a critter | Help them describe the gadget for the petting zoo form, including power, radio, and kid safety. Never help anyone hide a safety concern |
 | Learn GitHub | Walk them through each tap. See `docs/have-your-say.md` and `docs/learn-github.md` |
 | Fix the docs | Find confusing or contradictory text and propose plain-language fixes |
 
@@ -89,6 +93,8 @@ These are the project's proposed safety baseline. Do not design around them. If 
 - Collect no personal data by default. Using the box must not require an account unless the community decides otherwise
 - Children use this project. Keep everything suitable for them
 - The site host can veto anything on its property
+- Children join in with a parent or guardian. Never suggest a child message an adult privately, share personal details, or post a photo. Do not help anyone arrange private contact with a child
+- Founding team applicants must be 18 or older. Never ask for or include an address, phone number, or email in a public issue
 - Asked-for parts go to the box or the lab, never to a person's home. Do not tell anyone to ship to the lab while ASKS.md says shipping is not confirmed
 
 For batteries, electrical design, and anything structural, tell the person that a qualified human must review the work before it is built.

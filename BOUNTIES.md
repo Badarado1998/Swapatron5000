@@ -73,6 +73,10 @@ These open as issues once the project launches. Most are for the listening phase
 | Design and prototype the sensor node | 5 | code |
 | Host an in-person event from the [events list](docs/events.md) | 3 | upkeep |
 | Lead build day | 5 | build |
+| Keep a habitat at the technology petting zoo | 3 | upkeep |
+| Run the technology petting zoo | 5 | upkeep |
+| Write the youth protection rules, with someone who works with kids | 3 | docs |
+| Suggest a better cute name for an IoT term in [Swapatron-speak](docs/swapatron-speak.md) | 1 | idea |
 | Line up food trucks for hatching day, with the lab's OK on space and permits | 3 | upkeep |
 | Help a second town plan its own Swapatron | 5 | idea |
 | Organize the first three months of the upkeep rota | 5 | upkeep |

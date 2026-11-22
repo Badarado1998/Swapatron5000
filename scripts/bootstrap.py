@@ -38,6 +38,7 @@ LABELS = {
     "electronics": ("FEF2C0", "Power, sensors, radios"),
     "software": ("D4C5F9", "Inventory, alerts, forms"),
     "docs": ("C2E0C6", "Writing, signs, drawings, the tutorial"),
+    "founding-team": ("5319E7", "Applying for, or discussing, a founding team role"),
     "network": ("0E8A16", "Boxes in other towns and how they connect"),
     "supplies": ("F9D0C4", "Bags, labels, desiccant, lumber"),
     "needs owner": ("EDEDED", "Nobody has claimed this yet. Comment to take it"),
@@ -122,6 +123,19 @@ def build_issues():
             f"Swapatron heard this one and is not scared.\n\n**First thoughts:** {first}\n\n"
             "Pile on. What makes this worse than we think? What would fix it? You do not need a solution. "
             f"Spotting the problem earns a point. See [CHALLENGES.md]({BLOB}/CHALLENGES.md)."))
+
+    # Founding team roles
+    for cells in table_rows("docs/founding-team.md", "## The roles"):
+        role, what, time_, skills, beginners = cells[:5]
+        role = role.strip("* ")
+        items.append(issue(
+            f"Founding team role: {role}", ["founding-team"],
+            f"{NOTHING_DECIDED}\n\n**What you would do:** {what}\n\n**Time, weekly (our guess):** {time_}\n\n"
+            f"**Skills that help:** {skills}\n\n**Beginners welcome?** {beginners}\n\n"
+            "Interested? Comment here, and also fill in the "
+            f"[founding team form](https://github.com/{REPO}/issues/new?template=join-founding-team.yml). "
+            "Please do not post an address, phone number, or email. Applicants must be 18 or older. "
+            f"Details: [founding-team.md]({BLOB}/docs/founding-team.md)."))
 
     # Bounties
     for job, points, kind in table_rows("BOUNTIES.md", "| Bounty | Points | Type |"):

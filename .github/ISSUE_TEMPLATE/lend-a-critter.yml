@@ -1,0 +1,81 @@
+name: Lend a critter (technology petting zoo)
+description: Offer a gadget for the technology petting zoo on hatching day. Proposed, not confirmed.
+title: "Critter: "
+labels: ["event"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The technology petting zoo is a proposal for hatching day, and nothing is confirmed yet. This form says "I would bring this." Please do not post your address, phone number, or email. We will reply here.
+  - type: input
+    id: critter
+    attributes:
+      label: What is it?
+      placeholder: A weather station that talks to a little screen
+    validations:
+      required: true
+  - type: textarea
+    id: do
+    attributes:
+      label: What can a visitor do with it?
+      description: Press, blow on, wave at, talk to. One or two sentences.
+    validations:
+      required: true
+  - type: dropdown
+    id: power
+    attributes:
+      label: How does it get power?
+      options:
+        - "USB or low voltage only"
+        - "Sealed battery inside"
+        - "It needs a wall outlet adapter"
+        - "Not sure"
+    validations:
+      required: true
+  - type: dropdown
+    id: radio
+    attributes:
+      label: Does it send radio signals?
+      options:
+        - "No"
+        - "Wi-Fi or Bluetooth"
+        - "A long range radio (LoRa, mesh, or similar)"
+        - "Something else"
+    validations:
+      required: true
+  - type: input
+    id: radiodetail
+    attributes:
+      label: If it sends radio, which kind and what power?
+      description: Frequency band and power, if you know them. Say so if you do not.
+  - type: dropdown
+    id: kids
+    attributes:
+      label: Is it safe for kids to touch?
+      options:
+        - "Yes, nothing hot, sharp, or small enough to swallow"
+        - "Yes, with a keeper nearby"
+        - "Look only, please"
+    validations:
+      required: true
+  - type: dropdown
+    id: stay
+    attributes:
+      label: Can you stay with it?
+      options:
+        - "Yes, the whole time"
+        - "Yes, for part of the day"
+        - "No, but I can lend it to a keeper"
+    validations:
+      required: true
+  - type: textarea
+    id: space
+    attributes:
+      label: How much table space and how many outlets?
+  - type: checkboxes
+    id: agree
+    attributes:
+      label: Before you go ahead
+      options:
+        - label: I have read the pet-gently rules in docs/petting-zoo.md
+          required: true

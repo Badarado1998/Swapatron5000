@@ -10,10 +10,14 @@ Any town, school, library, makerspace, scout troop, or club can hatch its own. T
 
 | Box | Place | Status | Site host |
 |---|---|---|---|
-| 1 | Fishers, Indiana | Planning. Not built | Indiana IoT Lab (approval pending) |
+| 1 (HQ) | Fishers, Indiana | Planning. Not built. The HQ model and primary test bed | Indiana IoT Lab (approval pending) |
 | 2 | Your town? | [Tell us](../../../issues/new?template=hatch-a-swapatron.yml) | |
 
 Only boxes that have a named steward and a site host's yes appear in this table.
+
+## Why Fishers goes first
+
+Box one is the HQ model: the primary test bed, and the reference design for every box after it. The plan is to learn everything we can in Fishers first. What works there becomes the plan other towns copy. What breaks gets fixed there before it breaks anywhere else. The 90 day check-up on Sat Jul 24, 2027 is meant to feed straight back into the plans for every future box.
 
 ## Should you wait for box one?
 

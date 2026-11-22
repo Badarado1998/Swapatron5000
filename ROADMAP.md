@@ -22,11 +22,12 @@
 | Mon Dec 7, 2026 | Public launch, online |
 | Sat Dec 12, 2026 | Draw Swapatron: sketch day for all ages |
 | Thu Jan 7, 2027 | "This won't work because..." night |
+| Wed Jan 13, 2027 | Founding team kickoff, evening |
 | Thu Jan 21, 2027 | Decision night |
 | Sat Feb 20, 2027 | Feed Swapatron: parts drive and kit making |
 | Sat Mar 20, 2027 | Build day |
 | Sat Apr 10, 2027 | Install day |
-| Sat Apr 24, 2027 | Hatching day: Swapatron opens, with food trucks and a celebration |
+| Sat Apr 24, 2027 | Hatching day: Swapatron opens, with food trucks, a celebration, and a technology petting zoo |
 | Sat Jul 24, 2027 | 90 day check-up |
 
 Every event is a proposal until the lab confirms it. Details, and who each event is for: [launch dates and events](docs/events.md).
@@ -39,8 +40,9 @@ Why this long? The listening phase runs over the winter holidays, and posts can 
 
 | Dates | Step |
 |---|---|
-| Nov 23 to Nov 29 | Set up: create the issues and labels, name maintainers, ask the lab for site approval |
+| Nov 23 to Nov 29 | Set up: create the issues and labels, name interim maintainers, ask the lab for site approval |
 | Nov 30 to Dec 6 | Soft launch: invite people at the lab first, so the first sketches and comments are in place. Meet Swapatron drop-in on Thu Dec 3 |
+| Mon Nov 30 | The [founding team](docs/founding-team.md) call opens to invited people. It opens to everyone on Dec 7 and closes Sun Jan 10 |
 | From Mon Dec 7 | Public launch: share widely, using the [share kit](docs/share-kit.md). Draw Swapatron sketch day on Sat Dec 12 |
 | Thu Jan 7 | "This won't work because..." night |
 | Sun Jan 10 | Listening closes |
@@ -85,7 +87,7 @@ Supplies that any design will need, such as anti-static bags and desiccant, can 
 |---|---|
 | Week of Apr 5 | Call 811 to have underground lines marked before any digging |
 | Sat Apr 10 | Install day. Backup date: Sat Apr 17 |
-| Sat Apr 24 | Opening day, with food trucks and a celebration. The box is stocked and the rota starts |
+| Sat Apr 24 | Opening day, with food trucks, a celebration, and a technology petting zoo. The box is stocked and the rota starts |
 
 ## Phase 6: Look after it (from Apr 24, 2027)
 

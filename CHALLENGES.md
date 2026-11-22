@@ -32,6 +32,8 @@ We are not pretending these are solved. Each one needs someone smarter than a hu
 | The lab or the property owner might say no | Unsolved | Ask early, in writing, and design around what they need |
 | Volunteers lose interest after the launch | Unsolved | Small jobs, quick thanks, and a review every 90 days |
 | It will cost money nobody has | Unsolved | Donated materials first. No bill should land on one person |
+| An event full of kids and strangers is a safety risk | Unsolved | Parents stay, keepers work in pairs, written rules, and a review by someone who works with kids. See Decision 18 |
+| The founding team will be the same three people doing everything | Unsolved | Twelve small roles, a buddy for each, two people per role, and a review at 90 days |
 
 See one that is wrong, or missing? [Add yours](../../issues/new?template=wont-work.yml).
 
