@@ -1,12 +1,12 @@
 name: Count me in
-description: We are gathering people for the first meetup. Say you are interested. Nothing is decided yet.
+description: Say you are interested in the first meetup. You can start contributing now too. Nothing is decided yet.
 title: "Count me in: "
 labels: ["gathering"]
 body:
   - type: markdown
     attributes:
       value: |
-        Right now we are gathering people. The first meetup is proposed for a Wednesday evening, January 13, 2027, online or in person. The format, the time, and the place are not set. This form just says "I would like to hear when it is." Everything here is public, so please do not post your address, phone number, or email.
+        You can start contributing right now, with no gates. This form is just for people who want to hear about the first meetup. It is proposed for a Wednesday evening, January 13, 2027, online on the Mutiny19 Discord. The time is not set, and nothing is confirmed. This form just says "I would like to hear when it is." Everything here is public, so please do not post your address, phone number, or email.
   - type: checkboxes
     id: who
     attributes:
@@ -33,9 +33,9 @@ body:
     attributes:
       label: How would you like to join the first meetup?
       options:
-        - "Online"
-        - "In person, in Fishers"
-        - "Either"
+        - "Online, on Discord"
+        - "Online, but not on Discord"
+        - "In person, in Fishers, if there is a way"
         - "I do not know yet"
     validations:
       required: true

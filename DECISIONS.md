@@ -48,6 +48,9 @@ These are proposals too, but they are about safety, so they need review by the s
 - No loose lithium cells in the outdoor box
 - No battery charging in the outdoor box
 - No collection of used or damaged batteries
+
+These three rules are about parts that visitors leave. Whether the box may hold its own sealed battery, charged by a solar panel, is a separate open question. It needs its own `rfc` and review by a qualified person. See [integrations/solar](integrations/solar/README.md).
+
 - Any camera or lock needs its own review before it is built
 - At events, children stay with a parent or guardian, and no adult is ever alone with someone else's child
 - No soldering irons, hot tools, or loose lithium cells at the technology petting zoo

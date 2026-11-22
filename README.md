@@ -6,7 +6,7 @@
 
 Meet Swapatron. It is a box. It eats spare electronics parts, and it gives them to whoever needs them next.
 
-> **Nothing is decided yet.** Swapatron has not hatched. Its shape, its rules, its name, and its dates are all open. **Right now we are gathering people.** The first meetup is proposed for a Wednesday evening, **January 13, 2027**, online or in person. Until then, [count yourself in](../../issues/new?template=count-me-in.yml) or [join the founding team call](docs/founding-team.md). Ideas are welcome from the first meetup on. [Have your say](docs/have-your-say.md).
+> **Nothing is decided yet.** Swapatron has not hatched. Its shape, its rules, its name, and its dates are all open. **You can start contributing right now. Nothing holds it back.** We are also gathering people, and the first meetup is proposed for a Wednesday evening, **January 13, 2027**, online on the Mutiny19 Discord. [Start here](docs/start-here.md), [count yourself in](../../issues/new?template=count-me-in.yml), or [join the founding team call](docs/founding-team.md).
 
 ## The idea
 
@@ -24,6 +24,21 @@ You feed it the parts in your drawer. It passes them on to someone who will buil
 
 - **New to electronics?** Swapatron shares. Take free parts, with a note on what each one is and what to build first.
 - **Been building for years?** Swapatron is hungry. Feed it your spare parts, and start someone off with what you know.
+
+## Six open doors
+
+**Start right now. No gates, no dates, no permission.** Almost nothing is built, so every door is open. Each one has a first step that takes about fifteen minutes. [Start here](docs/start-here.md).
+
+| Door | What you do |
+|---|---|
+| 1. **Point your AI at it** | Paste one line into your AI assistant and let it help you contribute. [How](docs/ai-contribute.md) |
+| 2. **Add to the ask list** | Say what you need for a project, or fill someone's ask. [Asks](ASKS.md) |
+| 3. **Start a drawing** | Sketch the box, a part of it, or the site. [Drawings wanted](hardware/designs/WANTED.md) |
+| 4. **Start UI and UX** | Design how people find and use the box. [Screens wanted](ux/WANTED.md) |
+| 5. **Design an IoT integration** | Cameras, inventory, solar, safety, security, and discovery. [Integrations](integrations/README.md) |
+| 6. **Fill the kit wishlist** | Pledge or lend parts that contributors need to prototype. [Kits](bom/KITS.md) |
+
+You do not have to build any of it. These doors are for starting.
 
 ## Help shape it
 
@@ -63,8 +78,8 @@ See everyone on the [Contributors Wall](CONTRIBUTORS.md), and [how to get your n
 
 | When | What |
 |---|---|
-| Now to Jan 13, 2027 | **Gathering people.** [Count yourself in](../../issues/new?template=count-me-in.yml) and the [founding team](docs/founding-team.md) call is open. Nothing else happens yet |
-| Wed Jan 13, 2027 | **Meet Swapatron**, the first meetup, virtual or otherwise, on a Wednesday evening. Nothing is built yet, so come meet the idea and the people. The founding team kickoff and the start of listening |
+| Now to Feb 21, 2027 | **Open now.** [Start contributing](docs/start-here.md), [count yourself in](../../issues/new?template=count-me-in.yml), and the [founding team](docs/founding-team.md) call is open. No events until the first meetup |
+| Wed Jan 13, 2027 | **Meet Swapatron**, the first meetup, on the Mutiny19 Discord, on a Wednesday evening. Nothing is built yet, so come meet the idea and the people. The founding team kickoff and the start of listening |
 | Sat Jan 30, 2027 | **Draw Swapatron**, a sketch day for all ages |
 | Thu Feb 18, 2027 | **"This won't work because..." night**. Listening closes Sun Feb 21 |
 | Feb 22 to Mar 14, 2027 | Decide, in the open. **Decision night** on Thu Mar 4 |
@@ -91,11 +106,13 @@ Good. [Tell Swapatron to its face](CHALLENGES.md). Every "this won't work becaus
 | [CHALLENGES.md](CHALLENGES.md) | Every reason this might not work, and how we plan to beat it |
 | [DECISIONS.md](DECISIONS.md) | Every open question, and how decisions get made |
 | [ROADMAP.md](ROADMAP.md) | The proposed timeline in full |
+| [docs/start-here.md](docs/start-here.md) and [docs/ai-contribute.md](docs/ai-contribute.md) | The six open doors, and how to point your AI at the project |
+| [integrations/](integrations/README.md) and [bom/KITS.md](bom/KITS.md) | Camera, inventory, solar, safety, security, and discovery briefs, and the kit wishlist |
 | [docs/founding-team.md](docs/founding-team.md) | The founding team roles, and how to apply |
 | [docs/petting-zoo.md](docs/petting-zoo.md) and [docs/swapatron-speak.md](docs/swapatron-speak.md) | The technology petting zoo, and a field guide to IoT lingo |
 | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Draft code of conduct, including rules for kids |
 | [docs/your-swapatron.md](docs/your-swapatron.md) | Hatch a Swapatron in your own town |
-| [docs/events.md](docs/events.md) | Launch dates and events. Nothing happens before the first meetup |
+| [docs/events.md](docs/events.md) | Launch dates and events. No events before the first meetup |
 | [BOUNTIES.md](BOUNTIES.md) | Jobs with points, levels, and badges |
 | [ASKS.md](ASKS.md) | Ask for a part, or fill someone else's ask |
 | [bom/](bom/README.md) | The draft wishlist of materials |

@@ -27,15 +27,16 @@ People: you can paste this to your assistant: "Read AGENTS.md in github.com/Fish
 7. [ASKS.md](ASKS.md): how people request parts and how others fill those requests
 8. [CONTRIBUTING.md](CONTRIBUTING.md): how contributions work
 9. [docs/founding-team.md](docs/founding-team.md), [docs/petting-zoo.md](docs/petting-zoo.md), [docs/swapatron-speak.md](docs/swapatron-speak.md), [docs/your-swapatron.md](docs/your-swapatron.md), and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
-10. The team page for the work at hand: [hardware/](hardware/README.md), [electronics/](electronics/README.md), [software/](software/README.md), or [ux/](ux/README.md)
+10. [docs/start-here.md](docs/start-here.md), [docs/ai-contribute.md](docs/ai-contribute.md), [integrations/](integrations/README.md), [bom/KITS.md](bom/KITS.md), [hardware/designs/WANTED.md](hardware/designs/WANTED.md), and [ux/WANTED.md](ux/WANTED.md): the six open doors and what is wanted at each
+11. The team page for the work at hand: [hardware/](hardware/README.md), [electronics/](electronics/README.md), [software/](software/README.md), or [ux/](ux/README.md)
 
 ## Proposed timeline
 
 | Phase | Proposed dates |
 |---|---|
-| Gather people, and recruit the founding team | Now to Wed Jan 13, 2027 (the call closes Sun Jan 10). No events |
-| First meetup, virtual or otherwise | Wed Jan 13, 2027, evening |
-| Listen | Jan 13 to Sun Feb 21, 2027 |
+| Open now: contributions, gathering people, and the founding team call | Now. The call closes Sun Jan 10, 2027. No events yet |
+| First meetup, proposed for the Mutiny19 Discord | Wed Jan 13, 2027, evening |
+| Listen and contribute | Now to Sun Feb 21, 2027 |
 | Decide | Feb 22 to Mar 14, 2027 |
 | Gather materials | Mar 15 to Apr 25, 2027 |
 | Build day | Sat May 1, 2027 |
@@ -43,7 +44,7 @@ People: you can paste this to your assistant: "Read AGENTS.md in github.com/Fish
 
 Check [ROADMAP.md](ROADMAP.md) for the current version. Dates may have moved since this file was written.
 
-Nothing happens before the first meetup on Wed Jan 13, 2027 (virtual or otherwise), except gathering people. Events are listed in [docs/events.md](docs/events.md). Tell people an event is happening only if its status there says "Confirmed". Never imply there is a box to see before it is built. At the first meetup there is nothing built to meet. Do not tell anyone to drop off or ship parts yet, and do not invite anyone to an event before the first meetup.
+Contributing is open now, with no gates and no dates. No events are planned before the first meetup on Wed Jan 13, 2027 (proposed for the Mutiny19 Discord). Do not invent a Discord invite link. Events are listed in [docs/events.md](docs/events.md). Tell people an event is happening only if its status there says "Confirmed". Never imply there is a box to see before it is built. At the first meetup there is nothing built to meet. Do not tell anyone to drop off or ship parts yet, and do not invite anyone to an event before the first meetup.
 
 ## Where you can help most
 
@@ -58,6 +59,11 @@ Nothing happens before the first meetup on Wed Jan 13, 2027 (virtual or otherwis
 | Design electronics | Draft a power budget, a schematic outline, or firmware, and flag every assumption |
 | Join the founding team | Help them pick a role from `docs/founding-team.md` and draft a short answer for the form in their own voice. Remind them applicants must be 18 or older |
 | Lend a critter | Help them describe the gadget for the petting zoo form, including power, radio, and kid safety. Never help anyone hide a safety concern |
+| Start from scratch | Read `docs/start-here.md`, ask three questions, then suggest one door and one small first step. Remind them nothing is decided and they do not have to build anything |
+| Draw a view | Pick one from `hardware/designs/WANTED.md`, produce a simple SVG or a sketch brief, and label every assumption |
+| Design a screen | Use `ux/WANTED.md` and the screen brief template. Phone first, no login, plain words |
+| Start an integration brief | Use `integrations/_template/README.md` and the track README. Start with the simplest version and the risks. Anything involving a camera, lock, battery, or children needs an `rfc` and a qualified human reviewer. Never present a design as safe |
+| Fill the kit wishlist | Match what they own to `bom/kits.csv` and help them write a pledge. Do not invent part numbers or prices |
 | Learn GitHub | Walk them through each tap. See `docs/have-your-say.md` and `docs/learn-github.md` |
 | Fix the docs | Find confusing or contradictory text and propose plain-language fixes |
 
@@ -112,8 +118,16 @@ For batteries, electrical design, and anything structural, tell the person that 
 
 The project is share-alike: CERN-OHL-S-2.0 for hardware, AGPL-3.0-or-later for software, and CC-BY-SA-4.0 for docs and artwork. See [LICENSE.md](LICENSE.md). Do not add material you can not license this way, such as copied code, images, or text from sources with incompatible terms. Do not change a license.
 
+## What your human must do
+
+- Show them every issue, comment, or pull request before it is posted
+- Tell them to say "AI-assisted" at the top of anything you helped with
+- Remind them they must be able to license it share-alike
+- Remind them a qualified person must review anything about batteries, electricity, structure, locks, cameras, or children before it is built
+
 ## What not to do
 
+- Do not claim a design is safe. You can draft. You can not sign off
 - Do not open issues, pull requests, or comments on a person's behalf without showing them the text first.
 - Do not mark anything as decided.
 - Do not add dependencies, services, or costs without an `rfc` issue.

@@ -16,7 +16,7 @@ Once the issues exist, you can delete this file.
 | Review the draft code of conduct, and set up a private way to report problems | `docs`, `needs owner` |
 | Plan the technology petting zoo: habitats, keepers, and critters to lend | `event`, `needs owner` |
 | Recruit the founding team (the call is open now and closes Jan 10) | `founding-team`, `needs owner` |
-| Gather people for the first meetup on Wed Jan 13, 2027 (virtual or otherwise) | `event`, `needs owner` |
+| Gather people for the first meetup on Wed Jan 13, 2027 (proposed for the Mutiny19 Discord) | `event`, `needs owner` |
 | Wishlist: anti-static bags, zip bags, desiccant, labels (standing issue) | `supplies` |
 | Power budget for solar, battery, and LED lighting | `electronics`, `needs owner` |
 | Pick a battery chemistry and enclosure for outdoor temperatures | `electronics`, `rfc` |

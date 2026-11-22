@@ -2,13 +2,13 @@
 
 > **Every date here is a proposal.** None of these events is confirmed with the Indiana IoT Lab yet. Times will be added when they are. Please do not travel for an in-person event until its row says "Confirmed".
 
-**Until the first meetup, nothing happens.** We are only gathering people. The first meetup is proposed for a Wednesday evening, January 13, 2027, and it can be virtual, in person, or both. Online events are on a video call, and the link will be posted on the event's issue once it is confirmed. In-person events are proposed for the Indiana IoT Lab, 9059 Technology Lane, Fishers, Indiana. All events are free, and you do not need to know anything to come.
+**Contributing is open now, with no gates and no dates.** These are the dates for meetups and decisions. No events are planned before the first meetup, which is proposed for a Wednesday evening, January 13, 2027, online on the Mutiny19 Discord. Later online events are proposed to be there too, and the link will be posted on each event's issue once it is confirmed. In-person events are proposed for the Indiana IoT Lab, 9059 Technology Lane, Fishers, Indiana. All events are free, and you do not need to know anything to come.
 
 ## The schedule
 
 | Date | Event | What happens | Status |
 |---|---|---|---|
-| Wed Jan 13, 2027 | **Meet Swapatron** (the first meetup) | The founding team kickoff, and the start of everything, on a Wednesday evening. **There is no box yet, and nothing will be built.** Swapatron is still an egg. Come meet the idea and the people, look at the example sketches, and get help making your first GitHub comment. See [the founding team](founding-team.md) | Proposed. Format, time, and place not set |
+| Wed Jan 13, 2027 | **Meet Swapatron** (the first meetup) | The founding team kickoff, and the start of everything, on a Wednesday evening. **There is no box yet, and nothing will be built.** Swapatron is still an egg. Come meet the idea and the people, look at the example sketches, and get help making your first GitHub comment. See [the founding team](founding-team.md) | Proposed. Online, on the Mutiny19 Discord. Time not set. Invite link to be added |
 | Sat Jan 30, 2027 | **Draw Swapatron** | A sketch day for all ages. Paper, pencils, and [design sheets](../hardware/designs/template-blank.svg). Every sketch gets posted. Online or in person | Proposed |
 | Thu Feb 18, 2027 | **"This won't work because..." night** | Bring your doubts. We write every one on the wall and work out how to beat it | Proposed |
 | Sun Feb 21, 2027 | Listening closes (online) | Last day for ideas and sketches for the first box | Proposed |
@@ -45,6 +45,15 @@ To hear when events are confirmed, tap **Watch** at the top of the project page.
 
 - Design sheets and pencils
 - A place to drop off parts for the box, once the lab confirms drop-offs
+
+## Where online events happen
+
+The proposal is the Mutiny19 Discord, a community that already exists. Before the first meetup, the maintainers add the invite link here. Until then, please do not share a link you were not given.
+
+- You need a free Discord account. Discord requires users to be 13 or older, so younger kids can not join on their own account. How under-13 understudies take part online is an open question. See [Decision 18](../DECISIONS.md)
+- Decisions are made in writing on GitHub, in the open. Discord is for talking, not for deciding. Anything decided in a chat is written up in an issue
+- The Discord server's own rules apply, and so does our [code of conduct](../CODE_OF_CONDUCT.md)
+- Proposed: a dedicated Swapatron channel for the event, so nobody has to wade through the rest of the server
 
 ## At online events
 

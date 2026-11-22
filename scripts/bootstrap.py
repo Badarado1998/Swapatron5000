@@ -38,6 +38,9 @@ LABELS = {
     "electronics": ("FEF2C0", "Power, sensors, radios"),
     "software": ("D4C5F9", "Inventory, alerts, forms"),
     "docs": ("C2E0C6", "Writing, signs, drawings, the tutorial"),
+    "brief": ("C5DEF5", "A small start on a drawing, a screen, an integration, or a kit"),
+    "integration": ("FEF2C0", "Cameras, inventory, solar, safety, security, discovery"),
+    "ai-assisted": ("EDEDED", "An AI helped, and a human checked it"),
     "gathering": ("0E8A16", "Someone saying they would like to join the first meetup"),
     "founding-team": ("5319E7", "Applying for, or discussing, a founding team role"),
     "network": ("0E8A16", "Boxes in other towns and how they connect"),
@@ -113,7 +116,7 @@ def build_issues():
             f"Decision {num}: {question}", ["decision"],
             f"{NOTHING_DECIDED}\n\n**Question {num} in [DECISIONS.md]({BLOB}/DECISIONS.md):** {question}\n\n"
             f"**Status:** {LINK_RE.sub(r'\\1', status)}\n\n"
-            "Comments are open from the first meetup on January 13 until Sunday, February 21, 2027. Maintainers post a proposed answer "
+            "Comments are open now, and until Sunday, February 21, 2027. Maintainers post a proposed answer "
             "between February 22 and 28, and final comments close March 14. Tell us what you think, "
             "even if it is just a thumbs up or a thumbs down on the question."))
 
@@ -124,6 +127,29 @@ def build_issues():
             f"Swapatron heard this one and is not scared.\n\n**First thoughts:** {first}\n\n"
             "Pile on. What makes this worse than we think? What would fix it? You do not need a solution. "
             f"Spotting the problem earns a point. See [CHALLENGES.md]({BLOB}/CHALLENGES.md)."))
+
+    # Six doors
+    for cells in table_rows("docs/start-here.md", "## The six doors"):
+        door, what, first, where = cells[:4]
+        door = door.strip("* ")
+        items.append(issue(
+            f"Door {door}", ["brief"],
+            f"{NOTHING_DECIDED}\n\n**This is the claim thread for this door.** Comment to say what you are taking, "
+            "so nobody does the same thing twice. More than one person can work on the same thing.\n\n"
+            f"**What you do:** {what}\n\n**First 15 minutes:** {LINK_RE.sub(r'\\1', first)}\n\n"
+            f"Start here: [start-here.md]({BLOB}/docs/start-here.md). "
+            f"Or [start a brief](https://github.com/{REPO}/issues/new?template=start-a-brief.yml)."))
+
+    # Integration tracks
+    for cells in table_rows("integrations/README.md", "## The tracks"):
+        track, goal, status = cells[:3]
+        track = track.strip("* ")
+        items.append(issue(
+            f"Integration: {track}", ["integration"],
+            f"{NOTHING_DECIDED}\n\n**Goal:** {goal}\n\n**Status:** {status}\n\n"
+            "This is the thread for this track. Comment with a first idea, a risk, or a question. "
+            "Anything with a battery, a lock, a camera, or structure needs review by a qualified person before it is built.\n\n"
+            f"Overview: [integrations/README.md]({BLOB}/integrations/README.md)."))
 
     # Founding team roles
     for cells in table_rows("docs/founding-team.md", "## The roles"):

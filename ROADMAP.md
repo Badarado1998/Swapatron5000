@@ -4,12 +4,12 @@
 
 ## The proposed timeline at a glance
 
-**Until the first meetup, we are only gathering people.** Nothing else starts before Wednesday, January 13, 2027.
+**You can contribute right now.** Nothing holds that back: no gates and no dates. The dates below are for meetups, events, and decisions. The first meetup is Wednesday, January 13, 2027 (proposed), and until then we are gathering people while contributions come in.
 
 | Phase | Proposed dates | What happens | How you can help |
 |---|---|---|---|
-| 0. Gather people | Now to Wed Jan 13, 2027 | We collect people and recruit the founding team. No events | [Count yourself in](https://github.com/Fishers-Founders-United/Swapatron5000/issues/new?template=count-me-in.yml), or [apply to the founding team](docs/founding-team.md) |
-| 1. Listen | Wed Jan 13 to Sun Feb 21, 2027 | We collect ideas, sketches, and concerns | Share a sketch, answer an open question, tell a friend |
+| 0. Gather people | Now to Wed Jan 13, 2027 | We collect people and recruit the founding team. Contributions are open. No events yet | [Count yourself in](https://github.com/Fishers-Founders-United/Swapatron5000/issues/new?template=count-me-in.yml), or [apply to the founding team](docs/founding-team.md) |
+| 1. Listen and contribute | Now to Sun Feb 21, 2027 (first meetup Wed Jan 13) | We collect ideas, sketches, and concerns | Share a sketch, answer an open question, tell a friend |
 | 2. Decide | Mon Feb 22 to Sun Mar 14, 2027 | We summarize what we heard, propose decisions, and take final comments | Read the summary and comment |
 | 3. Gather materials | Mon Mar 15 to Sun Apr 25, 2027 | We collect every item on the wishlist | Pledge or drop off materials |
 | 4. Build | Sat May 1, 2027 | Build day, indoors at the lab | Come and build |
@@ -19,7 +19,7 @@
 
 ## Dates and events
 
-The first meetup is on a Wednesday evening, and it can be virtual, in person, or both. Nothing happens before it, except gathering people.
+The first meetup is on a Wednesday evening, proposed for the Mutiny19 Discord. No events are planned before it. Contributing online is open the whole time.
 
 | Date | Event |
 |---|---|
@@ -39,7 +39,7 @@ Why this long? We start in January, and then listening, deciding, gathering, and
 
 ## Phase 0: Gather people (now to Jan 13, 2027)
 
-**Goal:** a room full of people, virtual or otherwise, on the first night.
+**Goal:** a room full of people on the first night.
 
 | Dates | Step |
 |---|---|
@@ -47,22 +47,23 @@ Why this long? We start in January, and then listening, deciding, gathering, and
 | Now to Sun Jan 10 | The [founding team](docs/founding-team.md) call is open. Applications and replies happen in writing, on GitHub |
 | Now to Wed Jan 13 | People [count themselves in](https://github.com/Fishers-Founders-United/Swapatron5000/issues/new?template=count-me-in.yml). Invite friends, makers, teachers, and neighbors, using the [share kit](docs/share-kit.md) |
 | Sun Jan 10 | The founding team is named |
-| Wed Jan 13 | **Meet Swapatron.** The first meetup. The format, time, and place are set by then |
+| Wed Jan 13 | **Meet Swapatron.** The first meetup, proposed for the Mutiny19 Discord. The time is set and the invite link is posted by then |
 
-No meetings and no events happen before Jan 13. The only things open are the founding team call and the "count me in" form.
+No meetings and no events are planned before Jan 13. Contributing is open now: [six doors](docs/start-here.md), including drawings, UI and UX, IoT integration briefs, asks, and the kit wishlist.
 
-## Phase 1: Listen (Jan 13 to Feb 21, 2027)
+## Phase 1: Listen and contribute (now to Feb 21, 2027)
 
 **Goal:** hear from as many people as possible before anything is chosen.
 
 | Dates | Step |
 |---|---|
-| Wed Jan 13 | Meet Swapatron: the first meetup and the start of listening |
+| Now | Contributions are open. Sketches, briefs, asks, and ideas are all welcome |
+| Wed Jan 13 | Meet Swapatron: the first meetup |
 | Sat Jan 30 | Draw Swapatron: sketch day |
 | Thu Feb 18 | "This won't work because..." night |
 | Sun Feb 21 | Listening closes |
 
-That is about five weeks of listening. If turnout is thin, the close date should move back, and every later date with it.
+That is about three months of listening, with the first meetup in the middle. If turnout is thin, the close date should move back, and every later date with it.
 
 - Design sketches are open
 - Open questions are posted as issues (see [DECISIONS.md](DECISIONS.md))

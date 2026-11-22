@@ -6,6 +6,8 @@ We build the software that helps people run the box: what is in it, what it need
 
 Nothing is built yet. This page is the starting brief. The architecture is yours to propose.
 
+Inventory, discovery, and security briefs live in [integrations/](../integrations/README.md). Start there.
+
 ## What the system should do
 
 | Feature | What it means | Phase |

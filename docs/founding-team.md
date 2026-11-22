@@ -12,9 +12,9 @@ The founding team is a small group of volunteers who each look after one part of
 
 | When | What |
 |---|---|
-| Now | The call is open. Applications and replies happen in writing, in the open, on GitHub. No meetings before the first meetup |
+| Now | The call is open. Applications and replies happen in writing, in the open, on GitHub. No meetings before the first meetup. The rest of the project is open to contribute to now |
 | Sun Jan 10, 2027 | The call closes, and the founding team is named |
-| Wed Jan 13, 2027, evening | **Meet Swapatron: the first meetup and the founding team kickoff.** Virtual or otherwise. The official start of the work. Format, time, and place to be set |
+| Wed Jan 13, 2027, evening | **Meet Swapatron: the first meetup and the founding team kickoff.** Proposed to be virtual, on the Mutiny19 Discord. The official start of the work. Time to be set |
 
 Late applicants are still welcome, but may miss the first group. The team is named in the open, with its reasons.
 

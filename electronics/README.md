@@ -20,6 +20,8 @@ We add power, light, and sensing to the box. This is Phase 5 work, but planning 
 | Sensor node | Temperature, humidity, and a door switch | Needs owner |
 | Radio link | Sends sensor data out. Lab Wi-Fi or LoRa | Needs a decision |
 
+The detailed briefs for power, safety, and radio live in [integrations/](../integrations/README.md). Start there.
+
 ## Open questions
 
 1. How much power does the whole thing need per day? We need a power budget before picking a panel and battery.

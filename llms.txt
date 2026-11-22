@@ -18,6 +18,10 @@ The full briefing for AI assistants is AGENTS.md in the repository. Read it befo
 - [ASKS.md](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/ASKS.md): how people request parts and how others fill requests
 - [VISION.md](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/VISION.md): the long-term dream, not a plan
 - [BOUNTIES.md](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/BOUNTIES.md): jobs with points attached
+- [Start here: six open doors](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/docs/start-here.md): the ways to start contributing now
+- [Point your AI at the project](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/docs/ai-contribute.md): prompts for each door
+- [IoT integrations](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/integrations/README.md): camera, inventory, solar, safety, security, discovery
+- [Kit wishlist](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/bom/KITS.md): bench kits for contributors
 - [Founding team](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/docs/founding-team.md): roles and how to apply
 - [Technology petting zoo](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/docs/petting-zoo.md): the proposed hands-on zoo for hatching day
 - [Swapatron-speak](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/docs/swapatron-speak.md): IoT lingo in plain English

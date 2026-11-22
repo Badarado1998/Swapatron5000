@@ -8,6 +8,8 @@ Drawings of the box live here. Nothing in this folder is the chosen design. Ever
 
 [example-concept/concept-front.svg](example-concept/concept-front.svg) is one idea, drawn to get the conversation going. Copy it, change it, or ignore it.
 
+Looking for something to draw? See [WANTED.md](WANTED.md).
+
 ## Four ways to contribute a drawing
 
 | Way | How | You need |

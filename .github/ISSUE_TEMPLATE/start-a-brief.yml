@@ -1,0 +1,57 @@
+name: Start a brief
+description: Start a drawing, a screen, an integration idea, or a kit. Small is good. Nothing is decided.
+title: "Brief: "
+labels: ["brief"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A brief is a short note that says "I would like to look at this." You do not have to build anything. A sentence is enough, and so is "I think we should not do this, and here is why." Please do not post an address, phone number, or email.
+  - type: dropdown
+    id: track
+    attributes:
+      label: Which door?
+      options:
+        - "Drawing"
+        - "UI and UX"
+        - "Integration: camera"
+        - "Integration: inventory"
+        - "Integration: solar and power"
+        - "Integration: safety"
+        - "Integration: security"
+        - "Integration: discovery"
+        - "Kit wishlist"
+        - "Ask list"
+        - "Something else"
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to look at?
+      description: One or two sentences is plenty.
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: What could go wrong? (optional)
+      description: Safety, privacy, cost, upkeep. Blunt is good.
+  - type: dropdown
+    id: ai
+    attributes:
+      label: Did an AI help you with this?
+      options:
+        - "No"
+        - "Yes, and I checked what it wrote"
+    validations:
+      required: true
+  - type: checkboxes
+    id: agree
+    attributes:
+      label: Before you post
+      options:
+        - label: I understand that anything about batteries, electricity, locks, cameras, children, or structure needs a qualified person to review it before it is built
+          required: true
+        - label: I can share this under the project's share-alike licenses
+          required: true

@@ -22,6 +22,21 @@ Never used GitHub? [How to have your say](docs/have-your-say.md) shows you where
 - Asks for what you will use: a handful, not a hundred
 - Says what it is for. People love helping a real project
 
+## Start the ask list
+
+The list starts empty, and it is yours to start. Asking is open now.
+
+Good first asks:
+
+- **Something small for a project you are doing.** One sensor, one cable, one connector
+- **A part for a kid's project.** A parent can post it, and no ages or names are needed
+- **A part you need to test a design.** See the [kit wishlist](bom/KITS.md) for the bench parts contributors need
+- **A part you can not find locally.** Say what you tried
+
+Please do not post an address, a phone number, an email, or a child's name or age.
+
+Your AI can help you word it. See [ai-contribute.md](docs/ai-contribute.md).
+
 ## How to fill an ask
 
 Browse the [open asks](../../issues?q=is%3Aissue+is%3Aopen+label%3Aask). When you can help, choose one of two ways.
@@ -33,7 +48,7 @@ Browse the [open asks](../../issues?q=is%3Aissue+is%3Aopen+label%3Aask). When yo
 3. Put it in the box.
 4. Comment again: "It's in the box."
 
-Until the box is built, parts go to the lab instead. **Please do not drop anything off yet.** Nothing happens before the first meetup, and drop-off details will be posted here once the lab confirms.
+Until the box is built, parts go to the lab instead. **Please do not drop anything off yet.** Asking is open now. Physical drop-off will be posted here once the lab confirms.
 
 ### Way 2: Order it and have it delivered
 

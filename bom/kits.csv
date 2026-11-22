@@ -1,0 +1,29 @@
+item,category,qty_needed,qty_pledged,status,pledged_by,buy_link,notes
+"Small camera module or board, any kind, for bench tests only",Camera bench kit,,0,needed,,,Lets someone test whether a camera is even needed
+Microcontroller or small computer to run it,Camera bench kit,,0,needed,,,"Bench test, not for the box"
+Physical cover or shutter,Camera bench kit,,0,needed,,,"To test an off-by-default, switch-off design"
+Load cell and amplifier board,Inventory kit,,0,needed,,,To test weight-based counting
+Door switch (reed or hall type),Inventory kit,,0,needed,,,To test door-open counting
+Sticky label sheets and a way to print QR codes,Inventory kit,,0,needed,,,To test took-and-left labels
+"Small solar panel, bench size",Power bench kit,,0,needed,,,"For a power budget, measured not guessed"
+Charge controller board,Power bench kit,,0,needed,,,Bench test only. Any battery use needs expert review first
+USB power meter or logger,Power bench kit,,0,needed,,,To measure what a device really uses
+Temperature data logger,Power bench kit,,0,needed,,,To see how cold and hot a closed box gets
+"Temperature and humidity sensors, a few different kinds",Safety sensor kit,,0,needed,,,To compare them
+Water leak sensor,Safety sensor kit,,0,needed,,,To test leak alerts
+Tilt or vibration sensor,Safety sensor kit,,0,needed,,,To test tamper and tip-over alerts
+Low voltage latch or servo,Security bench kit,,0,needed,,,To test lock ideas on a bench. A lock needs an rfc before it goes in the box
+Tamper switch,Security bench kit,,0,needed,,,To test tamper alerts
+Pair of long range radio boards (LoRa or mesh),Discovery kit,,0,needed,,,For range tests between a box and a gateway
+"Spare Wi-Fi dev boards, a few",Discovery kit,,0,needed,,,To test devices finding each other
+Small computer or Wi-Fi dev board to act as the gateway,Gateway kit,,0,needed,,,The box's link to the wider network
+Memory cards and USB power supplies,Gateway kit,,0,needed,,,For gateway tests
+"Anti-static bags, zip bags, desiccant packs",Visitor starter kit,,0,needed,,,For the starter kits that visitors take home
+"Printed cards: what is it, and what to build first",Visitor starter kit,,0,needed,,,So a beginner is never lost
+Sticker sheets,Visitor starter kit,,0,needed,,,"For kids, and for the Contributors Wall"
+Large-button demo boards and lights,Petting zoo kit,,0,needed,,,Friendly things to poke
+"Power strips with surge protection, and cable ties",Petting zoo kit,,0,needed,,,Host must agree to outlets first
+Printed habitat signs,Petting zoo kit,,0,needed,,,See the technology petting zoo
+Multimeters to lend,Contributor bench kit,,0,needed,,,So more people can measure things
+"Assorted USB cables, jumper wires, and breadboards",Contributor bench kit,,0,needed,,,The basics
+"Printed design sheets, pencils, tracing paper",Drawing kit,,0,needed,,,For sketch days and for anyone who asks

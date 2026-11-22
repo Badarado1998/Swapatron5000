@@ -2,12 +2,15 @@
 
 Everyone is welcome, including people who have never used GitHub. If that is you, start with [How to have your say](docs/have-your-say.md), then take the [15 minute tour](docs/learn-github.md).
 
-**Nothing about the box is decided yet.** Right now we are gathering people. The listening phase opens at the first meetup on Wednesday, January 13, 2027, and runs until Sunday, February 21, 2027. See [DECISIONS.md](DECISIONS.md) and the [timeline](ROADMAP.md).
+**Nothing about the box is decided yet.** **You can start right now. No gates, no dates.** [Start here](docs/start-here.md) shows six open doors. The listening phase runs until Sunday, February 21, 2027, and the first meetup is proposed for Wednesday, January 13, 2027. See [DECISIONS.md](DECISIONS.md) and the [timeline](ROADMAP.md).
 
 ## Ways to contribute
 
 Everyone follows the draft [code of conduct](CODE_OF_CONDUCT.md).
 
+- **Point your AI at it.** [ai-contribute.md](docs/ai-contribute.md) has a one-line prompt for each door.
+- **Start an IoT integration brief.** Camera, inventory, solar, safety, security, or discovery. See [integrations/](integrations/README.md).
+- **Fill the kit wishlist.** See [bom/KITS.md](bom/KITS.md).
 - **Share a design sketch.** A photo of a pencil drawing is welcome. See [hardware/README.md](hardware/README.md).
 - **Join the founding team.** Twelve small roles, and beginners are welcome. See [docs/founding-team.md](docs/founding-team.md).
 - **Join a team.** Box design, electronics, box management software, or UI and UX. See the table in the [README](README.md).

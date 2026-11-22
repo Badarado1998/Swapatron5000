@@ -46,7 +46,7 @@ A free GitHub account. Go to github.com and tap **Sign up**. You need an email a
 
 ## Rather talk to a person?
 
-See the [proposed events](events.md). Nothing happens before the first meetup, and every event will have a help desk where a person shows you how to make your first contribution.
+See the [proposed events](events.md). No events are planned before the first meetup, and every event will have a help desk where a person shows you how to make your first contribution.
 
 ## Want to learn more GitHub?
 

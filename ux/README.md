@@ -14,6 +14,8 @@ We make the box easy to find, easy to use, and easy to understand. You do not ne
 | A first time GitHub user | To make a first contribution without feeling lost |
 | A steward | To know quickly whether the box needs attention |
 
+Looking for a screen to start? See [WANTED.md](WANTED.md).
+
 ## What needs designing
 
 | Thing | Notes | Status |

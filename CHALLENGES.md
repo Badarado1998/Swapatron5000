@@ -28,7 +28,7 @@ We are not pretending these are solved. Each one needs someone smarter than a hu
 | Batteries are a fire risk | Unsolved | Proposed: no loose lithium cells and no charging in the outdoor box |
 | Beginners will not know what the parts are | Unsolved | A card in every bag: what it is, and what to build first |
 | Nobody new will use GitHub | Unsolved | The box and the web page come first. GitHub comes later, with a two minute guide |
-| Kids under 13 can not have GitHub accounts | Unsolved | They take part with an adult. Needs a better answer |
+| Kids under 13 can not have GitHub or Discord accounts | Unsolved | They take part with an adult. Needs a better answer. See Decision 18 |
 | The lab or the property owner might say no | Unsolved | Ask early, in writing, and design around what they need |
 | Volunteers lose interest after the launch | Unsolved | Small jobs, quick thanks, and a review every 90 days |
 | It will cost money nobody has | Unsolved | Donated materials first. No bill should land on one person |
