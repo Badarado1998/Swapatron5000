@@ -1,0 +1,35 @@
+name: Share a design sketch
+description: Show us your idea for the box. A photo of a pencil drawing is perfect.
+title: "Design: "
+labels: ["hardware"]
+body:
+  - type: markdown
+    attributes:
+      value: You do not need CAD or drawing skills. Read the short design brief in hardware/README.md first if you can.
+  - type: textarea
+    id: sketch
+    attributes:
+      label: Your sketch
+      description: Tap here, then attach or paste your photo or drawing.
+    validations:
+      required: true
+  - type: textarea
+    id: about
+    attributes:
+      label: Tell us about it
+      description: What is special about your design? How does it keep the rain out?
+  - type: input
+    id: size
+    attributes:
+      label: Rough size (optional)
+      placeholder: About 2 feet wide, 2 feet tall, 1 foot deep
+  - type: input
+    id: materials
+    attributes:
+      label: Materials you have in mind (optional)
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Would you like to help build it?
+      options:
+        - label: Yes, count me in for build day

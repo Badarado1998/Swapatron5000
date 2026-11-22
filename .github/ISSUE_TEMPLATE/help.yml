@@ -1,0 +1,14 @@
+name: Help, I am stuck
+description: Ask for help with GitHub or with the project. No question is too small.
+title: "Help: "
+body:
+  - type: textarea
+    id: tried
+    attributes:
+      label: What were you trying to do?
+    validations:
+      required: true
+  - type: textarea
+    id: happened
+    attributes:
+      label: What happened instead?

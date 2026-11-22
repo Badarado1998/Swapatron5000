@@ -1,0 +1,30 @@
+name: Idea
+description: Suggest a feature, a module, or an improvement
+title: "Idea: "
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What is your idea?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What problem does it solve?
+  - type: dropdown
+    id: area
+    attributes:
+      label: Which part of the project?
+      options:
+        - Hardware (shell, modules)
+        - Electronics (power, lights, sensors)
+        - Software (inventory, alerts)
+        - Docs, signs, or rules
+        - Not sure
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Would you like to help build it?
+      options:
+        - label: Yes, I would like to work on this
