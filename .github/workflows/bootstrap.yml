@@ -1,0 +1,44 @@
+name: Set up labels and issues
+
+# One-time setup. Run it once from the Actions tab: choose this workflow, then "Run workflow".
+# Safe to run twice. Existing issues are skipped. Tick "dry run" to preview without creating anything.
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (list what would be created, change nothing)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Create labels and issues
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python3 scripts/bootstrap.py --dry-run
+          else
+            python3 scripts/bootstrap.py
+          fi
+      - name: Commit the decision links if they changed
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          if [ -n "$(git status --porcelain DECISIONS.md)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add DECISIONS.md
+            git commit -m "Link each open question to its discussion"
+            git push
+          fi

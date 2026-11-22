@@ -1,6 +1,10 @@
 # Starter issues
 
-Create these as issues once the repository is live, then delete this file.
+Maintainers: you do not need to create these by hand. Open the **Actions** tab, choose **Set up labels and issues**, and press **Run workflow**. Leave "dry run" ticked the first time to preview the list, then run it again with the box unticked. It is safe to run twice, because existing issues are skipped. The script is `scripts/bootstrap.py`, and it reads the tables below and in `DECISIONS.md`, `CHALLENGES.md`, and `BOUNTIES.md`.
+
+Events are not created automatically. Create each one after the lab confirms the date.
+
+Once the issues exist, you can delete this file.
 
 | Title | Labels |
 |---|---|
