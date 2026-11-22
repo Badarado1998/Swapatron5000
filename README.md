@@ -1,5 +1,7 @@
 # IoT Swapatron 5000
 
+**A free electronics parts swap box, built by the community in Fishers, Indiana.**
+
 **Our mission:** make IoT parts free to share, and help our community learn to build things together in the open.
 
 The IoT Swapatron 5000 is a free, outdoor swap box for electronics parts. Take a part, leave a part. Think of a neighborhood book box, but for dev boards, wire, sensors, and connectors.
