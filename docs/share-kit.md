@@ -56,12 +56,24 @@ fishers-founders-united.github.io/Swapatron5000
 A short checklist for the maintainers. Announce in this order.
 
 - [ ] The lab has agreed to the project being announced with its name attached
-- [ ] The open questions exist as issues, so visitors have somewhere to comment
-- [ ] The `ask`, `bounty`, `decision`, and `challenge` labels exist
-- [ ] At least two maintainers are named in [GOVERNANCE.md](../GOVERNANCE.md)
-- [ ] Three or four people have each posted a first sketch or comment, so the project does not look empty
+- [ ] The "Set up labels and issues" workflow has been run (Actions tab), so every button lands on a real issue
+- [ ] The repository About line, topics, and social preview image are set (see below)
+- [ ] The Mutiny19 Discord invite link is in [events.md](events.md), and the first meetup time is set
+- [ ] Two maintainers are named in [GOVERNANCE.md](../GOVERNANCE.md), or the interim maintainer is stated
+- [ ] A private way to report conduct problems exists, and [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md) names it
+- [ ] Someone who works with kids has had a look at [Decision 18](../DECISIONS.md)
 - [ ] The web page and every button on it have been tested on a phone
+- [ ] Three or four people have each posted a first sketch, comment, or brief, so the project does not look empty
 - [ ] Someone is watching the issues daily for the first two weeks, to welcome people and remove personal details
+
+## Make the link preview great
+
+When someone pastes the link, a card appears. It should look good everywhere.
+
+- **The web page** already sets its title, description, and a 1200 by 630 image ([social-card.png](social-card.png)).
+- **The repository page** uses a separate setting. In the repository, go to Settings, then General, then **Social preview**, and upload `docs/social-card.png`. Also fill in the About line and topics (for example `iot`, `open-hardware`, `community`, `maker`, `fishers-indiana`).
+- **Old previews stick.** Facebook, LinkedIn, and others cache the first card they see. After any change, paste the link into the platform's own debugger (Facebook Sharing Debugger, LinkedIn Post Inspector) to refresh it.
+- **Test before you announce.** Paste the link into a private chat on your phone and look at the card.
 
 ## Recruiting the founding team
 
