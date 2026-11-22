@@ -1,6 +1,6 @@
 # Maintenance schedule (proposal)
 
-> **Nothing here is decided.** This is a draft for comment. The schedule starts when the box opens, proposed for Saturday, April 24, 2027.
+> **Nothing here is decided.** This is a draft for comment. The schedule starts when the box opens, proposed for Saturday, June 5, 2027.
 
 A swap box only works if someone looks after it. This page is the plan for that, and the place to sign up.
 
@@ -50,12 +50,12 @@ Each line is one week. Stewards take turns.
 
 | Week starting | Steward (GitHub username) | Done? |
 |---|---|---|
-| Sat Apr 24, 2027 | Open | |
-| Sat May 1, 2027 (monthly and seasonal) | Open | |
-| Sat May 8, 2027 | Open | |
-| Sat May 15, 2027 | Open | |
-| Sat May 22, 2027 | Open | |
-| Sat May 29, 2027 | Open | |
+| Sat Jun 5, 2027 | Open | |
+| Sat Jun 12, 2027 (monthly and seasonal) | Open | |
+| Sat Jun 19, 2027 | Open | |
+| Sat Jun 26, 2027 | Open | |
+| Sat Jul 3, 2027 | Open | |
+| Sat Jul 10, 2027 | Open | |
 
 ### How to take a week
 

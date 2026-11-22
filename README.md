@@ -6,7 +6,7 @@
 
 Meet Swapatron. It is a box. It eats spare electronics parts, and it gives them to whoever needs them next.
 
-> **Nothing is decided yet.** Swapatron has not hatched. Its shape, its rules, its name, and its dates are all open. We are collecting ideas until **Sunday, January 10, 2027**. [Have your say](docs/have-your-say.md).
+> **Nothing is decided yet.** Swapatron has not hatched. Its shape, its rules, its name, and its dates are all open. **Right now we are gathering people.** The first meetup is proposed for a Wednesday evening, **January 13, 2027**, online or in person. Until then, [count yourself in](../../issues/new?template=count-me-in.yml) or [join the founding team call](docs/founding-team.md). Ideas are welcome from the first meetup on. [Have your say](docs/have-your-say.md).
 
 ## The idea
 
@@ -38,6 +38,7 @@ You do not need to code. Everything here works on a phone. Never used GitHub? [T
 | Ask for a part I need | [Ask for a part](../../issues/new?template=ask-for-a-part.yml) |
 | Take on a job | Pick one from the [bounty board](BOUNTIES.md) |
 | Say why it won't work | [Tell Swapatron to its face](CHALLENGES.md). Every doubt is treated as a challenge to overcome |
+| Count me in for the first meetup | [Count yourself in](../../issues/new?template=count-me-in.yml). It takes a minute and needs no GitHub skills |
 | Join the founding team | Read [the roles](docs/founding-team.md), then [apply](../../issues/new?template=join-founding-team.yml) |
 | Hatch a Swapatron in my town | Read [Hatch your own](docs/your-swapatron.md), then [tell us where](../../issues/new?template=hatch-a-swapatron.yml) |
 | Spread the word | Use the [share kit](docs/share-kit.md) |
@@ -62,19 +63,17 @@ See everyone on the [Contributors Wall](CONTRIBUTORS.md), and [how to get your n
 
 | When | What |
 |---|---|
-| Now to Jan 10, 2027 | Listen. Collect ideas and sketches |
-| Thu Dec 3, 2026 | **Meet Swapatron**, online. Nothing is built yet, so come meet the idea and the people |
-| Mon Dec 7, 2026 | Public launch |
-| Sat Dec 12, 2026 | **Draw Swapatron**, an online sketch-along for all ages |
-| Thu Jan 7, 2027 | **"This won't work because..." night** |
-| Wed Jan 13, 2027 | **Founding team kickoff**, a Wednesday evening. The call for the team is open now |
-| Jan 11 to Jan 31, 2027 | Decide, in the open. **Decision night** on Thu Jan 21 |
-| Feb 1 to Mar 14, 2027 | Gather materials. **Feed Swapatron** parts drive on Sat Feb 20 |
-| Sat Mar 20, 2027 | **Build day**, indoors at the lab |
-| Sat Apr 10, 2027 | **Install day** |
-| Sat Apr 24, 2027 | **Hatching day.** Swapatron opens, with food trucks, a celebration, and a technology petting zoo |
+| Now to Jan 13, 2027 | **Gathering people.** [Count yourself in](../../issues/new?template=count-me-in.yml) and the [founding team](docs/founding-team.md) call is open. Nothing else happens yet |
+| Wed Jan 13, 2027 | **Meet Swapatron**, the first meetup, virtual or otherwise, on a Wednesday evening. Nothing is built yet, so come meet the idea and the people. The founding team kickoff and the start of listening |
+| Sat Jan 30, 2027 | **Draw Swapatron**, a sketch day for all ages |
+| Thu Feb 18, 2027 | **"This won't work because..." night**. Listening closes Sun Feb 21 |
+| Feb 22 to Mar 14, 2027 | Decide, in the open. **Decision night** on Thu Mar 4 |
+| Mar 15 to Apr 25, 2027 | Gather materials. **Feed Swapatron** parts drive on Sat Apr 10 |
+| Sat May 1, 2027 | **Build day**, indoors at the lab |
+| Sat May 15, 2027 | **Install day** |
+| Sat Jun 5, 2027 | **Hatching day.** Swapatron opens, with food trucks, a celebration, and a technology petting zoo |
 
-Everything before 2027 is online. Every date is a proposal, and none is confirmed with the lab yet. [Events in detail](docs/events.md) and the [full timeline](ROADMAP.md).
+Every date is a proposal, and none is confirmed with the lab yet. [Events in detail](docs/events.md) and the [full timeline](ROADMAP.md).
 
 ## Think it won't work?
 
@@ -96,7 +95,7 @@ Good. [Tell Swapatron to its face](CHALLENGES.md). Every "this won't work becaus
 | [docs/petting-zoo.md](docs/petting-zoo.md) and [docs/swapatron-speak.md](docs/swapatron-speak.md) | The technology petting zoo, and a field guide to IoT lingo |
 | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Draft code of conduct, including rules for kids |
 | [docs/your-swapatron.md](docs/your-swapatron.md) | Hatch a Swapatron in your own town |
-| [docs/events.md](docs/events.md) | Launch dates and events. Online until 2027 |
+| [docs/events.md](docs/events.md) | Launch dates and events. Nothing happens before the first meetup |
 | [BOUNTIES.md](BOUNTIES.md) | Jobs with points, levels, and badges |
 | [ASKS.md](ASKS.md) | Ask for a part, or fill someone else's ask |
 | [bom/](bom/README.md) | The draft wishlist of materials |

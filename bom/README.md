@@ -2,7 +2,7 @@
 
 [BOM.csv](BOM.csv) is the one list of everything the box needs. GitHub shows it as a table you can search.
 
-> **The list is a draft.** The design is not chosen yet, so shell materials and quantities will change. The final wishlist is due by Sunday, February 7, 2027, and the gathering phase runs to March 14. See the [timeline](../ROADMAP.md).
+> **The list is a draft.** The design is not chosen yet, so shell materials and quantities will change. The final wishlist is due by Sunday, March 21, 2027, and the gathering phase runs to April 25. See the [timeline](../ROADMAP.md).
 >
 > **Safe to pledge now:** anything in the `supplies` category, such as anti-static bags, zip bags, desiccant, and labels. Every design needs those.
 
@@ -10,7 +10,7 @@
 
 1. Find an item in [BOM.csv](BOM.csv) with status `needed` or `partly pledged`.
 2. [Open a "Pledge a part" issue](../../../issues/new?template=pledge-a-part.yml) and say what you are giving and how many.
-3. Pledge now, and hold on to the part. **Please do not drop off or ship anything yet.** Nothing in person happens before 2027, and drop-off and shipping details will be posted here once the lab confirms.
+3. Pledge, and hold on to the part. **Please do not drop off or ship anything yet.** Nothing happens before the first meetup, and drop-off and shipping details will be posted here once the lab confirms.
 4. When the part arrives, a maintainer marks it `received`, closes your issue, and adds you to the [Contributors Wall](../CONTRIBUTORS.md).
 
 Comfortable with GitHub? You can skip the form and edit `BOM.csv` yourself in a pull request. See [Learn GitHub](../docs/learn-github.md), Step 3.

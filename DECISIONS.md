@@ -1,13 +1,13 @@
 # Decisions
 
-> **Nothing is decided yet.** This page lists every open question. Each one will be decided in the open, between January 11 and January 31, 2027, after the listening phase. See the [timeline](ROADMAP.md).
+> **Nothing is decided yet.** This page lists every open question. Each one will be decided in the open, between February 22 and March 14, 2027, after the listening phase. See the [timeline](ROADMAP.md).
 
 ## How a decision gets made
 
 1. **Anyone raises it.** Open an [idea](../../issues/new?template=idea.yml) or comment on an existing question.
-2. **Everyone discusses it** until Sunday, January 10, 2027.
-3. **Maintainers post a proposed answer** with their reasons, between January 11 and 17.
-4. **Final comments** are open until January 31.
+2. **Everyone discusses it** until Sunday, February 21, 2027.
+3. **Maintainers post a proposed answer** with their reasons, between February 22 and 28.
+4. **Final comments** are open until March 14.
 5. **The decision is written here**, with a link to the discussion.
 
 Two things can override a community preference: the site host's approval, and safety. Both will always be explained.

@@ -2,7 +2,7 @@
 
 > **Nothing here is decided.** This is a draft plan for comment. The date depends on site approval, the chosen design, and materials arriving on time.
 
-**Proposed date:** Saturday, March 20, 2027
+**Proposed date:** Saturday, May 1, 2027
 **Proposed place:** indoors at the Indiana IoT Lab, 9059 Technology Lane, Fishers, Indiana (to be confirmed with the lab)
 
 Building indoors means the weather can not cancel it. The finished box is installed outside later, once the ground has thawed.
@@ -11,13 +11,13 @@ Building indoors means the weather can not cancel it. The finished box is instal
 
 | When | What | Who |
 |---|---|---|
-| By Sun Feb 7 | Cut list and final wishlist published | Needs owner |
-| By Sun Mar 14 | All materials at the lab and checked against the wishlist | Needs owner |
-| By Sun Mar 14 | Tool list confirmed: who is bringing what | Needs owner |
-| Week of Mar 15 | Lumber cut to length ahead of time, so build day is assembly | Needs owner |
-| Week of Mar 15 | Sign-up count checked. We need at least 6 builders | Needs owner |
+| By Sun Mar 21 | Cut list and final wishlist published | Needs owner |
+| By Sun Apr 25 | All materials at the lab and checked against the wishlist | Needs owner |
+| By Sun Apr 25 | Tool list confirmed: who is bringing what | Needs owner |
+| Week of Apr 26 | Lumber cut to length ahead of time, so build day is assembly | Needs owner |
+| Week of Apr 26 | Sign-up count checked. We need at least 6 builders | Needs owner |
 
-If materials are not ready by March 14, the build moves to Saturday, March 27.
+If materials are not ready by April 25, the build moves to Saturday, May 8.
 
 ## Proposed schedule for the day
 
@@ -59,6 +59,6 @@ See all [launch dates and events](events.md).
 
 | Date | Step |
 |---|---|
-| Week of Apr 5 | Call 811 to have underground lines marked |
-| Sat Apr 10 | Install day at the site. Backup: Sat Apr 17 |
-| Sat Apr 24 | Opening day |
+| Week of May 10 | Call 811 to have underground lines marked |
+| Sat May 15 | Install day at the site. Backup: Sat May 22 |
+| Sat Jun 5 | Opening day |

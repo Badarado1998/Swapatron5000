@@ -12,12 +12,11 @@ The founding team is a small group of volunteers who each look after one part of
 
 | When | What |
 |---|---|
-| Mon Nov 30, 2026 | The call opens, to people we invite first |
-| Mon Dec 7, 2026 | The call opens to everyone, with the public launch |
-| Sun Jan 10, 2027 | The call closes, and listening closes with it |
-| Wed Jan 13, 2027, evening | **Founding team kickoff.** The first meeting, and the official start of the work. Time and place to be set with the lab |
+| Now | The call is open. Applications and replies happen in writing, in the open, on GitHub. No meetings before the first meetup |
+| Sun Jan 10, 2027 | The call closes, and the founding team is named |
+| Wed Jan 13, 2027, evening | **Meet Swapatron: the first meetup and the founding team kickoff.** Virtual or otherwise. The official start of the work. Format, time, and place to be set |
 
-Chats with applicants happen online between December 7 and January 10. The founding team is named in the open, with its reasons, by January 10. Late applicants are still welcome, but may miss the first group.
+Late applicants are still welcome, but may miss the first group. The team is named in the open, with its reasons.
 
 ## The roles (all proposed)
 
@@ -52,7 +51,7 @@ The time asks are our guesses, not promises. Most people take one role. Two peop
 3. Do what you said you would do, or say early that you can not
 4. Work in the open, so others can see and join in
 5. Agree the work is share-alike. See [LICENSE.md](../LICENSE.md)
-6. Step aside gracefully when your time is up. Every role is reviewed at the 90 day check-up on Sat Jul 24, 2027
+6. Step aside gracefully when your time is up. Every role is reviewed at the 90 day check-up on Sat Sep 11, 2027
 
 ## How to apply
 

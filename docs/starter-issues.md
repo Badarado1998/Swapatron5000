@@ -12,10 +12,11 @@ Once the issues exist, you can delete this file.
 | Choose the standard gasketed bin (this sets the module size) | `hardware`, `rfc` |
 | Design the weather shell around the standard bin | `hardware`, `needs owner` |
 | Design the sign and QR code | `docs`, `good first issue` |
-| Review the share-alike licenses in `LICENSE.md` before January 31, 2027 | `decision` |
+| Review the share-alike licenses in `LICENSE.md` before March 14, 2027 | `decision` |
 | Review the draft code of conduct, and set up a private way to report problems | `docs`, `needs owner` |
 | Plan the technology petting zoo: habitats, keepers, and critters to lend | `event`, `needs owner` |
-| Recruit the founding team (call opens Nov 30, closes Jan 10) | `founding-team`, `needs owner` |
+| Recruit the founding team (the call is open now and closes Jan 10) | `founding-team`, `needs owner` |
+| Gather people for the first meetup on Wed Jan 13, 2027 (virtual or otherwise) | `event`, `needs owner` |
 | Wishlist: anti-static bags, zip bags, desiccant, labels (standing issue) | `supplies` |
 | Power budget for solar, battery, and LED lighting | `electronics`, `needs owner` |
 | Pick a battery chemistry and enclosure for outdoor temperatures | `electronics`, `rfc` |
@@ -46,7 +47,7 @@ Also create:
 | Title | Labels |
 |---|---|
 | Box check log (standing issue for weekly check reports) | `needs owner` |
-| Build day sign-up (open in February 2027) | `needs owner` |
+| Build day sign-up (open in April 2027) | `needs owner` |
 | One issue per bounty in `BOUNTIES.md`, titled "Bounty (points): job" | `bounty` |
 | Confirm with the lab whether parcels can be received, then remove the notice in `ASKS.md` | `needs owner` |
 

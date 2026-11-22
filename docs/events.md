@@ -2,28 +2,24 @@
 
 > **Every date here is a proposal.** None of these events is confirmed with the Indiana IoT Lab yet. Times will be added when they are. Please do not travel for an in-person event until its row says "Confirmed".
 
-**Everything before 2027 happens online.** Nothing in person is planned until January 2027. Online events are on a video call, and the link will be posted on the event's issue once it is confirmed.
-
-In-person events, from January 2027, are proposed for the Indiana IoT Lab, 9059 Technology Lane, Fishers, Indiana. All events are free, and you do not need to know anything to come.
+**Until the first meetup, nothing happens.** We are only gathering people. The first meetup is proposed for a Wednesday evening, January 13, 2027, and it can be virtual, in person, or both. Online events are on a video call, and the link will be posted on the event's issue once it is confirmed. In-person events are proposed for the Indiana IoT Lab, 9059 Technology Lane, Fishers, Indiana. All events are free, and you do not need to know anything to come.
 
 ## The schedule
 
 | Date | Event | What happens | Status |
 |---|---|---|---|
-| Thu Dec 3, 2026 | **Meet Swapatron** (soft launch, online) | A video call. **There is no box yet, and nothing will be built.** Swapatron is still an egg. Come meet the idea and the people, look at the example sketches, and get help making your first GitHub comment | Proposed |
-| Mon Dec 7, 2026 | **Public launch** (online) | The project is shared widely. See the [share kit](share-kit.md) | Proposed |
-| Sat Dec 12, 2026 | **Draw Swapatron** (online) | A sketch-along for all ages. Draw at home on the [printable design sheet](../hardware/designs/template-blank.svg) or plain paper, with a video call for company. Post a photo of every sketch | Proposed |
-| Thu Jan 7, 2027 | **"This won't work because..." night** | Bring your doubts. We write every one on the wall and work out how to beat it | Proposed |
-| Sun Jan 10, 2027 | Listening closes (online) | Last day for ideas and sketches for the first box | Proposed |
-| Wed Jan 13, 2027 | **Founding team kickoff** | The first meeting of the founding team, on a Wednesday evening. The official start of the work. See [the founding team](founding-team.md) | Proposed. Time not set |
-| Thu Jan 21, 2027 | **Decision night** | Maintainers walk through the proposed answer to every open question. Final comments welcome | Proposed |
-| Sun Jan 31, 2027 | Decisions recorded (online) | Written up in [DECISIONS.md](../DECISIONS.md) | Proposed |
-| Sat Feb 20, 2027 | **Feed Swapatron** | Parts drive. Empty your drawer, bag and label parts, and help make starter kits | Proposed |
-| Sun Mar 14, 2027 | Materials check (online) | Is everything on the wishlist here? If not, build day moves | Proposed |
-| Sat Mar 20, 2027 | **Build day** | We build the box together, indoors. See the [build day plan](build-day.md) | Proposed |
-| Sat Apr 10, 2027 | **Install day** | The box goes in the ground. Backup date: Sat Apr 17 | Proposed |
-| Sat Apr 24, 2027 | **Hatching day** | Swapatron opens with a celebration, food trucks, and a [technology petting zoo](petting-zoo.md). First feeding. Bring a part, take a part | Proposed. Food trucks not booked |
-| Sat Jul 24, 2027 | **90 day check-up** | What worked, what broke, what to change | Proposed |
+| Wed Jan 13, 2027 | **Meet Swapatron** (the first meetup) | The founding team kickoff, and the start of everything, on a Wednesday evening. **There is no box yet, and nothing will be built.** Swapatron is still an egg. Come meet the idea and the people, look at the example sketches, and get help making your first GitHub comment. See [the founding team](founding-team.md) | Proposed. Format, time, and place not set |
+| Sat Jan 30, 2027 | **Draw Swapatron** | A sketch day for all ages. Paper, pencils, and [design sheets](../hardware/designs/template-blank.svg). Every sketch gets posted. Online or in person | Proposed |
+| Thu Feb 18, 2027 | **"This won't work because..." night** | Bring your doubts. We write every one on the wall and work out how to beat it | Proposed |
+| Sun Feb 21, 2027 | Listening closes (online) | Last day for ideas and sketches for the first box | Proposed |
+| Thu Mar 4, 2027 | **Decision night** | Maintainers walk through the proposed answer to every open question. Final comments welcome | Proposed |
+| Sun Mar 14, 2027 | Decisions recorded (online) | Written up in [DECISIONS.md](../DECISIONS.md) | Proposed |
+| Sat Apr 10, 2027 | **Feed Swapatron** | Parts drive. Empty your drawer, bag and label parts, and help make starter kits | Proposed |
+| Sun Apr 25, 2027 | Materials check (online) | Is everything on the wishlist here? If not, build day moves | Proposed |
+| Sat May 1, 2027 | **Build day** | We build the box together, indoors. See the [build day plan](build-day.md) | Proposed |
+| Sat May 15, 2027 | **Install day** | The box goes in the ground. Backup date: Sat May 22 | Proposed |
+| Sat Jun 5, 2027 | **Hatching day** | Swapatron opens with a celebration, food trucks, and a [technology petting zoo](petting-zoo.md). First feeding. Bring a part, take a part | Proposed. Food trucks not booked |
+| Sat Sep 11, 2027 | **90 day check-up** | What worked, what broke, what to change | Proposed |
 
 ## Who each event is for
 
@@ -45,7 +41,7 @@ To hear when events are confirmed, tap **Watch** at the top of the project page.
 - A help desk for making your first GitHub contribution, with a person, not a manual
 - Children are welcome with a parent or guardian
 
-## At in-person events (from January 2027)
+## At in-person events
 
 - Design sheets and pencils
 - A place to drop off parts for the box, once the lab confirms drop-offs

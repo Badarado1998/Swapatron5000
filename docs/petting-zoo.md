@@ -4,7 +4,7 @@
 
 When Swapatron hatches, we would like to open with a celebration, food trucks, and a place where anyone can walk up to a gadget and poke it. No experience needed. The only rule is "pet gently."
 
-> **Nothing is decided yet.** The date, the place, the food trucks, and every station below are proposals. Hatching day is proposed for Sat Apr 24, 2027, and nothing is confirmed with the lab. See [events](events.md) and [DECISIONS.md](../DECISIONS.md).
+> **Nothing is decided yet.** The date, the place, the food trucks, and every station below are proposals. Hatching day is proposed for Sat Jun 5, 2027, and nothing is confirmed with the lab. See [events](events.md) and [DECISIONS.md](../DECISIONS.md).
 
 New to the lingo? [Swapatron-speak](swapatron-speak.md) translates every funny word into plain English.
 

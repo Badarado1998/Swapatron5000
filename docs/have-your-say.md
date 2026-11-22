@@ -40,13 +40,13 @@ A free GitHub account. Go to github.com and tap **Sign up**. You need an email a
 ## What happens to my comment?
 
 - A maintainer reads every one.
-- When the listening phase closes on January 10, 2027, maintainers post a summary of what people said and a proposed answer for each question.
-- You then get until January 31 to object or suggest changes.
+- When the listening phase closes on February 21, 2027, maintainers post a summary of what people said and a proposed answer for each question.
+- You then get until March 14 to object or suggest changes.
 - Final decisions and the reasons are written in [DECISIONS.md](../DECISIONS.md).
 
 ## Rather talk to a person?
 
-See the [proposed events](events.md). Everything before 2027 is online, and every event will have a help desk where a person shows you how to make your first contribution.
+See the [proposed events](events.md). Nothing happens before the first meetup, and every event will have a help desk where a person shows you how to make your first contribution.
 
 ## Want to learn more GitHub?
 

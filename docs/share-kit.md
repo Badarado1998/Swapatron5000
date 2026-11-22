@@ -20,7 +20,7 @@ A group of us in Fishers are planning a free swap box for electronics parts, and
 
 > We're planning the IoT Swapatron 5000: a free swap box for electronics parts in Fishers, Indiana. Take a part. Build something. Pass it on.
 >
-> Nothing is decided yet. The design, the rules, even the name are open. Ideas are welcome until January 10.
+> Nothing is decided yet. The design, the rules, even the name are open. Ideas are welcome from the first meetup on January 13 until February 21.
 >
 > Have a look and tell us what you think: https://fishers-founders-united.github.io/Swapatron5000/
 
@@ -43,8 +43,8 @@ fishers-founders-united.github.io/Swapatron5000
 ## Please keep these true when you share
 
 - **Say "planning" or "proposed".** The box is not built, and the site is not approved yet.
-- **Everything before 2027 is online.** Never invite anyone to the lab, or ask for parts to be dropped off, before January 2027.
-- **Dec 3 has nothing built to see.** Say so. People should come to meet the idea and the people, not to look at a box.
+- **Until the first meetup, we are only gathering people.** Nothing happens before Wed Jan 13, 2027. Never invite anyone to an event or to the lab, or ask for parts to be dropped off, before then.
+- **The first meetup has nothing built to see.** Say so. People should come to meet the idea and the people, not to look at a box. It may be virtual or in person, and the format is not set yet.
 - **Do not promise dates.** The dates are proposals. Only promote an event once [events.md](events.md) says it is confirmed.
 - **Say it is not only Fishers.** Box one is in Fishers. Any town can hatch its own. See [your-swapatron.md](your-swapatron.md).
 - **"Born out of" is not "approved by".** The project was born out of Indiana IoT and Fishers Founders United, with Mutiny19. Do not say the lab or anyone else has approved or endorsed it until they have.
@@ -78,3 +78,11 @@ Only post these once the lab has agreed to be named, and keep them true. Roles, 
 **For anyone who is curious**
 
 > Never touched GitHub or a soldering iron? Good. We need people like you on the founding team, and everyone gets a buddy. Tell us which role sounds interesting: https://fishers-founders-united.github.io/Swapatron5000/
+
+## Gathering people before the first meetup
+
+Between now and Wed Jan 13, 2027 these are the only posts to send. They ask people to count themselves in, nothing more.
+
+> A group of us in Fishers, Indiana is gathering people for a free electronics parts swap box, and a first meetup on a Wednesday evening in January. There is no box yet, and nothing is decided. If you want to hear when it starts, count yourself in: https://fishers-founders-united.github.io/Swapatron5000/
+
+> Looking for people who like to build, teach, tinker, or just poke at gadgets. Count yourself in for the first meetup (online or in person, to be set): https://fishers-founders-united.github.io/Swapatron5000/

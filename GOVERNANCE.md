@@ -36,4 +36,4 @@ The project uses share-alike licenses, so anyone can build and improve a Swapatr
 - Software: AGPL-3.0-or-later
 - Documentation and artwork: CC-BY-SA-4.0
 
-These are in effect now and open for comment until January 31, 2027. Changing a license later needs the agreement of everyone whose work it covers, so comment early.
+These are in effect now and open for comment until March 14, 2027. Changing a license later needs the agreement of everyone whose work it covers, so comment early.

@@ -17,7 +17,7 @@ Only boxes that have a named steward and a site host's yes appear in this table.
 
 ## Why Fishers goes first
 
-Box one is the HQ model: the primary test bed, and the reference design for every box after it. The plan is to learn everything we can in Fishers first. What works there becomes the plan other towns copy. What breaks gets fixed there before it breaks anywhere else. The 90 day check-up on Sat Jul 24, 2027 is meant to feed straight back into the plans for every future box.
+Box one is the HQ model: the primary test bed, and the reference design for every box after it. The plan is to learn everything we can in Fishers first. What works there becomes the plan other towns copy. What breaks gets fixed there before it breaks anywhere else. The 90 day check-up on Sat Sep 11, 2027 is meant to feed straight back into the plans for every future box.
 
 ## Should you wait for box one?
 
@@ -27,7 +27,7 @@ You do not have to wait to start planning. Be honest with yourself about the ris
 - The safety baseline in [DECISIONS.md](../DECISIONS.md) is a proposal that still needs expert review.
 - If you build before a design is chosen, you are the test. That is welcome, as long as you share what breaks.
 
-Many people will want to wait for the Fishers build day in March 2027 and copy what works. Both are fine.
+Many people will want to wait for the Fishers build day in May 2027 and copy what works. Both are fine.
 
 ## What you get
 

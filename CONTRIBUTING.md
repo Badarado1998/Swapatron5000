@@ -2,7 +2,7 @@
 
 Everyone is welcome, including people who have never used GitHub. If that is you, start with [How to have your say](docs/have-your-say.md), then take the [15 minute tour](docs/learn-github.md).
 
-**Nothing about the box is decided yet.** The listening phase runs until Sunday, January 10, 2027. See [DECISIONS.md](DECISIONS.md) and the [timeline](ROADMAP.md).
+**Nothing about the box is decided yet.** Right now we are gathering people. The listening phase opens at the first meetup on Wednesday, January 13, 2027, and runs until Sunday, February 21, 2027. See [DECISIONS.md](DECISIONS.md) and the [timeline](ROADMAP.md).
 
 ## Ways to contribute
 

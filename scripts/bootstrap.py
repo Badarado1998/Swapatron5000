@@ -38,6 +38,7 @@ LABELS = {
     "electronics": ("FEF2C0", "Power, sensors, radios"),
     "software": ("D4C5F9", "Inventory, alerts, forms"),
     "docs": ("C2E0C6", "Writing, signs, drawings, the tutorial"),
+    "gathering": ("0E8A16", "Someone saying they would like to join the first meetup"),
     "founding-team": ("5319E7", "Applying for, or discussing, a founding team role"),
     "network": ("0E8A16", "Boxes in other towns and how they connect"),
     "supplies": ("F9D0C4", "Bags, labels, desiccant, lumber"),
@@ -112,8 +113,8 @@ def build_issues():
             f"Decision {num}: {question}", ["decision"],
             f"{NOTHING_DECIDED}\n\n**Question {num} in [DECISIONS.md]({BLOB}/DECISIONS.md):** {question}\n\n"
             f"**Status:** {LINK_RE.sub(r'\\1', status)}\n\n"
-            "Comments are open until Sunday, January 10, 2027. Maintainers post a proposed answer "
-            "between January 11 and 17, and final comments close January 31. Tell us what you think, "
+            "Comments are open from the first meetup on January 13 until Sunday, February 21, 2027. Maintainers post a proposed answer "
+            "between February 22 and 28, and final comments close March 14. Tell us what you think, "
             "even if it is just a thumbs up or a thumbs down on the question."))
 
     # Challenges

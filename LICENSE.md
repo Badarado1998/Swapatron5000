@@ -2,7 +2,7 @@
 
 Copyright the IoT Swapatron 5000 contributors.
 
-> **Status:** these licenses are in effect now, so that contributions have clear terms from day one. They are still open for comment until January 31, 2027. See question 13 in [DECISIONS.md](DECISIONS.md). This page is a plain-language summary and is not legal advice. The full license texts are what count.
+> **Status:** these licenses are in effect now, so that contributions have clear terms from day one. They are still open for comment until March 14, 2027. See question 13 in [DECISIONS.md](DECISIONS.md). This page is a plain-language summary and is not legal advice. The full license texts are what count.
 
 ## The short version
 

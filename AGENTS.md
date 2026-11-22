@@ -33,16 +33,17 @@ People: you can paste this to your assistant: "Read AGENTS.md in github.com/Fish
 
 | Phase | Proposed dates |
 |---|---|
-| Listen | To Sun Jan 10, 2027 |
-| Founding team kickoff | Wed Jan 13, 2027, evening (call open Nov 30 to Jan 10) |
-| Decide | Jan 11 to Jan 31, 2027 |
-| Gather materials | Feb 1 to Mar 14, 2027 |
-| Build day | Sat Mar 20, 2027 |
-| Install, then open | Sat Apr 10 and Sat Apr 24, 2027 |
+| Gather people, and recruit the founding team | Now to Wed Jan 13, 2027 (the call closes Sun Jan 10). No events |
+| First meetup, virtual or otherwise | Wed Jan 13, 2027, evening |
+| Listen | Jan 13 to Sun Feb 21, 2027 |
+| Decide | Feb 22 to Mar 14, 2027 |
+| Gather materials | Mar 15 to Apr 25, 2027 |
+| Build day | Sat May 1, 2027 |
+| Install, then open | Sat May 15 and Sat Jun 5, 2027 |
 
 Check [ROADMAP.md](ROADMAP.md) for the current version. Dates may have moved since this file was written.
 
-Everything before 2027 happens online. In-person events start in January 2027 and are listed in [docs/events.md](docs/events.md). Tell people an event is happening only if its status there says "Confirmed". Never imply there is a box to see before it is built. At the online Meet Swapatron call on Thu Dec 3 there is nothing built to meet. Do not tell anyone to drop off or ship parts before 2027.
+Nothing happens before the first meetup on Wed Jan 13, 2027 (virtual or otherwise), except gathering people. Events are listed in [docs/events.md](docs/events.md). Tell people an event is happening only if its status there says "Confirmed". Never imply there is a box to see before it is built. At the first meetup there is nothing built to meet. Do not tell anyone to drop off or ship parts yet, and do not invite anyone to an event before the first meetup.
 
 ## Where you can help most
 

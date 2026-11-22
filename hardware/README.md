@@ -52,4 +52,4 @@ These are waiting for someone to pick them up.
 
 ## How a design gets picked
 
-Sketches are open until Sunday, January 10, 2027. Between January 11 and 31, the maintainers and the site host propose one design, or a mix of several, explain why, and take final comments. The chosen design becomes the cut list and the wishlist. See the [timeline](../ROADMAP.md).
+Sketches are open from the first meetup on January 13 until Sunday, February 21, 2027. Between February 22 and March 14, the maintainers and the site host propose one design, or a mix of several, explain why, and take final comments. The chosen design becomes the cut list and the wishlist. See the [timeline](../ROADMAP.md).
