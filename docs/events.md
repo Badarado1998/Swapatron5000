@@ -8,7 +8,7 @@ All in-person events are proposed for the Indiana IoT Lab, 9059 Technology Lane,
 
 | Date | Event | What happens | Status |
 |---|---|---|---|
-| Thu Dec 3, 2026 | **Meet Swapatron** (soft launch) | A drop-in table at the lab. See the idea, grab a design sheet, and get help making your first GitHub comment | Proposed |
+| Thu Dec 3, 2026 | **Meet Swapatron** (soft launch) | **There is no box yet, and nothing will be built that night.** Swapatron is still an egg. Drop in to meet the idea and the people, look at the example sketches, grab a design sheet, and get help making your first GitHub comment | Proposed |
 | Mon Dec 7, 2026 | **Public launch** (online) | The project is shared widely. See the [share kit](share-kit.md) | Proposed |
 | Sat Dec 12, 2026 | **Draw Swapatron** | Sketch day for all ages. Paper, pencils, and design sheets provided. Every sketch gets posted | Proposed |
 | Thu Jan 7, 2027 | **"This won't work because..." night** | Bring your doubts. We write every one on the wall and work out how to beat it | Proposed |

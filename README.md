@@ -63,7 +63,7 @@ See everyone on the [Contributors Wall](CONTRIBUTORS.md), and [how to get your n
 | When | What |
 |---|---|
 | Now to Jan 10, 2027 | Listen. Collect ideas and sketches |
-| Thu Dec 3, 2026 | **Meet Swapatron**, a drop-in at the lab |
+| Thu Dec 3, 2026 | **Meet Swapatron**, a drop-in at the lab. Nothing is built yet, so come meet the idea and the people |
 | Mon Dec 7, 2026 | Public launch |
 | Sat Dec 12, 2026 | **Draw Swapatron**, a sketch day for all ages |
 | Thu Jan 7, 2027 | **"This won't work because..." night** |

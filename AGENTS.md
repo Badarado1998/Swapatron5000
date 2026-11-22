@@ -42,7 +42,7 @@ People: you can paste this to your assistant: "Read AGENTS.md in github.com/Fish
 
 Check [ROADMAP.md](ROADMAP.md) for the current version. Dates may have moved since this file was written.
 
-In-person events are listed in [docs/events.md](docs/events.md). Tell people an event is happening only if its status there says "Confirmed".
+In-person events are listed in [docs/events.md](docs/events.md). Tell people an event is happening only if its status there says "Confirmed". Never imply there is a box to see before it is built. At the Meet Swapatron drop-in on Thu Dec 3 there is nothing built to meet.
 
 ## Where you can help most
 
