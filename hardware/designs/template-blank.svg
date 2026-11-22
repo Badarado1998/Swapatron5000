@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 1100" width="850" height="1100" font-family="Arial, Helvetica, sans-serif">
+  <title>IoT Swapatron 5000: blank design sheet</title>
+  <desc>A printable sheet for drawing your own swap box design. It has a ground line, a faint guide box, and spaces for your name and notes.</desc>
+
+  <!-- Print this page, draw on it, and photograph it.
+       Or open it in Inkscape (free) and draw on top of it. -->
+
+  <rect x="0" y="0" width="850" height="1100" fill="#ffffff"/>
+
+  <text x="60" y="80" font-size="30" font-weight="bold" fill="#1d2a26">Design your swap box</text>
+  <text x="60" y="112" font-size="16" fill="#55635e">Draw your idea below. Any style is welcome. Then take a photo and share it.</text>
+
+  <!-- drawing area -->
+  <rect x="60" y="140" width="730" height="640" fill="none" stroke="#b4b2a9" stroke-width="1.5"/>
+
+  <!-- faint guide: a rough size for the box. Ignore it if your idea is different. -->
+  <rect x="275" y="250" width="300" height="340" fill="none" stroke="#d3d1c7" stroke-width="1.5" stroke-dasharray="6 8"/>
+  <text x="425" y="240" font-size="12" text-anchor="middle" fill="#b4b2a9">guide only: ignore it if your idea is a different shape</text>
+
+  <!-- ground line -->
+  <line x1="80" y1="740" x2="770" y2="740" stroke="#888780" stroke-width="2.5"/>
+  <text x="84" y="760" font-size="12" fill="#888780">ground</text>
+
+  <!-- a person -->
+  <g stroke="#b4b2a9" stroke-width="2" fill="none">
+    <circle cx="140" cy="560" r="16"/>
+    <line x1="140" y1="576" x2="140" y2="670"/>
+    <line x1="140" y1="600" x2="112" y2="640"/>
+    <line x1="140" y1="600" x2="168" y2="640"/>
+    <line x1="140" y1="670" x2="118" y2="740"/>
+    <line x1="140" y1="670" x2="162" y2="740"/>
+  </g>
+  <text x="140" y="536" font-size="12" text-anchor="middle" fill="#b4b2a9">a visitor</text>
+
+  <!-- things to think about -->
+  <text x="60" y="820" font-size="16" font-weight="bold" fill="#1d2a26">Things to think about</text>
+  <g font-size="14" fill="#55635e">
+    <text x="60" y="846">[ ] How does it keep rain out?</text>
+    <text x="60" y="870">[ ] Where do boards and chips stay dry?</text>
+    <text x="60" y="894">[ ] Can a kid and a wheelchair user reach it?</text>
+    <text x="440" y="846">[ ] Where does the sign go?</text>
+    <text x="440" y="870">[ ] How could someone add to it later?</text>
+    <text x="440" y="894">[ ] What is it made of?</text>
+  </g>
+
+  <!-- notes -->
+  <text x="60" y="944" font-size="16" font-weight="bold" fill="#1d2a26">What is special about your design?</text>
+  <line x1="60" y1="980" x2="790" y2="980" stroke="#b4b2a9"/>
+  <line x1="60" y1="1012" x2="790" y2="1012" stroke="#b4b2a9"/>
+
+  <text x="60" y="1056" font-size="14" fill="#1d2a26">Name or GitHub username:</text>
+  <line x1="250" y1="1058" x2="790" y2="1058" stroke="#b4b2a9"/>
+
+  <text x="60" y="1086" font-size="11" fill="#888780">IoT Swapatron 5000. Share your sketch at github.com/Fishers-Founders-United/Swapatron5000</text>
+</svg>

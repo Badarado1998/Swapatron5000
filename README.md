@@ -28,6 +28,12 @@ Never used GitHub? Every option below works on a phone, with no coding. [This tw
 | Help build it | Read the [build day plan](docs/build-day.md) | A Saturday |
 | Help look after it | Take a week on the [upkeep rota](docs/maintenance.md) | 10 minutes a week |
 
+**Want to see the idea?** Here is one example sketch to react to. It is not the chosen design.
+
+![Example concept, front view](hardware/designs/example-concept/concept-front.svg)
+
+Draw your own on the [printable design sheet](hardware/designs/template-blank.svg), or see [four ways to contribute a drawing](hardware/designs/README.md).
+
 ### 2. Learn GitHub as you go
 
 - [How to have your say](docs/have-your-say.md): comment and vote in two minutes
@@ -61,6 +67,12 @@ Each team has its own page with a short brief and a list of open questions. Join
 | Box management software | Inventory, alerts, dashboard, the full stack | [software/](software/README.md) |
 | UI and UX | How people find, use, and understand the box | [ux/](ux/README.md) |
 
+## Using an AI assistant?
+
+Point it at [AGENTS.md](AGENTS.md). That file tells any AI what the project is, what is still undecided, and where it can help. You can paste this to your assistant:
+
+> Read AGENTS.md in github.com/Fishers-Founders-United/Swapatron5000 and help me contribute.
+
 ## Stuck?
 
 [Ask for help](../../issues/new?template=help.yml). No question is too small.
@@ -78,3 +90,5 @@ Each team has its own page with a short brief and a list of open questions. Join
 | [docs/swap-rules.md](docs/swap-rules.md) | Draft rules for what goes in the box |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | The contributing guide |
 | [GOVERNANCE.md](GOVERNANCE.md) | Draft roles and how the project is run |
+| [hardware/designs/](hardware/designs/README.md) | Example drawing, printable design sheet, and how to add your own |
+| [AGENTS.md](AGENTS.md) | A briefing for AI assistants |

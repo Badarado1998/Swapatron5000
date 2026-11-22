@@ -1,0 +1,25 @@
+# IoT Swapatron 5000
+
+> A proposed free outdoor swap box for IoT and electronics parts in Fishers, Indiana. Take a part, leave a part. It is an open source community project in the planning stage. Nothing is decided and nothing is built yet. Treat every design, rule, and date as a proposal.
+
+The full briefing for AI assistants is AGENTS.md in the repository. Read it before helping someone contribute.
+
+## Start here
+
+- [AGENTS.md](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/AGENTS.md): briefing for AI assistants, including what not to do
+- [README](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/README.md): the front door for people
+- [DECISIONS.md](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/DECISIONS.md): every open question and how decisions are made
+- [ROADMAP.md](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/ROADMAP.md): the proposed timeline
+
+## How to help
+
+- [How to have your say](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/docs/have-your-say.md): commenting and voting for people new to GitHub
+- [BOUNTIES.md](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/BOUNTIES.md): jobs with points attached
+- [Designs](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/hardware/designs/README.md): example drawing and how to contribute one
+- [Wishlist](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/bom/BOM.csv): draft list of materials
+
+## Raw files for direct reading
+
+- https://raw.githubusercontent.com/Fishers-Founders-United/Swapatron5000/main/AGENTS.md
+- https://raw.githubusercontent.com/Fishers-Founders-United/Swapatron5000/main/DECISIONS.md
+- https://raw.githubusercontent.com/Fishers-Founders-United/Swapatron5000/main/ROADMAP.md

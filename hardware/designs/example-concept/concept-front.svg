@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 680" width="800" height="680" font-family="Arial, Helvetica, sans-serif">
+  <title>IoT Swapatron 5000: example concept, front view</title>
+  <desc>An example sketch, not the chosen design. A post-mounted outdoor box with a sloped roof, a sign, a sealed bin for boards, open bins for wire and hardware, and a space for add-on modules.</desc>
+
+  <!-- HOW TO EDIT THIS FILE
+       Open it in Inkscape (free), or any text editor.
+       Each part of the box is in its own group below, with a plain name.
+       Move, resize, recolor, or delete any group. Add your own.
+       Save it under a new name in your own folder in hardware/designs/. -->
+
+  <!-- background -->
+  <rect id="background" x="0" y="0" width="800" height="680" fill="#ffffff"/>
+
+  <!-- heading -->
+  <g id="heading">
+    <text x="40" y="44" font-size="22" font-weight="bold" fill="#1d2a26">Example concept: front view</text>
+    <text x="40" y="68" font-size="14" fill="#a32d2d">This is one idea to react to. It is not the chosen design. Change anything.</text>
+  </g>
+
+  <!-- ground -->
+  <line id="ground" x1="40" y1="640" x2="460" y2="640" stroke="#888780" stroke-width="3"/>
+
+  <!-- post -->
+  <rect id="post" x="232" y="590" width="36" height="50" fill="#b9a27c" stroke="#5f5e5a" stroke-width="1.5"/>
+
+  <!-- add-on module: a space for the community to add to -->
+  <g id="add-on-module">
+    <rect x="90" y="540" width="320" height="50" rx="4" fill="none" stroke="#5f5e5a" stroke-width="2" stroke-dasharray="8 6"/>
+    <text x="250" y="571" font-size="15" text-anchor="middle" fill="#5f5e5a">+ your module here</text>
+  </g>
+
+  <!-- roof -->
+  <g id="roof">
+    <polygon points="250,95 60,175 440,175" fill="#6b6f6c" stroke="#3d3f3d" stroke-width="1.5"/>
+    <!-- vent -->
+    <line x1="225" y1="140" x2="275" y2="140" stroke="#e6e4dc" stroke-width="3"/>
+    <line x1="225" y1="150" x2="275" y2="150" stroke="#e6e4dc" stroke-width="3"/>
+    <line x1="225" y1="160" x2="275" y2="160" stroke="#e6e4dc" stroke-width="3"/>
+  </g>
+
+  <!-- sign -->
+  <g id="sign">
+    <rect x="90" y="180" width="320" height="52" fill="#1f3a5f" stroke="#12233a" stroke-width="1.5"/>
+    <text x="230" y="213" font-size="22" font-weight="bold" text-anchor="middle" fill="#ffffff">IoT parts swap</text>
+    <!-- QR code placeholder -->
+    <rect x="364" y="187" width="38" height="38" fill="#ffffff"/>
+    <rect x="369" y="192" width="10" height="10" fill="#1d2a26"/>
+    <rect x="387" y="192" width="10" height="10" fill="#1d2a26"/>
+    <rect x="369" y="210" width="10" height="10" fill="#1d2a26"/>
+    <rect x="384" y="207" width="5" height="5" fill="#1d2a26"/>
+    <rect x="391" y="214" width="6" height="6" fill="#1d2a26"/>
+  </g>
+
+  <!-- box body -->
+  <rect id="body" x="90" y="232" width="320" height="308" fill="#e9d9b8" stroke="#8a7446" stroke-width="2"/>
+
+  <!-- sealed bin: boards, sensors, chips -->
+  <g id="sealed-bin">
+    <rect x="110" y="250" width="280" height="112" rx="8" fill="#cdeee2" stroke="#0f6e56" stroke-width="3"/>
+    <rect x="128" y="272" width="80" height="50" rx="3" fill="#5dcaa5" stroke="#0f6e56"/>
+    <circle cx="140" cy="284" r="4" fill="#085041"/>
+    <circle cx="196" cy="284" r="4" fill="#085041"/>
+    <circle cx="140" cy="310" r="4" fill="#085041"/>
+    <circle cx="196" cy="310" r="4" fill="#085041"/>
+    <rect x="228" y="282" width="96" height="60" rx="3" fill="#5dcaa5" stroke="#0f6e56"/>
+    <rect x="252" y="298" width="48" height="26" fill="#085041"/>
+    <rect x="344" y="312" width="32" height="34" rx="3" fill="#ffffff" stroke="#0f6e56"/>
+    <text x="360" y="334" font-size="10" text-anchor="middle" fill="#0f6e56">dry</text>
+  </g>
+
+  <!-- open bins: wire, connectors, hardware -->
+  <g id="open-bins">
+    <rect x="110" y="378" width="135" height="64" rx="5" fill="#fae3b4" stroke="#854f0b" stroke-width="1.5"/>
+    <rect x="255" y="378" width="135" height="64" rx="5" fill="#fae3b4" stroke="#854f0b" stroke-width="1.5"/>
+    <rect x="110" y="452" width="280" height="72" rx="5" fill="#fae3b4" stroke="#854f0b" stroke-width="1.5"/>
+    <line x1="155" y1="396" x2="200" y2="396" stroke="#854f0b" stroke-width="4" stroke-linecap="round"/>
+    <line x1="300" y1="396" x2="345" y2="396" stroke="#854f0b" stroke-width="4" stroke-linecap="round"/>
+    <line x1="220" y1="472" x2="280" y2="472" stroke="#854f0b" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- labels and pointer lines -->
+  <g id="labels" font-size="15" fill="#1d2a26">
+    <g stroke="#888780" stroke-width="1" stroke-dasharray="4 4" fill="none">
+      <line x1="372" y1="148" x2="490" y2="118"/>
+      <line x1="280" y1="150" x2="490" y2="172"/>
+      <line x1="410" y1="206" x2="490" y2="222"/>
+      <line x1="390" y1="300" x2="490" y2="296"/>
+      <line x1="390" y1="410" x2="490" y2="402"/>
+      <line x1="410" y1="565" x2="490" y2="498"/>
+      <line x1="268" y1="616" x2="490" y2="576"/>
+    </g>
+    <text x="498" y="116" font-weight="bold">Sloped roof</text>
+    <text x="498" y="136" font-size="13" fill="#55635e">Overhang keeps rain off the door</text>
+    <text x="498" y="176" font-weight="bold">Screened vent</text>
+    <text x="498" y="196" font-size="13" fill="#55635e">Lets damp air out</text>
+    <text x="498" y="232" font-weight="bold">Sign and QR code</text>
+    <text x="498" y="252" font-size="13" fill="#55635e">What it is and how to help</text>
+    <text x="498" y="296" font-weight="bold">Sealed bin</text>
+    <text x="498" y="316" font-size="13" fill="#55635e">Boards, sensors, and chips</text>
+    <text x="498" y="334" font-size="13" fill="#55635e">Gasket lid and a drying pack</text>
+    <text x="498" y="402" font-weight="bold">Open bins</text>
+    <text x="498" y="422" font-size="13" fill="#55635e">Wire, connectors, and hardware</text>
+    <text x="498" y="498" font-weight="bold">Add-on modules</text>
+    <text x="498" y="518" font-size="13" fill="#55635e">Built to one standard bin size</text>
+    <text x="498" y="576" font-weight="bold">Post or wall mount</text>
+    <text x="498" y="596" font-size="13" fill="#55635e">To be decided with the site host</text>
+  </g>
+</svg>
