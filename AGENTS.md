@@ -6,7 +6,7 @@ People: you can paste this to your assistant: "Read AGENTS.md in github.com/Fish
 
 ## The project in five lines
 
-- **What:** the IoT Swapatron 5000, a proposed free outdoor swap box for IoT and electronics parts. Take a part, leave a part.
+- **What:** the IoT Swapatron 5000, a proposed free outdoor swap box for IoT and electronics parts. Take a part. Build something. Pass it on.
 - **Where:** proposed for the Indiana IoT Lab, 9059 Technology Lane, Fishers, Indiana. Site approval is pending.
 - **Who:** a community project under the Fishers Founders United GitHub organization. Many contributors are new to GitHub. Some are kids.
 - **Mission (draft):** make IoT parts free to share, and help the community learn to build things together in the open.
@@ -84,8 +84,8 @@ For batteries, electrical design, and anything structural, tell the person that 
 
 - `bom/BOM.csv` is the wishlist. It is a draft until a design is chosen. Do not delete rows.
 - `contributions.csv` feeds `scripts/build_wall.py`, which writes `CONTRIBUTORS.md`. Never edit `CONTRIBUTORS.md` by hand. Only maintainers add contribution lines.
-- `docs/index.html` is the public web page. It is a single self-contained file with no outside dependencies. Keep it that way.
-- Relative links such as `../../issues` work on GitHub but break on the published web page. Use full URLs in `docs/index.html`.
+- `index.html` at the top of the repository is the public web page. It is a single self-contained file with no outside dependencies. Keep it that way.
+- Relative links such as `../../issues` work on GitHub but break on the published web page. Use full URLs in `index.html`. GitHub Pages publishes this repository from its top folder.
 - Run `python3 scripts/build_wall.py` after changing the script, and check it still handles an empty `contributions.csv`.
 
 ## What not to do

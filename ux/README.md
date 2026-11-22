@@ -20,7 +20,7 @@ We make the box easy to find, easy to use, and easy to understand. You do not ne
 |---|---|---|
 | The sign on the box | Readable from 10 feet. Pictures as well as words | Needs owner |
 | Bin labels | Clear icons for each category | Needs owner |
-| The QR code page | One page for phones. A first version is at `docs/index.html` | Needs testing and polish |
+| The QR code page | One page for phones. A first version is `index.html` at the top of the repository | Needs testing and polish |
 | The took and left form | As few taps as possible | Needs owner |
 | The dashboard | With the software team | Later |
 | This repository | Is the front page clear? Tell us where you got lost | Always open |

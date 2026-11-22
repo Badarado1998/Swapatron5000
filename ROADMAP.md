@@ -20,6 +20,15 @@ Why this long? The listening phase runs over the winter holidays, and posts can 
 
 **Goal:** hear from as many people as possible before anything is chosen.
 
+| Dates | Step |
+|---|---|
+| Nov 23 to Nov 29 | Set up: create the issues and labels, name maintainers, ask the lab for site approval |
+| Nov 30 to Dec 6 | Soft launch: invite people at the lab first, so the first sketches and comments are in place |
+| From Mon Dec 7 | Public launch: share widely, using the [share kit](docs/share-kit.md) |
+| Sun Jan 10 | Listening closes |
+
+That leaves about five weeks of public listening, with the holidays in the middle. If turnout is thin in early January, the close date should move back, and every later date with it.
+
 - Design sketches are open
 - Open questions are posted as issues (see [DECISIONS.md](DECISIONS.md))
 - Site approval is requested from the lab and the property owner

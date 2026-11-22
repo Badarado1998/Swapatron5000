@@ -1,0 +1,52 @@
+# Share kit
+
+Want to tell people about the project? Copy anything on this page. Change the words to sound like you.
+
+**The link to share:** https://fishers-founders-united.github.io/Swapatron5000/
+
+## One sentence
+
+A group of us in Fishers are planning a free swap box for electronics parts, and we want your ideas before anything is decided.
+
+## Short post
+
+> We're planning the IoT Swapatron 5000: a free swap box for electronics parts in Fishers, Indiana. Take a part. Build something. Pass it on.
+>
+> Nothing is decided yet. The design, the rules, even the name are open. Ideas are welcome until January 10.
+>
+> Have a look and tell us what you think: https://fishers-founders-united.github.io/Swapatron5000/
+
+## For people who build things
+
+> Got a drawer of spare dev boards and sensors? We're planning a free parts swap box outside the Indiana IoT Lab in Fishers, and we're looking for people who know this stuff to help design it. Nothing is decided yet. Sketches, opinions, and hard questions are all welcome: https://fishers-founders-united.github.io/Swapatron5000/
+
+## For parents, teachers, and clubs
+
+> Know a kid who likes to build things? A community group in Fishers is planning a free electronics parts swap box, and kids can help design it. There is a printable sheet to draw your own idea on. No experience needed: https://fishers-founders-united.github.io/Swapatron5000/
+
+## For a flyer or a notice board
+
+**IoT Swapatron 5000**
+A free swap box for electronics parts. Coming to Fishers, if we build it together.
+Take a part. Build something. Pass it on.
+Nothing is decided yet. Help design it.
+fishers-founders-united.github.io/Swapatron5000
+
+## Please keep these true when you share
+
+- **Say "planning" or "proposed".** The box is not built, and the site is not approved yet.
+- **Do not promise dates.** The dates are proposals.
+- **Do not use the lab's logo** or say the lab endorses the project unless the lab has agreed.
+- **Do not share the shipping address** until the notice in [ASKS.md](../ASKS.md) is removed.
+
+## Before the project is announced widely
+
+A short checklist for the maintainers. Announce in this order.
+
+- [ ] The lab has agreed to the project being announced with its name attached
+- [ ] The open questions exist as issues, so visitors have somewhere to comment
+- [ ] The `ask`, `bounty`, and `decision` labels exist
+- [ ] At least two maintainers are named in [GOVERNANCE.md](../GOVERNANCE.md)
+- [ ] Three or four people have each posted a first sketch or comment, so the project does not look empty
+- [ ] The web page and every button on it have been tested on a phone
+- [ ] Someone is watching the issues daily for the first two weeks, to welcome people and remove personal details
