@@ -27,10 +27,12 @@
 
 Anyone may build their own box from these plans. To be listed here as a sister box, name a site steward and follow the swap rules.
 
-## Licenses (proposed, not yet adopted)
+## Licenses
 
-- Hardware designs: CERN-OHL-P v2
-- Code: MIT
-- Documentation and sign artwork: CC BY 4.0
+The project uses share-alike licenses, so anyone can build and improve a Swapatron, but nobody can close it up or claim it as theirs alone. See [LICENSE.md](LICENSE.md).
 
-License files must be added before the first outside contribution is merged.
+- Hardware designs: CERN-OHL-S-2.0
+- Software: AGPL-3.0-or-later
+- Documentation and artwork: CC-BY-SA-4.0
+
+These are in effect now and open for comment until January 31, 2027. Changing a license later needs the agreement of everyone whose work it covers, so comment early.

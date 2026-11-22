@@ -8,7 +8,7 @@ Create these as issues once the repository is live, then delete this file.
 | Choose the standard gasketed bin (this sets the module size) | `hardware`, `rfc` |
 | Design the weather shell around the standard bin | `hardware`, `needs owner` |
 | Design the sign and QR code | `docs`, `good first issue` |
-| Add license files | `docs`, `needs owner` |
+| Review the share-alike licenses in `LICENSE.md` before January 31, 2027 | `decision` |
 | Add a code of conduct | `docs`, `good first issue` |
 | Wishlist: anti-static bags, zip bags, desiccant, labels (standing issue) | `supplies` |
 | Power budget for solar, battery, and LED lighting | `electronics`, `needs owner` |

@@ -19,7 +19,7 @@ Everyone is welcome, including people who have never used GitHub. If that is you
 
 ## Points, bounties, and the Contributors Wall
 
-Every contribution earns a line in `contributions.csv`, which builds the [Contributors Wall](CONTRIBUTORS.md) automatically. Jobs with points attached are listed on the [bounty board](BOUNTIES.md).
+Every contribution earns a line in `contributions.csv`. That one file builds the [Contributors Wall](CONTRIBUTORS.md) and the "favorite humans" top five on the README and the web page, automatically. Jobs with points attached are listed on the [bounty board](BOUNTIES.md).
 
 Maintainers add the line when a part is received, a bounty is accepted, a pull request is merged, or a box check is logged:
 
@@ -53,6 +53,10 @@ Types: `part`, `build`, `code`, `docs`, `upkeep`, `idea`. Points: 1, 2, 3, or 5.
 - Keep each pull request to one change.
 - Say what you changed and why in plain words.
 - Changes to the physical box at the first site need a maintainer's approval and the host's approval. See [GOVERNANCE.md](GOVERNANCE.md).
+
+## License
+
+By contributing, you agree to share your work under the project's share-alike licenses, and you confirm it is yours to share. You keep your copyright. See [LICENSE.md](LICENSE.md).
 
 ## Safety
 

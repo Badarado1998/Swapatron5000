@@ -30,7 +30,7 @@ New to GitHub? [How to have your say](docs/have-your-say.md) shows you how to co
 | 10 | Is the project name right? | Open | Issues tab |
 | 11 | Is the timeline realistic? | Open | Issues tab |
 | 12 | Who are the maintainers and stewards? | Open. Volunteers wanted | Issues tab |
-| 13 | Which licenses should the project use? | Open. See the [draft](GOVERNANCE.md) | Issues tab |
+| 13 | Which licenses should the project use? | Share-alike licenses are in effect now, so contributions have clear terms. Open for comment. See [LICENSE.md](LICENSE.md) | Issues tab |
 | 14 | How should the Contributors Wall score contributions? | Open | Issues tab |
 | 15 | How should asks work? Can parts be shipped to the lab? | Open. Shipping depends on the site host. See [ASKS.md](ASKS.md) | Issues tab |
 | 16 | What is the long-term dream? | Open. Edit [VISION.md](VISION.md) | Issues tab |

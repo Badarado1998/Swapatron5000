@@ -68,6 +68,19 @@
   .btn.alt { background: transparent; color: var(--accent); border: 2px solid var(--accent); }
   a { color: var(--accent); }
   a:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+  ol.humans, ul.thanks { list-style: none; margin: 0 0 14px; padding: 0; }
+  ol.humans li { display: flex; align-items: center; gap: 12px; padding: 8px 0; border-top: 1px solid var(--line); }
+  ol.humans li:first-child { border-top: 0; }
+  ol.humans img, .ghost { width: 44px; height: 44px; border-radius: 50%; flex: none; }
+  .ghost {
+    display: flex; align-items: center; justify-content: center;
+    border: 2px dashed var(--line); color: var(--muted); font-weight: 600;
+  }
+  ol.humans li.waiting { color: var(--muted); }
+  ol.humans li.waiting strong { color: var(--ink); }
+  ol.humans span { line-height: 1.35; font-size: 0.95rem; }
+  .thanks-title { font-weight: 600; margin-bottom: 4px; }
+  ul.thanks li { padding: 3px 0; font-size: 0.95rem; }
   footer { color: var(--muted); font-size: 0.9rem; margin-top: 22px; }
 </style>
 </head>
@@ -116,6 +129,21 @@
   </section>
 
   <section>
+<!-- WALL:START -->
+    <h2>Swapatron's favorite humans</h2>
+    <p>Nobody has fed Swapatron yet, so it is imagining who will. Each spot is replaced by a real person as soon as someone earns it.</p>
+    <ol class="humans">
+      <li class="waiting"><span class="ghost" aria-hidden="true">?</span><span><strong>Waiting for: The Drawer Emptier</strong><br>Has a drawer full of spare dev boards and a guilty conscience.</span></li>
+      <li class="waiting"><span class="ghost" aria-hidden="true">?</span><span><strong>Waiting for: The Doodler</strong><br>Draws a box on a napkin and changes everything.</span></li>
+      <li class="waiting"><span class="ghost" aria-hidden="true">?</span><span><strong>Waiting for: The Skeptic</strong><br>Says &quot;this won&#x27;t work because...&quot; and is right, which is why it ends up working.</span></li>
+      <li class="waiting"><span class="ghost" aria-hidden="true">?</span><span><strong>Waiting for: The First-Timer</strong><br>Has never touched GitHub or a soldering iron, and shows up anyway.</span></li>
+      <li class="waiting"><span class="ghost" aria-hidden="true">?</span><span><strong>Waiting for: The Keeper</strong><br>Checks on Swapatron every week and expects no applause. Gets applause.</span></li>
+    </ol>
+    <a class="btn alt" href="https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/BOUNTIES.md">Get your name here</a>
+<!-- WALL:END -->
+  </section>
+
+  <section>
     <h2>Think it won't work?</h2>
     <p>Good. Tell Swapatron to its face. Every "this won't work because..." is treated as a challenge to overcome, not a reason to quit. Swapatron can not fix what it only hears about secondhand.</p>
     <a class="btn alt" href="https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/CHALLENGES.md">Tell it why it won't work</a>
@@ -134,7 +162,7 @@
   </section>
 
   <footer>
-    <p>An open source community project, hosted by Fishers Founders United. <a href="https://github.com/Fishers-Founders-United/Swapatron5000">Plans and files on GitHub</a>. <a href="https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/VISION.md">Read the dream</a>.</p>
+    <p>An open source community project, hosted by Fishers Founders United. <a href="https://github.com/Fishers-Founders-United/Swapatron5000">Plans and files on GitHub</a>, free to build on under <a href="https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/LICENSE.md">share-alike licenses</a>. <a href="https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/VISION.md">Read the dream</a>.</p>
   </footer>
 </main>
 </body>

@@ -38,7 +38,21 @@ You do not need to code. Everything here works on a phone. Never used GitHub? [T
 | Say why it won't work | [Tell Swapatron to its face](CHALLENGES.md). Every doubt is treated as a challenge to overcome |
 | Spread the word | Use the [share kit](docs/share-kit.md) |
 
-Every contribution earns a spot on the [Contributors Wall](CONTRIBUTORS.md).
+<!-- WALL:START -->
+## Swapatron's favorite humans
+
+Nobody has fed Swapatron yet, so it is imagining who will. Each spot below is replaced by a real person as soon as someone earns it.
+
+| # | Who | Points |
+|---|---|---|
+| 1 | *Waiting for:* **The Drawer Emptier.** Has a drawer full of spare dev boards and a guilty conscience. | ? |
+| 2 | *Waiting for:* **The Doodler.** Draws a box on a napkin and changes everything. | ? |
+| 3 | *Waiting for:* **The Skeptic.** Says "this won't work because..." and is right, which is why it ends up working. | ? |
+| 4 | *Waiting for:* **The First-Timer.** Has never touched GitHub or a soldering iron, and shows up anyway. | ? |
+| 5 | *Waiting for:* **The Keeper.** Checks on Swapatron every week and expects no applause. Gets applause. | ? |
+
+See everyone on the [Contributors Wall](CONTRIBUTORS.md), and [how to get your name here](BOUNTIES.md).
+<!-- WALL:END -->
 
 ## The proposed timeline
 
@@ -77,4 +91,5 @@ Good. [Tell Swapatron to its face](CHALLENGES.md). Every "this won't work becaus
 | [docs/swap-rules.md](docs/swap-rules.md) | Draft rules for what goes in the box |
 | [docs/learn-github.md](docs/learn-github.md) | Learn GitHub in 15 minutes |
 | [CONTRIBUTING.md](CONTRIBUTING.md) and [GOVERNANCE.md](GOVERNANCE.md) | How contributing works, and draft roles |
+| [LICENSE.md](LICENSE.md) | Share-alike: build your own, improve it, share it back. Nobody gets to close it up |
 | [AGENTS.md](AGENTS.md) | A briefing for AI assistants. Paste this to yours: "Read AGENTS.md in github.com/Fishers-Founders-United/Swapatron5000 and help me contribute." |

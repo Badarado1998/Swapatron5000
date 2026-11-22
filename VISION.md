@@ -41,7 +41,7 @@ A kid walks up to Swapatron, takes a sensor, goes home, builds something, and co
 
 - Any town can build one from these plans in a weekend
 - Each box has its own stewards and its own character
-- Boxes share designs, software, and lessons with each other
+- Boxes share designs, software, and lessons with each other, and every improvement flows back into one shared pool
 - A map shows every box and what each one needs
 
 ## What we are not dreaming of

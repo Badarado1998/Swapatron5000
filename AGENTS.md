@@ -94,10 +94,14 @@ For batteries, electrical design, and anything structural, tell the person that 
 ## Working in the repository
 
 - `bom/BOM.csv` is the wishlist. It is a draft until a design is chosen. Do not delete rows.
-- `contributions.csv` feeds `scripts/build_wall.py`, which writes `CONTRIBUTORS.md`. Never edit `CONTRIBUTORS.md` by hand. Only maintainers add contribution lines.
+- `contributions.csv` feeds `scripts/build_wall.py`, which writes `CONTRIBUTORS.md` and the "favorite humans" top five in `README.md` and `index.html` (between the `WALL:START` and `WALL:END` markers). Never edit those by hand, and never remove the markers. Only maintainers add contribution lines.
 - `index.html` at the top of the repository is the public web page. It is a single self-contained file with no outside dependencies. Keep it that way.
 - Relative links such as `../../issues` work on GitHub but break on the published web page. Use full URLs in `index.html`. GitHub Pages publishes this repository from its top folder.
 - Run `python3 scripts/build_wall.py` after changing the script, and check it still handles an empty `contributions.csv`.
+
+## Licenses
+
+The project is share-alike: CERN-OHL-S-2.0 for hardware, AGPL-3.0-or-later for software, and CC-BY-SA-4.0 for docs and artwork. See [LICENSE.md](LICENSE.md). Do not add material you can not license this way, such as copied code, images, or text from sources with incompatible terms. Do not change a license.
 
 ## What not to do
 
