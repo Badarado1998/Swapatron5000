@@ -8,6 +8,8 @@ Everyone is welcome, including people who have never used GitHub. If that is you
 
 - **Share a design sketch.** A photo of a pencil drawing is welcome. See [hardware/README.md](hardware/README.md).
 - **Join a team.** Box design, electronics, box management software, or UI and UX. See the table in the [README](README.md).
+- **Ask for a part, or fill an ask.** See [ASKS.md](ASKS.md).
+- **Add to the dream.** [VISION.md](VISION.md) is open for anyone to edit.
 - **Pledge parts or supplies.** See [bom/README.md](bom/README.md).
 - **Take a task.** Comment "I'll take this" on an issue. A maintainer will assign it to you.
 - **Propose an idea.** Open an "Idea" issue before doing a lot of work, so others can weigh in.
@@ -34,6 +36,7 @@ Types: `part`, `build`, `code`, `docs`, `upkeep`, `idea`. Points: 1, 2, 3, or 5.
 |---|---|
 | `good first issue` | Small, well described, good for newcomers and kids |
 | `bounty` | A job with points attached. See [BOUNTIES.md](BOUNTIES.md) |
+| `ask` | Someone needs a part. See [ASKS.md](ASKS.md) |
 | `decision` | An open question the community is deciding |
 | `hardware` | Shell, modules, mounting |
 | `electronics` | Power, lighting, sensors |

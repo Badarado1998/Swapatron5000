@@ -8,6 +8,8 @@
 
 The idea: a free, outdoor swap box for electronics parts. Take a part, leave a part. Think of a neighborhood book box, but for dev boards, wire, sensors, and connectors.
 
+Where could this go? Read [the dream](VISION.md), and change it.
+
 Nobody owns this project. The community designs it, builds it, stocks it, and looks after it. This page shows you how to join in.
 
 **Proposed first site:** Indiana IoT Lab, 9059 Technology Lane, Fishers, Indiana. Site approval is in progress.
@@ -24,6 +26,9 @@ Never used GitHub? Every option below works on a phone, with no coding. [This tw
 | Help design the box | Draw it on paper, snap a photo, and [share your sketch](../../issues/new?template=design-sketch.yml) | 10 minutes |
 | Earn points on a bounty | Pick a job from the [bounty board](BOUNTIES.md) | 30 minutes and up |
 | Give a part or supply | Check the [wishlist](bom/BOM.csv), then [pledge it](../../issues/new?template=pledge-a-part.yml) | 2 minutes |
+| Ask for a part I need | [Ask for a part](../../issues/new?template=ask-for-a-part.yml). See [how asks work](ASKS.md) | 2 minutes |
+| Fill someone's ask | Browse the [open asks](../../issues?q=is%3Aissue+is%3Aopen+label%3Aask) | 5 minutes |
+| Dream bigger | Read [the dream](VISION.md) and add to it | 5 minutes |
 | Share an idea | [Open an idea](../../issues/new?template=idea.yml) | 2 minutes |
 | Help build it | Read the [build day plan](docs/build-day.md) | A Saturday |
 | Help look after it | Take a week on the [upkeep rota](docs/maintenance.md) | 10 minutes a week |
@@ -81,9 +86,11 @@ Point it at [AGENTS.md](AGENTS.md). That file tells any AI what the project is, 
 
 | Page | What it is |
 |---|---|
+| [VISION.md](VISION.md) | The dream: where this could go. Open for anyone to edit |
 | [DECISIONS.md](DECISIONS.md) | Every open question, and how decisions get made |
 | [ROADMAP.md](ROADMAP.md) | The proposed timeline |
 | [BOUNTIES.md](BOUNTIES.md) | Jobs with points, levels, and badges |
+| [ASKS.md](ASKS.md) | Ask for a part you need, or fill someone else's ask |
 | [bom/](bom/README.md) | The wishlist of materials |
 | [docs/build-day.md](docs/build-day.md) | The build day plan |
 | [docs/maintenance.md](docs/maintenance.md) | The recurring upkeep schedule and rota |

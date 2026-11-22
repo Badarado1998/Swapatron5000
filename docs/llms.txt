@@ -14,6 +14,8 @@ The full briefing for AI assistants is AGENTS.md in the repository. Read it befo
 ## How to help
 
 - [How to have your say](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/docs/have-your-say.md): commenting and voting for people new to GitHub
+- [ASKS.md](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/ASKS.md): how people request parts and how others fill requests
+- [VISION.md](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/VISION.md): the long-term dream, not a plan
 - [BOUNTIES.md](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/BOUNTIES.md): jobs with points attached
 - [Designs](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/hardware/designs/README.md): example drawing and how to contribute one
 - [Wishlist](https://github.com/Fishers-Founders-United/Swapatron5000/blob/main/bom/BOM.csv): draft list of materials

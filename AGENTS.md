@@ -19,11 +19,13 @@ People: you can paste this to your assistant: "Read AGENTS.md in github.com/Fish
 ## Read these, in this order
 
 1. [README.md](README.md): the front door
-2. [DECISIONS.md](DECISIONS.md): every open question, and how decisions are made
-3. [ROADMAP.md](ROADMAP.md): the proposed timeline
-4. [BOUNTIES.md](BOUNTIES.md): jobs that need doing, with points
-5. [CONTRIBUTING.md](CONTRIBUTING.md): how contributions work
-6. The team page for the work at hand: [hardware/](hardware/README.md), [electronics/](electronics/README.md), [software/](software/README.md), or [ux/](ux/README.md)
+2. [VISION.md](VISION.md): the long-term dream. It is a dream, not a plan or a commitment
+3. [DECISIONS.md](DECISIONS.md): every open question, and how decisions are made
+4. [ROADMAP.md](ROADMAP.md): the proposed timeline
+5. [BOUNTIES.md](BOUNTIES.md): jobs that need doing, with points
+6. [ASKS.md](ASKS.md): how people request parts and how others fill those requests
+7. [CONTRIBUTING.md](CONTRIBUTING.md): how contributions work
+8. The team page for the work at hand: [hardware/](hardware/README.md), [electronics/](electronics/README.md), [software/](software/README.md), or [ux/](ux/README.md)
 
 ## Proposed timeline
 
@@ -44,6 +46,7 @@ Check [ROADMAP.md](ROADMAP.md) for the current version. Dates may have moved sin
 | Give an opinion | Help them find the right open question in DECISIONS.md and draft a short, specific comment in their own voice |
 | Share a design | Help them describe it, or produce an SVG based on `hardware/designs/example-concept/concept-front.svg` |
 | Take a bounty | Help them pick one that fits their skills and plan the work |
+| Ask for or give a part | Help them write a specific ask, or match what they own to open asks. Never include personal details, and never arrange delivery to a person |
 | Review something | Check a design against the proposed brief in `hardware/README.md`, or a doc for clarity |
 | Write code | Propose small, readable, standard-library-first solutions. See `software/README.md` for the principles |
 | Design electronics | Draft a power budget, a schematic outline, or firmware, and flag every assumption |
@@ -73,6 +76,7 @@ These are the project's proposed safety baseline. Do not design around them. If 
 - Collect no personal data by default. Using the box must not require an account unless the community decides otherwise
 - Children use this project. Keep everything suitable for them
 - The site host can veto anything on its property
+- Asked-for parts go to the box or the lab, never to a person's home. Do not tell anyone to ship to the lab while ASKS.md says shipping is not confirmed
 
 For batteries, electrical design, and anything structural, tell the person that a qualified human must review the work before it is built.
 

@@ -1,0 +1,43 @@
+name: Ask for a part
+description: Need something for a project? Ask the community to add it to the box.
+title: "Ask: "
+labels: ["ask"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Parts are left in the swap box for you to collect. Please do not post your address, phone number, email, school, or age.
+  - type: input
+    id: item
+    attributes:
+      label: What do you need?
+      description: Be as exact as you can.
+      placeholder: Soil moisture sensor, capacitive type
+    validations:
+      required: true
+  - type: input
+    id: quantity
+    attributes:
+      label: How many?
+      placeholder: "3"
+    validations:
+      required: true
+  - type: textarea
+    id: project
+    attributes:
+      label: What are you building?
+      description: A sentence or two. People love helping a real project.
+  - type: input
+    id: link
+    attributes:
+      label: Link to an example (optional)
+      description: A store page or datasheet that shows the exact part. This helps someone order the right thing.
+  - type: dropdown
+    id: used
+    attributes:
+      label: Is a used, working part OK?
+      options:
+        - "Yes"
+        - New only, please
+    validations:
+      required: true

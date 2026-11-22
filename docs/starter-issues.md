@@ -41,6 +41,9 @@ Also create:
 | Box check log (standing issue for weekly check reports) | `needs owner` |
 | Build day sign-up (open in February 2027) | `needs owner` |
 | One issue per bounty in `BOUNTIES.md`, titled "Bounty (points): job" | `bounty` |
+| Confirm with the lab whether parcels can be received, then remove the notice in `ASKS.md` | `needs owner` |
+
+Also create the `ask`, `bounty`, and `decision` labels. The "Ask for a part" form needs the `ask` label to exist.
 
 ## How to write an easy win
 
