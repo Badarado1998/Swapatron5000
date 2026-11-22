@@ -26,7 +26,7 @@
 | Sat Feb 20, 2027 | Feed Swapatron: parts drive and kit making |
 | Sat Mar 20, 2027 | Build day |
 | Sat Apr 10, 2027 | Install day |
-| Sat Apr 24, 2027 | Hatching day: Swapatron opens |
+| Sat Apr 24, 2027 | Hatching day: Swapatron opens, with food trucks and a celebration |
 | Sat Jul 24, 2027 | 90 day check-up |
 
 Every event is a proposal until the lab confirms it. Details, and who each event is for: [launch dates and events](docs/events.md).
@@ -85,7 +85,7 @@ Supplies that any design will need, such as anti-static bags and desiccant, can 
 |---|---|
 | Week of Apr 5 | Call 811 to have underground lines marked before any digging |
 | Sat Apr 10 | Install day. Backup date: Sat Apr 17 |
-| Sat Apr 24 | Opening day. The box is stocked and the rota starts |
+| Sat Apr 24 | Opening day, with food trucks and a celebration. The box is stocked and the rota starts |
 
 ## Phase 6: Look after it (from Apr 24, 2027)
 

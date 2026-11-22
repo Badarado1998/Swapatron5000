@@ -7,8 +7,8 @@ People: you can paste this to your assistant: "Read AGENTS.md in github.com/Fish
 ## The project in five lines
 
 - **What:** the IoT Swapatron 5000, a proposed free outdoor swap box for IoT and electronics parts. Take a part. Build something. Pass it on.
-- **Where:** proposed for the Indiana IoT Lab, 9059 Technology Lane, Fishers, Indiana. Site approval is pending.
-- **Who:** a community project under the Fishers Founders United GitHub organization. Many contributors are new to GitHub. Some are kids.
+- **Where:** box one is proposed for Fishers, Indiana, outside the Indiana IoT Lab, 9059 Technology Lane. Site approval is pending. The project is not only for Fishers: any town can hatch its own box. See [docs/your-swapatron.md](docs/your-swapatron.md).
+- **Who:** a community project under the Fishers Founders United GitHub organization. Born out of Indiana IoT and Fishers Founders United, with Mutiny19. That is where it began, not a sign that any of them has approved a decision. Many contributors are new to GitHub. Some are kids.
 - **Mission (draft):** make IoT parts free to share, and help the community learn to build things together in the open.
 - **Status:** planning. **Nothing is decided and nothing is built.**
 

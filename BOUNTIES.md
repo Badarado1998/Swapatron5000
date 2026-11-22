@@ -73,6 +73,8 @@ These open as issues once the project launches. Most are for the listening phase
 | Design and prototype the sensor node | 5 | code |
 | Host an in-person event from the [events list](docs/events.md) | 3 | upkeep |
 | Lead build day | 5 | build |
+| Line up food trucks for hatching day, with the lab's OK on space and permits | 3 | upkeep |
+| Help a second town plan its own Swapatron | 5 | idea |
 | Organize the first three months of the upkeep rota | 5 | upkeep |
 
 ## Suggest a bounty

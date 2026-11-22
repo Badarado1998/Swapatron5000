@@ -25,6 +25,7 @@ Once the issues exist, you can delete this file.
 | Should any part of the box unlock through GitHub? | `rfc` |
 | Set up the weekly check rota | `needs owner` |
 | Plan the first build day | `needs owner` |
+| Plan hatching day: food trucks, celebration, and what the lab and the city allow | `needs owner`, `event` |
 | Fix anything confusing in the GitHub tutorial | `docs`, `good first issue` |
 | Share a design sketch for the box (one issue per sketch is fine) | `hardware`, `good first issue` |
 | Suggest a gasketed bin for the standard module, with a store link | `hardware`, `good first issue` |

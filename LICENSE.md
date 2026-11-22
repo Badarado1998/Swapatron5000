@@ -44,7 +44,7 @@ The name policy is a proposal and is not yet backed by a registered trademark.
 
 The dream is a single, shared Swapatron family: many boxes in many towns, all drawing on and adding to the same designs. If you build one:
 
-1. Tell us. Open an [idea](../../issues/new?template=idea.yml) with the title "New box: " and where it is.
+1. Tell us. Use the [New box form](../../issues/new?template=hatch-a-swapatron.yml) and say where it is. See [Hatch your own Swapatron](docs/your-swapatron.md).
 2. Share what you changed and what you learned.
 3. Send your improvements back as pull requests, so the next builder starts from your version.
 

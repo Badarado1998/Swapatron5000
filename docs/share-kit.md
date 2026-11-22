@@ -12,7 +12,7 @@ A group of us in Fishers are planning a free swap box for electronics parts, and
 
 > Meet Swapatron. It is a box. It eats the spare electronics in your drawer and passes them on to someone who will build with them.
 >
-> It has not hatched yet. It lives in Fishers, Indiana, and it needs help deciding what it looks like, what it eats, and what its rules are.
+> It has not hatched yet. Box one is planned for Fishers, Indiana, and it needs help deciding what it looks like, what it eats, and what its rules are.
 >
 > Think it won't work? Excellent. Tell it to its face: https://fishers-founders-united.github.io/Swapatron5000/
 
@@ -35,7 +35,7 @@ A group of us in Fishers are planning a free swap box for electronics parts, and
 ## For a flyer or a notice board
 
 **IoT Swapatron 5000**
-A free swap box for electronics parts. Coming to Fishers, if we build it together.
+A free swap box for electronics parts. Box one is planned for Fishers, Indiana. Any town can hatch its own.
 Take a part. Build something. Pass it on.
 Nothing is decided yet. Help design it.
 fishers-founders-united.github.io/Swapatron5000
@@ -44,6 +44,8 @@ fishers-founders-united.github.io/Swapatron5000
 
 - **Say "planning" or "proposed".** The box is not built, and the site is not approved yet.
 - **Do not promise dates.** The dates are proposals. Only promote an event once [events.md](events.md) says it is confirmed.
+- **Say it is not only Fishers.** Box one is in Fishers. Any town can hatch its own. See [your-swapatron.md](your-swapatron.md).
+- **"Born out of" is not "approved by".** The project was born out of Indiana IoT and Fishers Founders United, with Mutiny19. Do not say the lab or anyone else has approved or endorsed it until they have.
 - **Do not use the lab's logo** or say the lab endorses the project unless the lab has agreed.
 - **Do not share the shipping address** until the notice in [ASKS.md](../ASKS.md) is removed.
 

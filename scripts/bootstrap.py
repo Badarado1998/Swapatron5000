@@ -38,6 +38,7 @@ LABELS = {
     "electronics": ("FEF2C0", "Power, sensors, radios"),
     "software": ("D4C5F9", "Inventory, alerts, forms"),
     "docs": ("C2E0C6", "Writing, signs, drawings, the tutorial"),
+    "network": ("0E8A16", "Boxes in other towns and how they connect"),
     "supplies": ("F9D0C4", "Bags, labels, desiccant, lumber"),
     "needs owner": ("EDEDED", "Nobody has claimed this yet. Comment to take it"),
     "good first issue": ("7057FF", "A friendly place to start"),

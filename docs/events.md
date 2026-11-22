@@ -19,7 +19,7 @@ All in-person events are proposed for the Indiana IoT Lab, 9059 Technology Lane,
 | Sun Mar 14, 2027 | Materials check (online) | Is everything on the wishlist here? If not, build day moves | Proposed |
 | Sat Mar 20, 2027 | **Build day** | We build the box together, indoors. See the [build day plan](build-day.md) | Proposed |
 | Sat Apr 10, 2027 | **Install day** | The box goes in the ground. Backup date: Sat Apr 17 | Proposed |
-| Sat Apr 24, 2027 | **Hatching day** | Swapatron opens. First feeding. Bring a part, take a part | Proposed |
+| Sat Apr 24, 2027 | **Hatching day** | Swapatron opens with a celebration and food trucks. First feeding. Bring a part, take a part | Proposed. Food trucks not booked |
 | Sat Jul 24, 2027 | **90 day check-up** | What worked, what broke, what to change | Proposed |
 
 ## Who each event is for
@@ -54,3 +54,16 @@ Open an [idea](../../../issues/new?template=idea.yml) with the title "Event: " a
 - Create one issue per confirmed event, with the `event` label, and link it from the table.
 - Do not promote an event publicly while it says "Proposed".
 - If a date moves, change it here first. Then update [ROADMAP.md](../ROADMAP.md), the README, and the web page.
+
+## About hatching day
+
+The plan is a celebration with food trucks when Swapatron opens. It is a plan, not a booking. Before anyone promises it publicly, someone has to check:
+
+- The site host agrees to a public event and to trucks on its property
+- What the city of Fishers requires for a gathering, for vendors, and for parking
+- Who invites the trucks, and who pays for anything. No one person should end up with the bill
+- Where people park, and where the line forms, so the box and the doors stay clear
+- A rain plan, because it is April in Indiana
+- Who thanks the people on the [Contributors Wall](../CONTRIBUTORS.md), by name, out loud
+
+Want to run it? Take the hatching day bounty on [the bounty board](../BOUNTIES.md).

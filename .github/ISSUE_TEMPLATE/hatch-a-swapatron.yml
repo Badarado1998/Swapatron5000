@@ -1,0 +1,68 @@
+name: New box (hatch your own Swapatron)
+description: Want a Swapatron in your town? Tell us where, so others can find you and help.
+title: "New box: "
+labels: ["network"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Box one is planned for Fishers, Indiana, and nothing about the network is decided yet. This form just says "a box is being planned here." Please do not post a street address, phone number, email, or any private details.
+  - type: input
+    id: place
+    attributes:
+      label: Town and state or country
+      placeholder: Springfield, Illinois
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of place would host it?
+      options:
+        - Library
+        - School
+        - Makerspace or lab
+        - Business
+        - Club or scout troop
+        - Public space
+        - A home or yard
+        - Not sure yet
+    validations:
+      required: true
+  - type: dropdown
+    id: host
+    attributes:
+      label: Has the site host said yes?
+      options:
+        - "Yes, in writing"
+        - "Yes, out loud"
+        - "I am asking"
+        - "Not yet"
+    validations:
+      required: true
+  - type: dropdown
+    id: steward
+    attributes:
+      label: Do you have someone to look after it every week?
+      options:
+        - "Yes, and a backup"
+        - "Yes, just one person"
+        - "Not yet"
+    validations:
+      required: true
+  - type: textarea
+    id: climate
+    attributes:
+      label: Anything about your climate or site we should know?
+      description: Hot summers, salt air, heavy snow, flooding. Different places will need different designs.
+  - type: textarea
+    id: help
+    attributes:
+      label: What would help you most?
+  - type: checkboxes
+    id: agree
+    attributes:
+      label: Before you go ahead
+      options:
+        - label: I have read the proposed rules in docs/your-swapatron.md
+          required: true

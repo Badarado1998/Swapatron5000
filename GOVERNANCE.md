@@ -25,7 +25,7 @@
 
 ## Other boxes
 
-Anyone may build their own box from these plans. To be listed here as a sister box, name a site steward and follow the swap rules.
+Anyone, anywhere, may build their own box from these plans. To be listed as a sister box, name a site steward and follow the swap rules. See [Hatch your own Swapatron](docs/your-swapatron.md).
 
 ## Licenses
 

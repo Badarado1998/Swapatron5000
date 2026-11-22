@@ -1,6 +1,6 @@
 # IoT Swapatron 5000
 
-**A free electronics parts swap box, built by the community in Fishers, Indiana.**
+**A free electronics parts swap box, built by the community. Box one is planned for Fishers, Indiana. Any town can hatch its own.**
 
 **Take a part. Build something. Pass it on.**
 
@@ -10,7 +10,9 @@ Meet Swapatron. It is a box. It eats spare electronics parts, and it gives them 
 
 ## The idea
 
-Think of a neighborhood book box, but for dev boards, sensors, wire, and connectors. Swapatron would live outside the Indiana IoT Lab. The community would design it, build it, feed it, and look after it.
+Think of a neighborhood book box, but for dev boards, sensors, wire, and connectors. The first Swapatron is planned for Fishers, Indiana, outside the Indiana IoT Lab. The community would design it, build it, feed it, and look after it.
+
+It is not only for Fishers. The plans are open, so any town can [hatch its own](docs/your-swapatron.md).
 
 You feed it the parts in your drawer. It passes them on to someone who will build with them. (Yes, "passes". We are not explaining further.)
 
@@ -36,6 +38,7 @@ You do not need to code. Everything here works on a phone. Never used GitHub? [T
 | Ask for a part I need | [Ask for a part](../../issues/new?template=ask-for-a-part.yml) |
 | Take on a job | Pick one from the [bounty board](BOUNTIES.md) |
 | Say why it won't work | [Tell Swapatron to its face](CHALLENGES.md). Every doubt is treated as a challenge to overcome |
+| Hatch a Swapatron in my town | Read [Hatch your own](docs/your-swapatron.md), then [tell us where](../../issues/new?template=hatch-a-swapatron.yml) |
 | Spread the word | Use the [share kit](docs/share-kit.md) |
 
 <!-- WALL:START -->
@@ -67,7 +70,7 @@ See everyone on the [Contributors Wall](CONTRIBUTORS.md), and [how to get your n
 | Feb 1 to Mar 14, 2027 | Gather materials. **Feed Swapatron** parts drive on Sat Feb 20 |
 | Sat Mar 20, 2027 | **Build day**, indoors at the lab |
 | Sat Apr 10, 2027 | **Install day** |
-| Sat Apr 24, 2027 | **Hatching day.** Swapatron opens |
+| Sat Apr 24, 2027 | **Hatching day.** Swapatron opens, with food trucks and a celebration |
 
 Every date is a proposal. None is confirmed with the lab yet. [Events in detail](docs/events.md) and the [full timeline](ROADMAP.md).
 
@@ -87,6 +90,7 @@ Good. [Tell Swapatron to its face](CHALLENGES.md). Every "this won't work becaus
 | [CHALLENGES.md](CHALLENGES.md) | Every reason this might not work, and how we plan to beat it |
 | [DECISIONS.md](DECISIONS.md) | Every open question, and how decisions get made |
 | [ROADMAP.md](ROADMAP.md) | The proposed timeline in full |
+| [docs/your-swapatron.md](docs/your-swapatron.md) | Hatch a Swapatron in your own town |
 | [docs/events.md](docs/events.md) | Launch dates and in-person events |
 | [BOUNTIES.md](BOUNTIES.md) | Jobs with points, levels, and badges |
 | [ASKS.md](ASKS.md) | Ask for a part, or fill someone else's ask |
@@ -99,3 +103,7 @@ Good. [Tell Swapatron to its face](CHALLENGES.md). Every "this won't work becaus
 | [CONTRIBUTING.md](CONTRIBUTING.md) and [GOVERNANCE.md](GOVERNANCE.md) | How contributing works, and draft roles |
 | [LICENSE.md](LICENSE.md) | Share-alike: build your own, improve it, share it back. Nobody gets to close it up |
 | [AGENTS.md](AGENTS.md) | A briefing for AI assistants. Paste this to yours: "Read AGENTS.md in github.com/Fishers-Founders-United/Swapatron5000 and help me contribute." |
+
+---
+
+*Born out of Indiana IoT and Fishers Founders United, with Mutiny19.*

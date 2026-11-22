@@ -34,6 +34,7 @@ New to GitHub? [How to have your say](docs/have-your-say.md) shows you how to co
 | 14 | How should the Contributors Wall score contributions? | Open | Issues tab |
 | 15 | How should asks work? Can parts be shipped to the lab? | Open. Shipping depends on the site host. See [ASKS.md](ASKS.md) | Issues tab |
 | 16 | What is the long-term dream? | Open. Edit [VISION.md](VISION.md) | Issues tab |
+| 17 | How should other towns join the network of boxes? | Open. See [Hatch your own](docs/your-swapatron.md) | Issues tab |
 
 Do not see your question? Add it. Open an [idea](../../issues/new?template=idea.yml).
 

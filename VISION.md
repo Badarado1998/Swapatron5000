@@ -8,6 +8,8 @@ A kid walks up to Swapatron, takes a sensor, goes home, builds something, and co
 
 ## The first box
 
+Box one is planned for Fishers, Indiana. It is the first, not the only one.
+
 - It stands outside the Indiana IoT Lab, lit at night, and anyone can use it
 - You can see what is inside before you open the door
 - The parts are sorted, bagged, labeled, and dry
