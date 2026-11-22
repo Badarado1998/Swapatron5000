@@ -19,24 +19,24 @@ New to GitHub? [How to have your say](docs/have-your-say.md) shows you how to co
 | # | Question | Status | Where to comment |
 |---|---|---|---|
 | 1 | What should the box look like? | Open. Sketches welcome | [Share a sketch](../../issues/new?template=design-sketch.yml) |
-| 2 | Which bin should be the standard size? | Open | Issues tab |
-| 3 | Post mount or wall mount? | Open. Depends on the site host | Issues tab |
-| 4 | Cedar, HDPE, or exterior plywood? | Open | Issues tab |
-| 5 | Latch only, or a lock? Should it unlock through GitHub? | Open | Issues tab |
-| 6 | How can we share batteries safely? | Open | Issues tab |
-| 7 | What goes in the box, and what does not? | Open. See the [draft rules](docs/swap-rules.md) | Issues tab |
-| 8 | What should the sign say? | Open | Issues tab |
-| 9 | Should there be any camera or automatic inventory? | Open. Needs a privacy review | Issues tab |
-| 10 | Is the project name right? | Open | Issues tab |
-| 11 | Is the timeline realistic? | Open | Issues tab |
-| 12 | Who are the maintainers and stewards? | Open. Volunteers wanted | Issues tab |
-| 13 | Which licenses should the project use? | Share-alike licenses are in effect now, so contributions have clear terms. Open for comment. See [LICENSE.md](LICENSE.md) | Issues tab |
-| 14 | How should the Contributors Wall score contributions? | Open | Issues tab |
-| 15 | How should asks work? Can parts be shipped to the lab? | Open. Shipping depends on the site host. See [ASKS.md](ASKS.md) | Issues tab |
-| 16 | What is the long-term dream? | Open. Edit [VISION.md](VISION.md) | Issues tab |
-| 17 | How should other towns join the network of boxes? | Open. See [Hatch your own](docs/your-swapatron.md) | Issues tab |
-| 18 | What youth protection and safety rules do events and the petting zoo need? | Open. Needs review by someone who works with kids. See the [draft code of conduct](CODE_OF_CONDUCT.md) and [petting zoo rules](docs/petting-zoo.md) | Issues tab |
-| 19 | Who is on the founding team, and for how long? | Open. See [the founding team](docs/founding-team.md) | Issues tab |
+| 2 | Which bin should be the standard size? | Open | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/35) |
+| 3 | Post mount or wall mount? | Open. Depends on the site host | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/36) |
+| 4 | Cedar, HDPE, or exterior plywood? | Open | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/37) |
+| 5 | Latch only, or a lock? Should it unlock through GitHub? | Open | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/38) |
+| 6 | How can we share batteries safely? | Open | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/39) |
+| 7 | What goes in the box, and what does not? | Open. See the [draft rules](docs/swap-rules.md) | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/40) |
+| 8 | What should the sign say? | Open | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/41) |
+| 9 | Should there be any camera or automatic inventory? | Open. Needs a privacy review | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/42) |
+| 10 | Is the project name right? | Open | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/43) |
+| 11 | Is the timeline realistic? | Open | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/44) |
+| 12 | Who are the maintainers and stewards? | Open. Volunteers wanted | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/45) |
+| 13 | Which licenses should the project use? | Share-alike licenses are in effect now, so contributions have clear terms. Open for comment. See [LICENSE.md](LICENSE.md) | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/46) |
+| 14 | How should the Contributors Wall score contributions? | Open | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/47) |
+| 15 | How should asks work? Can parts be shipped to the lab? | Open. Shipping depends on the site host. See [ASKS.md](ASKS.md) | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/48) |
+| 16 | What is the long-term dream? | Open. Edit [VISION.md](VISION.md) | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/49) |
+| 17 | How should other towns join the network of boxes? | Open. See [Hatch your own](docs/your-swapatron.md) | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/50) |
+| 18 | What youth protection and safety rules do events and the petting zoo need? | Open. Needs review by someone who works with kids. See the [draft code of conduct](CODE_OF_CONDUCT.md) and [petting zoo rules](docs/petting-zoo.md) | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/51) |
+| 19 | Who is on the founding team, and for how long? | Open. See [the founding team](docs/founding-team.md) | [Comment](https://github.com/Fishers-Founders-United/Swapatron5000/issues/52) |
 
 Do not see your question? Add it. Open an [idea](../../issues/new?template=idea.yml).
 
