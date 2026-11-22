@@ -1,23 +1,23 @@
-item,category,qty_needed,qty_pledged,status,pledged_by,notes
-Exterior shell material (cedar or HDPE or exterior plywood),shell,1,0,needed,,Final choice depends on shell design issue
-Roofing with drip edge,shell,1,0,needed,,Pitched with overhang
-Clear door panel (polycarbonate),shell,1,0,needed,,Lets people see inside before opening
-Hinges and latch (stainless or coated),shell,1,0,needed,,Weather rated
-Mounting post or wall bracket,shell,1,0,needed,,Depends on site approval
-Screened louver vents,shell,2,0,needed,,Prevents condensation
-Exterior paint or sealant (light color),shell,1,0,needed,,
-Gasketed lidded bins (standard module size),storage,4,0,needed,,Size sets the module standard. Decide first
-Open bins or drawers,storage,3,0,needed,,For wire and hardware
-Anti-static bags (assorted),supplies,100,0,needed,,Ongoing need
-Small zip bags,supplies,100,0,needed,,Ongoing need
-Indicating silica gel desiccant packs,supplies,20,0,needed,,Ongoing need. Color change type
-Tested and working tags or labels,supplies,100,0,needed,,
-Weatherproof sign panel,signage,1,0,needed,,Rules plus QR code
-Solar panel (small),power,1,0,needed,,Size to be set by power budget issue
-Charge controller,power,1,0,needed,,
-Battery rated for outdoor temperature range,power,1,0,needed,,Chemistry and enclosure need review
-LED strip with door switch,lighting,1,0,needed,,
-Temperature and humidity sensor,sensing,1,0,needed,,Drives desiccant alerts
-Door reed switch,sensing,1,0,needed,,Counts openings
-Microcontroller with radio,sensing,1,0,needed,,Wi-Fi or LoRa. To be decided
-Weatherproof electronics enclosure (IP65 or better),sensing,1,0,needed,,
+item,category,qty_needed,qty_pledged,status,pledged_by,buy_link,notes
+Exterior shell material (cedar or HDPE or exterior plywood),shell,1,0,needed,,,Final choice depends on shell design issue
+Roofing with drip edge,shell,1,0,needed,,,Pitched with overhang
+Clear door panel (polycarbonate),shell,1,0,needed,,,Lets people see inside before opening
+Hinges and latch (stainless or coated),shell,1,0,needed,,,Weather rated
+Mounting post or wall bracket,shell,1,0,needed,,,Depends on site approval
+Screened louver vents,shell,2,0,needed,,,Prevents condensation
+Exterior paint or sealant (light color),shell,1,0,needed,,,
+Gasketed lidded bins (standard module size),storage,4,0,needed,,,Size sets the module standard. Decide first
+Open bins or drawers,storage,3,0,needed,,,For wire and hardware
+Anti-static bags (assorted),supplies,100,0,needed,,,Ongoing need
+Small zip bags,supplies,100,0,needed,,,Ongoing need
+Indicating silica gel desiccant packs,supplies,20,0,needed,,,Ongoing need. Color change type
+Tested and working tags or labels,supplies,100,0,needed,,,
+Weatherproof sign panel,signage,1,0,needed,,,Rules plus QR code
+Solar panel (small),power,1,0,needed,,,Size to be set by power budget issue
+Charge controller,power,1,0,needed,,,
+Battery rated for outdoor temperature range,power,1,0,needed,,,Chemistry and enclosure need review
+LED strip with door switch,lighting,1,0,needed,,,
+Temperature and humidity sensor,sensing,1,0,needed,,,Drives desiccant alerts
+Door reed switch,sensing,1,0,needed,,,Counts openings
+Microcontroller with radio,sensing,1,0,needed,,,Wi-Fi or LoRa. To be decided
+Weatherproof electronics enclosure (IP65 or better),sensing,1,0,needed,,,

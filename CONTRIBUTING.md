@@ -10,6 +10,19 @@ Everyone is welcome, including people who have never used GitHub. If that is you
 - **Improve the docs.** If something confused you, fixing it is a great first pull request.
 - **Help on site.** Build days and the weekly check rota are listed in [docs/maintenance.md](docs/maintenance.md).
 
+## The Contributors Wall
+
+Every contribution earns a line in `contributions.csv`, which builds the [Contributors Wall](CONTRIBUTORS.md) and its leaderboard automatically. One contribution is one point, whatever its size or cost.
+
+Maintainers add the line when a part is received, a pull request is merged, or a box check is done:
+
+```
+date,username,type,description
+2026-12-01,your-username,part,Anti-static bags
+```
+
+Types: `part`, `build`, `code`, `docs`, `upkeep`, `idea`. If you would rather not be listed, say so and you will be left off.
+
 ## Labels
 
 | Label | Meaning |
