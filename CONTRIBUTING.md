@@ -4,6 +4,8 @@ Everyone is welcome, including people who have never used GitHub. If that is you
 
 ## Ways to contribute
 
+- **Share a design sketch.** A photo of a pencil drawing is welcome. See [hardware/README.md](hardware/README.md).
+- **Join a team.** Box design, electronics, box management software, or UI and UX. See the table in the [README](README.md).
 - **Pledge parts or supplies.** See [bom/README.md](bom/README.md).
 - **Take a task.** Comment "I'll take this" on an issue. A maintainer will assign it to you.
 - **Propose an idea.** Open an "Idea" issue before doing a lot of work, so others can weigh in.

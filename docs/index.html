@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IoT Swapatron 5000</title>
+<meta name="description" content="A free community swap box for IoT and electronics parts. Take a part, leave a part.">
+<style>
+  :root {
+    --bg: #f6f4ee; --card: #ffffff; --ink: #1d2a26; --muted: #55635e;
+    --line: #d9d5c8; --accent: #0f6e56; --accent-ink: #ffffff;
+    --yes: #0f6e56; --no: #a32d2d;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141a18; --card: #1d2623; --ink: #eef2ef; --muted: #a9b5b0;
+      --line: #33403b; --accent: #5dcaa5; --accent-ink: #04342c;
+      --yes: #5dcaa5; --no: #f09595;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 18px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 640px; margin: 0 auto; padding: 28px 20px 48px; }
+  .tag {
+    font: 600 13px/1 ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent);
+  }
+  h1 { font-size: 2.1rem; line-height: 1.1; margin: 10px 0 12px; text-wrap: balance; }
+  h2 { font-size: 1.2rem; margin: 0 0 10px; }
+  p { margin: 0 0 12px; }
+  .lead { font-size: 1.15rem; color: var(--muted); }
+  section {
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 12px; padding: 18px 18px 8px; margin-top: 18px;
+  }
+  ul { margin: 0 0 12px; padding-left: 22px; }
+  li { margin-bottom: 4px; }
+  .cols { display: grid; grid-template-columns: 1fr; gap: 0 20px; }
+  @media (min-width: 520px) { .cols { grid-template-columns: 1fr 1fr; } }
+  .yes h3, .no h3 { font-size: 1rem; margin: 0 0 6px; }
+  .yes h3 { color: var(--yes); }
+  .no h3 { color: var(--no); }
+  ol { margin: 0 0 12px; padding-left: 22px; }
+  .btn {
+    display: block; text-align: center; text-decoration: none;
+    background: var(--accent); color: var(--accent-ink);
+    font-weight: 600; padding: 14px 16px; border-radius: 10px; margin: 0 0 10px;
+  }
+  .btn.alt { background: transparent; color: var(--accent); border: 2px solid var(--accent); }
+  a { color: var(--accent); }
+  a:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+  footer { color: var(--muted); font-size: 0.9rem; margin-top: 22px; }
+</style>
+</head>
+<body>
+<main>
+  <div class="tag">Free community swap box</div>
+  <h1>IoT Swapatron 5000</h1>
+  <p class="lead">Take a part. Leave a part. Dev boards, wire, sensors, and connectors, free for anyone who wants to build something.</p>
+
+  <section>
+    <h2>How it works</h2>
+    <ol>
+      <li>Open the box and take what you will use.</li>
+      <li>Leave your spare parts for the next person.</li>
+      <li>Bag it and label it: what it is, and whether you tested it.</li>
+    </ol>
+    <p>Boards, sensors, and chips go in the sealed bin. Close the lid firmly. Everything else goes in the open bins.</p>
+  </section>
+
+  <section>
+    <h2>What goes in the box</h2>
+    <div class="cols">
+      <div class="yes">
+        <h3>Yes please</h3>
+        <ul>
+          <li>Working dev boards</li>
+          <li>Sensors and displays</li>
+          <li>Wire, jumpers, and cables</li>
+          <li>Connectors and headers</li>
+          <li>Small components</li>
+          <li>Breadboards and enclosures</li>
+        </ul>
+      </div>
+      <div class="no">
+        <h3>No thanks</h3>
+        <ul>
+          <li>Loose lithium batteries</li>
+          <li>Anything that plugs into a wall</li>
+          <li>Broken gear</li>
+          <li>Sharp or hot tools</li>
+          <li>Chemicals, flux, and solder</li>
+        </ul>
+      </div>
+    </div>
+    <p>Parts are free and come with no guarantee. Small parts are a choking hazard, so young children need an adult with them.</p>
+  </section>
+
+  <section>
+    <h2>Help build it</h2>
+    <p>The community designs, builds, stocks, and looks after this box. You do not need to code.</p>
+    <a class="btn" href="https://github.com/shanebivens/IoT-Swapatron-5000#help-in-3-steps">See how to help</a>
+    <a class="btn alt" href="https://github.com/shanebivens/IoT-Swapatron-5000/blob/main/bom/BOM.csv">See what the box needs</a>
+    <p>Something wrong with the box? <a href="https://github.com/shanebivens/IoT-Swapatron-5000/issues/new?template=help.yml">Tell us</a>.</p>
+  </section>
+
+  <footer>
+    <p>First box planned for the Indiana IoT Lab in Fishers, Indiana. An open source community project. <a href="https://github.com/shanebivens/IoT-Swapatron-5000">Plans and files on GitHub</a>.</p>
+  </footer>
+</main>
+</body>
+</html>

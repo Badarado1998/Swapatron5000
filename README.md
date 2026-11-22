@@ -1,8 +1,10 @@
 # IoT Swapatron 5000
 
-A free, outdoor swap box for IoT and electronics parts. Take a part, leave a part. Think of a neighborhood book box, but for dev boards, wire, sensors, and connectors.
+**Our mission:** make IoT parts free to share, and help our community learn to build things together in the open.
 
-The box is physical. The plans, the parts list, and the to-do list live here, so anyone can help build it or copy it for their own town.
+The IoT Swapatron 5000 is a free, outdoor swap box for electronics parts. Take a part, leave a part. Think of a neighborhood book box, but for dev boards, wire, sensors, and connectors.
+
+Nobody owns this project. The community designs it, builds it, stocks it, and looks after it. This page shows you how to join in.
 
 **First box (planned):** Indiana IoT Lab, 9059 Technology Lane, Fishers, Indiana. Site approval is in progress.
 
@@ -12,9 +14,10 @@ The box is physical. The plans, the parts list, and the to-do list live here, so
 
 | I want to... | Do this | Time |
 |---|---|---|
+| Grab an easy win | Browse issues labeled [good first issue](../../issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) | 5 minutes and up |
 | Give a part or supply | Check the [wishlist](bom/BOM.csv), then [pledge it](../../issues/new?template=pledge-a-part.yml) | 2 minutes |
+| Help design the box | Draw it on paper, snap a photo, and [share your sketch](../../issues/new?template=design-sketch.yml) | 10 minutes |
 | Share an idea | [Open an idea](../../issues/new?template=idea.yml) | 2 minutes |
-| Do a task | Browse [open tasks](../../issues) and comment "I'll take this" | Varies |
 | Help look after the box | See the [maintenance rota](docs/maintenance.md) | 10 minutes a week |
 
 ### 2. New to GitHub? Take the 15 minute tour
@@ -24,6 +27,21 @@ The box is physical. The plans, the parts list, and the to-do list live here, so
 ### 3. Get on the wall
 
 Every contribution, big or small, earns a spot on the [Contributors Wall](CONTRIBUTORS.md).
+
+## Where are we now?
+
+See the [roadmap](ROADMAP.md). Right now we are in **Phase 1: Design**.
+
+## Pick a team
+
+Each team has its own page with a short brief and a list of open questions. Join as many as you like.
+
+| Team | What it covers | Start here |
+|---|---|---|
+| Box design | The shell, the bins, the mount, the sign | [hardware/](hardware/README.md) |
+| Electronics | Solar power, lighting, sensors | [electronics/](electronics/README.md) |
+| Box management software | Inventory, alerts, dashboard, the full stack | [software/](software/README.md) |
+| UI and UX | How people find, use, and understand the box | [ux/](ux/README.md) |
 
 ## Stuck?
 
