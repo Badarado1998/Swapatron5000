@@ -71,6 +71,7 @@ These open as issues once the project launches. Most are for the listening phase
 | Write the cut list from the chosen design | 3 | build |
 | Work out the power budget for solar, battery, and lighting | 3 | code |
 | Design and prototype the sensor node | 5 | code |
+| Host an in-person event from the [events list](docs/events.md) | 3 | upkeep |
 | Lead build day | 5 | build |
 | Organize the first three months of the upkeep rota | 5 | upkeep |
 

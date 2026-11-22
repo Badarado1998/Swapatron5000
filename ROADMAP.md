@@ -14,6 +14,23 @@
 | 6. Look after it | Every week from Apr 24, 2027 | Recurring upkeep | Take a week on the rota |
 | 7. Make it smart | Any time after opening | Power, light, sensors, software | Join a team |
 
+## Launch and in-person events
+
+| Date | Event |
+|---|---|
+| Thu Dec 3, 2026 | Meet Swapatron: soft launch at the lab |
+| Mon Dec 7, 2026 | Public launch, online |
+| Sat Dec 12, 2026 | Draw Swapatron: sketch day for all ages |
+| Thu Jan 7, 2027 | "This won't work because..." night |
+| Thu Jan 21, 2027 | Decision night |
+| Sat Feb 20, 2027 | Feed Swapatron: parts drive and kit making |
+| Sat Mar 20, 2027 | Build day |
+| Sat Apr 10, 2027 | Install day |
+| Sat Apr 24, 2027 | Hatching day: Swapatron opens |
+| Sat Jul 24, 2027 | 90 day check-up |
+
+Every event is a proposal until the lab confirms it. Details, and who each event is for: [launch dates and events](docs/events.md).
+
 Why this long? The listening phase runs over the winter holidays, and posts can not be set in frozen ground. A spring opening is realistic. A faster one is not.
 
 ## Phase 1: Listen (Nov 23, 2026 to Jan 10, 2027)
@@ -23,8 +40,9 @@ Why this long? The listening phase runs over the winter holidays, and posts can 
 | Dates | Step |
 |---|---|
 | Nov 23 to Nov 29 | Set up: create the issues and labels, name maintainers, ask the lab for site approval |
-| Nov 30 to Dec 6 | Soft launch: invite people at the lab first, so the first sketches and comments are in place |
-| From Mon Dec 7 | Public launch: share widely, using the [share kit](docs/share-kit.md) |
+| Nov 30 to Dec 6 | Soft launch: invite people at the lab first, so the first sketches and comments are in place. Meet Swapatron drop-in on Thu Dec 3 |
+| From Mon Dec 7 | Public launch: share widely, using the [share kit](docs/share-kit.md). Draw Swapatron sketch day on Sat Dec 12 |
+| Thu Jan 7 | "This won't work because..." night |
 | Sun Jan 10 | Listening closes |
 
 That leaves about five weeks of public listening, with the holidays in the middle. If turnout is thin in early January, the close date should move back, and every later date with it.
@@ -42,7 +60,7 @@ That leaves about five weeks of public listening, with the holidays in the middl
 | Dates | Step |
 |---|---|
 | Jan 11 to Jan 17 | Maintainers post a summary of every open question and a proposed answer for each |
-| Jan 18 to Jan 31 | Final comment period. Anyone can object or suggest changes |
+| Jan 18 to Jan 31 | Final comment period. Anyone can object or suggest changes. Decision night on Thu Jan 21 |
 | By Jan 31 | Decisions are recorded in [DECISIONS.md](DECISIONS.md) with the reasons |
 
 ## Phase 3: Gather (Feb 1 to Mar 14, 2027)
@@ -52,7 +70,7 @@ That leaves about five weeks of public listening, with the holidays in the middl
 | Dates | Step |
 |---|---|
 | By Sun Feb 7 | Cut list and final wishlist published from the chosen design |
-| Feb 8 to Mar 14 | Pledges and drop-offs |
+| Feb 8 to Mar 14 | Pledges and drop-offs. Feed Swapatron parts drive on Sat Feb 20 |
 | Sun Mar 14 | Materials check. If key items are missing, build day moves |
 
 Supplies that any design will need, such as anti-static bags and desiccant, can be pledged right now.

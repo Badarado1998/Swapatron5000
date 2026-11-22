@@ -59,12 +59,17 @@ See everyone on the [Contributors Wall](CONTRIBUTORS.md), and [how to get your n
 | When | What |
 |---|---|
 | Now to Jan 10, 2027 | Listen. Collect ideas and sketches |
-| Jan 11 to Jan 31, 2027 | Decide, in the open |
-| Feb 1 to Mar 14, 2027 | Gather materials |
-| Sat Mar 20, 2027 | Build day, indoors at the lab |
-| Sat Apr 10 and Sat Apr 24, 2027 | Install, then opening day |
+| Thu Dec 3, 2026 | **Meet Swapatron**, a drop-in at the lab |
+| Mon Dec 7, 2026 | Public launch |
+| Sat Dec 12, 2026 | **Draw Swapatron**, a sketch day for all ages |
+| Thu Jan 7, 2027 | **"This won't work because..." night** |
+| Jan 11 to Jan 31, 2027 | Decide, in the open. **Decision night** on Thu Jan 21 |
+| Feb 1 to Mar 14, 2027 | Gather materials. **Feed Swapatron** parts drive on Sat Feb 20 |
+| Sat Mar 20, 2027 | **Build day**, indoors at the lab |
+| Sat Apr 10, 2027 | **Install day** |
+| Sat Apr 24, 2027 | **Hatching day.** Swapatron opens |
 
-Every date is a proposal and depends on the lab approving the site. [Full timeline](ROADMAP.md).
+Every date is a proposal. None is confirmed with the lab yet. [Events in detail](docs/events.md) and the [full timeline](ROADMAP.md).
 
 ## Think it won't work?
 
@@ -82,6 +87,7 @@ Good. [Tell Swapatron to its face](CHALLENGES.md). Every "this won't work becaus
 | [CHALLENGES.md](CHALLENGES.md) | Every reason this might not work, and how we plan to beat it |
 | [DECISIONS.md](DECISIONS.md) | Every open question, and how decisions get made |
 | [ROADMAP.md](ROADMAP.md) | The proposed timeline in full |
+| [docs/events.md](docs/events.md) | Launch dates and in-person events |
 | [BOUNTIES.md](BOUNTIES.md) | Jobs with points, levels, and badges |
 | [ASKS.md](ASKS.md) | Ask for a part, or fill someone else's ask |
 | [bom/](bom/README.md) | The draft wishlist of materials |

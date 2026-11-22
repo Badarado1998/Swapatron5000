@@ -43,9 +43,13 @@ Also create:
 | One issue per bounty in `BOUNTIES.md`, titled "Bounty (points): job" | `bounty` |
 | Confirm with the lab whether parcels can be received, then remove the notice in `ASKS.md` | `needs owner` |
 
-Also create the `ask`, `bounty`, `decision`, and `challenge` labels. The "Ask for a part" and "This won't work because" forms need their labels to exist.
+Also create the `ask`, `bounty`, `decision`, `challenge`, and `event` labels. The "Ask for a part" and "This won't work because" forms need their labels to exist.
 
 Create one `challenge` issue for each row in the table in `CHALLENGES.md`, so people can pile on.
+
+## Events
+
+Confirm each date in `docs/events.md` with the lab. For each confirmed event, create an issue with the `event` label so people can give it a thumbs up to say they are coming.
 
 ## How to write an easy win
 

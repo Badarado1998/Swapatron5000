@@ -53,6 +53,8 @@ If materials are not ready by March 14, the build moves to Saturday, March 27.
 
 A sign-up issue will be opened in February. To be told when it opens, tap **Watch** at the top of the project page.
 
+See all [launch dates and events](events.md).
+
 ## After build day
 
 | Date | Step |

@@ -43,7 +43,7 @@ fishers-founders-united.github.io/Swapatron5000
 ## Please keep these true when you share
 
 - **Say "planning" or "proposed".** The box is not built, and the site is not approved yet.
-- **Do not promise dates.** The dates are proposals.
+- **Do not promise dates.** The dates are proposals. Only promote an event once [events.md](events.md) says it is confirmed.
 - **Do not use the lab's logo** or say the lab endorses the project unless the lab has agreed.
 - **Do not share the shipping address** until the notice in [ASKS.md](../ASKS.md) is removed.
 

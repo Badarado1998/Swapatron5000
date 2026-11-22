@@ -46,7 +46,7 @@ A free GitHub account. Go to github.com and tap **Sign up**. You need an email a
 
 ## Rather talk in person?
 
-Come by the Indiana IoT Lab and ask about the swap box. In-person sessions will be listed here once dates are confirmed.
+See the [proposed events](events.md). Every event will have a help desk where a person shows you how to make your first contribution.
 
 ## Want to learn more GitHub?
 
