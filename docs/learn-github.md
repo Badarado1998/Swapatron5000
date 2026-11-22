@@ -4,6 +4,8 @@ GitHub is a website where people work on projects together. Every change is save
 
 Everything below works in a web browser, on a phone or a computer.
 
+Only want to comment or vote? [How to have your say](have-your-say.md) is the two minute version.
+
 ## Five words you will see
 
 - **Repository (repo):** the project folder. You are in it now.

@@ -30,6 +30,18 @@ Create these as issues once the repository is live, then delete this file.
 | Propose an architecture for the box management software | `software`, `rfc` |
 | Design the took and left form | `software`, `good first issue` |
 
+## Decision issues
+
+Create one issue for each open question in `DECISIONS.md`, with the `decision` label, so people have a place to comment. Then replace "Issues tab" in that table with a link to each issue. The two longest ones, the GitHub unlock and battery sharing, have full drafts in [issue-drafts.md](issue-drafts.md).
+
+Also create:
+
+| Title | Labels |
+|---|---|
+| Box check log (standing issue for weekly check reports) | `needs owner` |
+| Build day sign-up (open in February 2027) | `needs owner` |
+| One issue per bounty in `BOUNTIES.md`, titled "Bounty (points): job" | `bounty` |
+
 ## How to write an easy win
 
 A good easy win is specific enough that someone can do it without asking a question. Say exactly what, how many, and where it goes.

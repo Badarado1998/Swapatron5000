@@ -2,6 +2,10 @@
 
 [BOM.csv](BOM.csv) is the one list of everything the box needs. GitHub shows it as a table you can search.
 
+> **The list is a draft.** The design is not chosen yet, so shell materials and quantities will change. The final wishlist is due by Sunday, February 7, 2027, and the gathering phase runs to March 14. See the [timeline](../ROADMAP.md).
+>
+> **Safe to pledge now:** anything in the `supplies` category, such as anti-static bags, zip bags, desiccant, and labels. Every design needs those.
+
 ## How to give something
 
 1. Find an item in [BOM.csv](BOM.csv) with status `needed` or `partly pledged`.

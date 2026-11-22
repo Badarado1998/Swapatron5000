@@ -2,6 +2,8 @@
 
 We build the software that helps people run the box: what is in it, what it needs, and when it needs attention. This is the full stack, from the sensor data to the screen.
 
+> **Draft. Nothing here is decided.** This page is a starting point for discussion. See [DECISIONS.md](../DECISIONS.md) and [how to have your say](../docs/have-your-say.md).
+
 Nothing is built yet. This page is the starting brief. The architecture is yours to propose.
 
 ## What the system should do

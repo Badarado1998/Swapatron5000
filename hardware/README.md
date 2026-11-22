@@ -2,6 +2,8 @@
 
 We design the physical box: the shell, the bins, the mount, and the sign.
 
+> **Draft. Nothing here is decided.** This page is a starting point for discussion. See [DECISIONS.md](../DECISIONS.md) and [how to have your say](../docs/have-your-say.md).
+
 ## You do not need CAD
 
 Pick the way that suits you. All three count.
@@ -12,9 +14,9 @@ Pick the way that suits you. All three count.
 | 2. React | Comment on other people's sketches. Add a thumbs up to the ones you like | A GitHub account |
 | 3. Model | Add CAD, laser, or 3D print files to `hardware/designs/your-design-name/` in a pull request | Any CAD tool. Please include an open format such as STEP, SVG, or DXF |
 
-## The design brief
+## The design brief (proposed)
 
-Any design is welcome as long as it meets these.
+This is a starting brief, and it is open for comment like everything else. Sketches that follow it are easier to build, but sketches that challenge it are welcome too.
 
 **Must have**
 
@@ -34,7 +36,7 @@ Any design is welcome as long as it meets these.
 - A dry spot for a small electronics enclosure, for Phase 5
 - Made from materials that can be donated or reclaimed
 
-**Not allowed**
+**Proposed safety limits**
 
 - Mains power
 - Anything that blocks a walkway
@@ -50,4 +52,4 @@ These are waiting for someone to pick them up.
 
 ## How a design gets picked
 
-Sketches stay open for comments for at least two weeks. The maintainers and the site host then pick one, or combine several, and explain why in the issue. The winning design becomes the cut list and the wishlist.
+Sketches are open until Sunday, January 10, 2027. Between January 11 and 31, the maintainers and the site host propose one design, or a mix of several, explain why, and take final comments. The chosen design becomes the cut list and the wishlist. See the [timeline](../ROADMAP.md).

@@ -2,7 +2,9 @@
 
 We add power, light, and sensing to the box. This is Phase 5 work, but planning can start now.
 
-## Ground rules
+> **Draft. Nothing here is decided.** This page is a starting point for discussion. See [DECISIONS.md](../DECISIONS.md) and [how to have your say](../docs/have-your-say.md).
+
+## Proposed ground rules
 
 - The box must work with no electronics at all. Everything here is an add-on.
 - No mains power.

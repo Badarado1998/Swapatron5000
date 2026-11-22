@@ -1,6 +1,8 @@
 # Contributing
 
-Everyone is welcome, including people who have never used GitHub. If that is you, read [Learn GitHub in 15 minutes](docs/learn-github.md) first.
+Everyone is welcome, including people who have never used GitHub. If that is you, start with [How to have your say](docs/have-your-say.md), then take the [15 minute tour](docs/learn-github.md).
+
+**Nothing about the box is decided yet.** The listening phase runs until Sunday, January 10, 2027. See [DECISIONS.md](DECISIONS.md) and the [timeline](ROADMAP.md).
 
 ## Ways to contribute
 
@@ -12,24 +14,27 @@ Everyone is welcome, including people who have never used GitHub. If that is you
 - **Improve the docs.** If something confused you, fixing it is a great first pull request.
 - **Help on site.** Build days and the weekly check rota are listed in [docs/maintenance.md](docs/maintenance.md).
 
-## The Contributors Wall
+## Points, bounties, and the Contributors Wall
 
-Every contribution earns a line in `contributions.csv`, which builds the [Contributors Wall](CONTRIBUTORS.md) and its leaderboard automatically. One contribution is one point, whatever its size or cost.
+Every contribution earns a line in `contributions.csv`, which builds the [Contributors Wall](CONTRIBUTORS.md) automatically. Jobs with points attached are listed on the [bounty board](BOUNTIES.md).
 
-Maintainers add the line when a part is received, a pull request is merged, or a box check is done:
+Maintainers add the line when a part is received, a bounty is accepted, a pull request is merged, or a box check is logged:
 
 ```
-date,username,type,description
-2026-12-01,your-username,part,Anti-static bags
+date,username,type,description,points
+2027-02-10,your-username,part,Anti-static bags,1
+2027-02-14,your-username,docs,Designed the sign,2
 ```
 
-Types: `part`, `build`, `code`, `docs`, `upkeep`, `idea`. If you would rather not be listed, say so and you will be left off.
+Types: `part`, `build`, `code`, `docs`, `upkeep`, `idea`. Points: 1, 2, 3, or 5. Giving a part is always 1 point. If you would rather not be listed, say so and you will be left off.
 
 ## Labels
 
 | Label | Meaning |
 |---|---|
 | `good first issue` | Small, well described, good for newcomers and kids |
+| `bounty` | A job with points attached. See [BOUNTIES.md](BOUNTIES.md) |
+| `decision` | An open question the community is deciding |
 | `hardware` | Shell, modules, mounting |
 | `electronics` | Power, lighting, sensors |
 | `software` | Inventory, alerts, dashboard |

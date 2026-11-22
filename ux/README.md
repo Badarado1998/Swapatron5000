@@ -2,6 +2,8 @@
 
 We make the box easy to find, easy to use, and easy to understand. You do not need to code. If you can notice when something is confusing, you can do this work.
 
+> **Draft. Nothing here is decided.** This page is a starting point for discussion. See [DECISIONS.md](../DECISIONS.md) and [how to have your say](../docs/have-your-say.md).
+
 ## The people we design for
 
 | Person | What they need |

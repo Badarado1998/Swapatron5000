@@ -1,6 +1,6 @@
 # Governance (draft)
 
-This is a draft for the founding group to edit.
+> **Draft. Nothing here is decided.** This is a starting point for the community to edit. See [DECISIONS.md](DECISIONS.md).
 
 ## Roles
 

@@ -1,4 +1,6 @@
-# Swap rules
+# Swap rules (draft)
+
+> **Draft. Nothing here is decided.** This page is a starting point for discussion. See [DECISIONS.md](../DECISIONS.md) and [how to have your say](have-your-say.md).
 
 ## The short version (for the sign)
 
