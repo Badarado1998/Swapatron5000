@@ -57,6 +57,7 @@ These open as issues once the project launches. Most are for the listening phase
 | Bounty | Points | Type |
 |---|---|---|
 | Share a design sketch for the box | 1 | idea |
+| Tell Swapatron why it won't work, with specifics | 1 | idea |
 | Suggest a standard bin, with a store link and its size | 1 | idea |
 | Test the web page on your phone and report what is confusing | 1 | docs |
 | Bring a friend who makes their first contribution | 1 | idea |

@@ -6,6 +6,14 @@
   <!-- simple box drawing -->
   <g transform="translate(790 120)">
     <polygon points="170,0 0,90 340,90" fill="#6b6f6c"/>
+    <!-- eyes: Swapatron is alive. Delete this group if you prefer a serious box. -->
+    <g id="eyes">
+      <circle cx="138" cy="56" r="17" fill="#ffffff" stroke="#1d2a26" stroke-width="2"/>
+      <circle cx="202" cy="56" r="17" fill="#ffffff" stroke="#1d2a26" stroke-width="2"/>
+      <circle cx="143" cy="60" r="7" fill="#1d2a26"/>
+      <circle cx="207" cy="60" r="7" fill="#1d2a26"/>
+    </g>
+
     <rect x="30" y="96" width="280" height="50" fill="#1f3a5f"/>
     <rect x="30" y="146" width="280" height="250" fill="#e9d9b8" stroke="#8a7446" stroke-width="2"/>
     <rect x="48" y="162" width="244" height="90" rx="8" fill="#cdeee2" stroke="#0f6e56" stroke-width="3"/>
@@ -18,12 +26,12 @@
     <line x1="-20" y1="466" x2="360" y2="466" stroke="#888780" stroke-width="4"/>
   </g>
 
-  <text x="70" y="130" font-size="26" font-weight="bold" fill="#0f6e56" letter-spacing="2">A COMMUNITY IDEA FOR FISHERS, INDIANA</text>
+  <text x="70" y="130" font-size="26" font-weight="bold" fill="#0f6e56" letter-spacing="2">A HUNGRY IDEA FOR FISHERS, INDIANA</text>
   <text x="70" y="230" font-size="76" font-weight="bold" fill="#1d2a26">IoT Swapatron</text>
   <text x="70" y="316" font-size="76" font-weight="bold" fill="#1d2a26">5000</text>
-  <text x="70" y="392" font-size="34" fill="#1d2a26">A free swap box for electronics parts.</text>
+  <text x="70" y="392" font-size="34" fill="#1d2a26">It eats spare electronics. It shares them.</text>
   <text x="70" y="448" font-size="34" font-weight="bold" fill="#1d2a26">Take a part. Build something.</text>
   <text x="70" y="494" font-size="34" font-weight="bold" fill="#1d2a26">Pass it on.</text>
   <rect x="70" y="530" width="560" height="56" rx="10" fill="#fdf3d7" stroke="#e2c36b" stroke-width="2"/>
-  <text x="92" y="567" font-size="26" fill="#4a3a05">Nothing is decided yet. Help shape it.</text>
+  <text x="92" y="567" font-size="26" fill="#4a3a05">It has not hatched yet. Help shape it.</text>
 </svg>

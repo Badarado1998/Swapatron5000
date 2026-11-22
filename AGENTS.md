@@ -20,12 +20,13 @@ People: you can paste this to your assistant: "Read AGENTS.md in github.com/Fish
 
 1. [README.md](README.md): the front door
 2. [VISION.md](VISION.md): the long-term dream. It is a dream, not a plan or a commitment
-3. [DECISIONS.md](DECISIONS.md): every open question, and how decisions are made
-4. [ROADMAP.md](ROADMAP.md): the proposed timeline
-5. [BOUNTIES.md](BOUNTIES.md): jobs that need doing, with points
-6. [ASKS.md](ASKS.md): how people request parts and how others fill those requests
-7. [CONTRIBUTING.md](CONTRIBUTING.md): how contributions work
-8. The team page for the work at hand: [hardware/](hardware/README.md), [electronics/](electronics/README.md), [software/](software/README.md), or [ux/](ux/README.md)
+3. [CHALLENGES.md](CHALLENGES.md): known reasons it might not work, and how doubts are handled
+4. [DECISIONS.md](DECISIONS.md): every open question, and how decisions are made
+5. [ROADMAP.md](ROADMAP.md): the proposed timeline
+6. [BOUNTIES.md](BOUNTIES.md): jobs that need doing, with points
+7. [ASKS.md](ASKS.md): how people request parts and how others fill those requests
+8. [CONTRIBUTING.md](CONTRIBUTING.md): how contributions work
+9. The team page for the work at hand: [hardware/](hardware/README.md), [electronics/](electronics/README.md), [software/](software/README.md), or [ux/](ux/README.md)
 
 ## Proposed timeline
 
@@ -54,6 +55,16 @@ Check [ROADMAP.md](ROADMAP.md) for the current version. Dates may have moved sin
 | Fix the docs | Find confusing or contradictory text and propose plain-language fixes |
 
 High-value gaps right now: design sketches, a suggestion for the standard bin, the sign and label designs, a "took and left" form, and a battery safety summary reviewed by a qualified person.
+
+## The voice
+
+Swapatron is written about as a living creature: a friendly, hungry box. It eats spare parts ("feed it"), shares them ("it passes them on"), has not been built yet ("has not hatched"), and is looked after by keepers.
+
+- Be playful in headlines, invitations, and thank-yous.
+- Be plain in instructions. A beginner must never have to decode a joke to find the next tap.
+- Never joke in safety text, in rules about children, or about a person.
+- One wink per page is plenty. If a joke needs explaining, cut it.
+- Doubts and criticism are welcomed as challenges to overcome. See [CHALLENGES.md](CHALLENGES.md). Never dismiss one, and never treat one as a reason to abandon the project.
 
 ## How to write for this project
 

@@ -4,7 +4,7 @@
 
 ## The one sentence version
 
-A kid walks up to a box outside the lab, takes a sensor, goes home, builds something, and comes back to leave a part for the next kid.
+A kid walks up to Swapatron, takes a sensor, goes home, builds something, and comes back to feed it a part for the next kid.
 
 ## The first box
 

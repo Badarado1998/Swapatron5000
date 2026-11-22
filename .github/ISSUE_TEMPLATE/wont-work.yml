@@ -1,0 +1,36 @@
+name: This won't work because...
+description: Tell Swapatron to its face. Every doubt is treated as a challenge to overcome.
+title: "Challenge: "
+labels: ["challenge"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. Honest doubts make the project better. You do not need a solution. Go after the idea, never a person.
+  - type: textarea
+    id: because
+    attributes:
+      label: This won't work because...
+      description: Be as specific as you can.
+      placeholder: The door will swing into the walkway and block wheelchairs.
+    validations:
+      required: true
+  - type: textarea
+    id: seen
+    attributes:
+      label: Have you seen this go wrong somewhere? (optional)
+      description: Real experience is gold.
+  - type: textarea
+    id: fix
+    attributes:
+      label: Any idea how to beat it? (optional)
+  - type: dropdown
+    id: serious
+    attributes:
+      label: How serious is it?
+      options:
+        - Worth thinking about
+        - Could sink the project if ignored
+        - Safety problem
+    validations:
+      required: true

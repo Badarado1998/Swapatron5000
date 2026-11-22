@@ -8,6 +8,14 @@ Want to tell people about the project? Copy anything on this page. Change the wo
 
 A group of us in Fishers are planning a free swap box for electronics parts, and we want your ideas before anything is decided.
 
+## The cheeky one
+
+> Meet Swapatron. It is a box. It eats the spare electronics in your drawer and passes them on to someone who will build with them.
+>
+> It has not hatched yet. It lives in Fishers, Indiana, and it needs help deciding what it looks like, what it eats, and what its rules are.
+>
+> Think it won't work? Excellent. Tell it to its face: https://fishers-founders-united.github.io/Swapatron5000/
+
 ## Short post
 
 > We're planning the IoT Swapatron 5000: a free swap box for electronics parts in Fishers, Indiana. Take a part. Build something. Pass it on.
@@ -45,7 +53,7 @@ A short checklist for the maintainers. Announce in this order.
 
 - [ ] The lab has agreed to the project being announced with its name attached
 - [ ] The open questions exist as issues, so visitors have somewhere to comment
-- [ ] The `ask`, `bounty`, and `decision` labels exist
+- [ ] The `ask`, `bounty`, `decision`, and `challenge` labels exist
 - [ ] At least two maintainers are named in [GOVERNANCE.md](../GOVERNANCE.md)
 - [ ] Three or four people have each posted a first sketch or comment, so the project does not look empty
 - [ ] The web page and every button on it have been tested on a phone
