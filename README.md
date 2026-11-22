@@ -63,9 +63,9 @@ See everyone on the [Contributors Wall](CONTRIBUTORS.md), and [how to get your n
 | When | What |
 |---|---|
 | Now to Jan 10, 2027 | Listen. Collect ideas and sketches |
-| Thu Dec 3, 2026 | **Meet Swapatron**, a drop-in at the lab. Nothing is built yet, so come meet the idea and the people |
+| Thu Dec 3, 2026 | **Meet Swapatron**, online. Nothing is built yet, so come meet the idea and the people |
 | Mon Dec 7, 2026 | Public launch |
-| Sat Dec 12, 2026 | **Draw Swapatron**, a sketch day for all ages |
+| Sat Dec 12, 2026 | **Draw Swapatron**, an online sketch-along for all ages |
 | Thu Jan 7, 2027 | **"This won't work because..." night** |
 | Wed Jan 13, 2027 | **Founding team kickoff**, a Wednesday evening. The call for the team is open now |
 | Jan 11 to Jan 31, 2027 | Decide, in the open. **Decision night** on Thu Jan 21 |
@@ -74,7 +74,7 @@ See everyone on the [Contributors Wall](CONTRIBUTORS.md), and [how to get your n
 | Sat Apr 10, 2027 | **Install day** |
 | Sat Apr 24, 2027 | **Hatching day.** Swapatron opens, with food trucks, a celebration, and a technology petting zoo |
 
-Every date is a proposal. None is confirmed with the lab yet. [Events in detail](docs/events.md) and the [full timeline](ROADMAP.md).
+Everything before 2027 is online. Every date is a proposal, and none is confirmed with the lab yet. [Events in detail](docs/events.md) and the [full timeline](ROADMAP.md).
 
 ## Think it won't work?
 
@@ -96,7 +96,7 @@ Good. [Tell Swapatron to its face](CHALLENGES.md). Every "this won't work becaus
 | [docs/petting-zoo.md](docs/petting-zoo.md) and [docs/swapatron-speak.md](docs/swapatron-speak.md) | The technology petting zoo, and a field guide to IoT lingo |
 | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Draft code of conduct, including rules for kids |
 | [docs/your-swapatron.md](docs/your-swapatron.md) | Hatch a Swapatron in your own town |
-| [docs/events.md](docs/events.md) | Launch dates and in-person events |
+| [docs/events.md](docs/events.md) | Launch dates and events. Online until 2027 |
 | [BOUNTIES.md](BOUNTIES.md) | Jobs with points, levels, and badges |
 | [ASKS.md](ASKS.md) | Ask for a part, or fill someone else's ask |
 | [bom/](bom/README.md) | The draft wishlist of materials |

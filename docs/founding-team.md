@@ -17,7 +17,7 @@ The founding team is a small group of volunteers who each look after one part of
 | Sun Jan 10, 2027 | The call closes, and listening closes with it |
 | Wed Jan 13, 2027, evening | **Founding team kickoff.** The first meeting, and the official start of the work. Time and place to be set with the lab |
 
-Chats with applicants happen between December 7 and January 10. The founding team is named in the open, with its reasons, by January 10. Late applicants are still welcome, but may miss the first group.
+Chats with applicants happen online between December 7 and January 10. The founding team is named in the open, with its reasons, by January 10. Late applicants are still welcome, but may miss the first group.
 
 ## The roles (all proposed)
 

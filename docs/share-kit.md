@@ -43,6 +43,7 @@ fishers-founders-united.github.io/Swapatron5000
 ## Please keep these true when you share
 
 - **Say "planning" or "proposed".** The box is not built, and the site is not approved yet.
+- **Everything before 2027 is online.** Never invite anyone to the lab, or ask for parts to be dropped off, before January 2027.
 - **Dec 3 has nothing built to see.** Say so. People should come to meet the idea and the people, not to look at a box.
 - **Do not promise dates.** The dates are proposals. Only promote an event once [events.md](events.md) says it is confirmed.
 - **Say it is not only Fishers.** Box one is in Fishers. Any town can hatch its own. See [your-swapatron.md](your-swapatron.md).

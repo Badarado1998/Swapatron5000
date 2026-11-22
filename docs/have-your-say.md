@@ -44,9 +44,9 @@ A free GitHub account. Go to github.com and tap **Sign up**. You need an email a
 - You then get until January 31 to object or suggest changes.
 - Final decisions and the reasons are written in [DECISIONS.md](../DECISIONS.md).
 
-## Rather talk in person?
+## Rather talk to a person?
 
-See the [proposed events](events.md). Every event will have a help desk where a person shows you how to make your first contribution.
+See the [proposed events](events.md). Everything before 2027 is online, and every event will have a help desk where a person shows you how to make your first contribution.
 
 ## Want to learn more GitHub?
 

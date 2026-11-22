@@ -1,16 +1,18 @@
 # Launch dates and events
 
-> **Every date here is a proposal.** None of these events is confirmed with the Indiana IoT Lab yet. Times will be added when they are. Please do not travel for an event until its row says "Confirmed".
+> **Every date here is a proposal.** None of these events is confirmed with the Indiana IoT Lab yet. Times will be added when they are. Please do not travel for an in-person event until its row says "Confirmed".
 
-All in-person events are proposed for the Indiana IoT Lab, 9059 Technology Lane, Fishers, Indiana. They are free, and you do not need to know anything to come.
+**Everything before 2027 happens online.** Nothing in person is planned until January 2027. Online events are on a video call, and the link will be posted on the event's issue once it is confirmed.
+
+In-person events, from January 2027, are proposed for the Indiana IoT Lab, 9059 Technology Lane, Fishers, Indiana. All events are free, and you do not need to know anything to come.
 
 ## The schedule
 
 | Date | Event | What happens | Status |
 |---|---|---|---|
-| Thu Dec 3, 2026 | **Meet Swapatron** (soft launch) | **There is no box yet, and nothing will be built that night.** Swapatron is still an egg. Drop in to meet the idea and the people, look at the example sketches, grab a design sheet, and get help making your first GitHub comment | Proposed |
+| Thu Dec 3, 2026 | **Meet Swapatron** (soft launch, online) | A video call. **There is no box yet, and nothing will be built.** Swapatron is still an egg. Come meet the idea and the people, look at the example sketches, and get help making your first GitHub comment | Proposed |
 | Mon Dec 7, 2026 | **Public launch** (online) | The project is shared widely. See the [share kit](share-kit.md) | Proposed |
-| Sat Dec 12, 2026 | **Draw Swapatron** | Sketch day for all ages. Paper, pencils, and design sheets provided. Every sketch gets posted | Proposed |
+| Sat Dec 12, 2026 | **Draw Swapatron** (online) | A sketch-along for all ages. Draw at home on the [printable design sheet](../hardware/designs/template-blank.svg) or plain paper, with a video call for company. Post a photo of every sketch | Proposed |
 | Thu Jan 7, 2027 | **"This won't work because..." night** | Bring your doubts. We write every one on the wall and work out how to beat it | Proposed |
 | Sun Jan 10, 2027 | Listening closes (online) | Last day for ideas and sketches for the first box | Proposed |
 | Wed Jan 13, 2027 | **Founding team kickoff** | The first meeting of the founding team, on a Wednesday evening. The official start of the work. See [the founding team](founding-team.md) | Proposed. Time not set |
@@ -41,9 +43,22 @@ To hear when events are confirmed, tap **Watch** at the top of the project page.
 ## At every event
 
 - A help desk for making your first GitHub contribution, with a person, not a manual
-- Design sheets and pencils
-- A place to drop off parts for the box
 - Children are welcome with a parent or guardian
+
+## At in-person events (from January 2027)
+
+- Design sheets and pencils
+- A place to drop off parts for the box, once the lab confirms drop-offs
+
+## At online events
+
+- Children join with a parent or guardian, and the adult stays in the room
+- Cameras are optional, and nobody has to speak
+- No recording of children, and no private messages between adults and children
+- Questions go in the open chat, where everyone can see them
+- Ask before you screenshot or share anyone's face
+
+These are proposals. See [Decision 18](../DECISIONS.md).
 
 ## Want to host or help at one?
 

@@ -10,7 +10,7 @@
 
 1. Find an item in [BOM.csv](BOM.csv) with status `needed` or `partly pledged`.
 2. [Open a "Pledge a part" issue](../../../issues/new?template=pledge-a-part.yml) and say what you are giving and how many.
-3. Get it to the lab. You can drop it off, or buy it from the store link in the table and ship it. Drop-off and shipping details will be posted here once the site is approved.
+3. Pledge now, and hold on to the part. **Please do not drop off or ship anything yet.** Nothing in person happens before 2027, and drop-off and shipping details will be posted here once the lab confirms.
 4. When the part arrives, a maintainer marks it `received`, closes your issue, and adds you to the [Contributors Wall](../CONTRIBUTORS.md).
 
 Comfortable with GitHub? You can skip the form and edit `BOM.csv` yourself in a pull request. See [Learn GitHub](../docs/learn-github.md), Step 3.

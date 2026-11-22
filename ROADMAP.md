@@ -14,13 +14,15 @@
 | 6. Look after it | Every week from Apr 24, 2027 | Recurring upkeep | Take a week on the rota |
 | 7. Make it smart | Any time after opening | Power, light, sensors, software | Join a team |
 
-## Launch and in-person events
+## Launch dates and events
+
+Everything before 2027 happens online. In-person events start in January 2027.
 
 | Date | Event |
 |---|---|
-| Thu Dec 3, 2026 | Meet Swapatron: soft launch at the lab. Nothing is built yet. Come meet the idea and the people |
+| Thu Dec 3, 2026 | Meet Swapatron: soft launch, online. Nothing is built yet. Come meet the idea and the people |
 | Mon Dec 7, 2026 | Public launch, online |
-| Sat Dec 12, 2026 | Draw Swapatron: sketch day for all ages |
+| Sat Dec 12, 2026 | Draw Swapatron: online sketch-along for all ages |
 | Thu Jan 7, 2027 | "This won't work because..." night |
 | Wed Jan 13, 2027 | Founding team kickoff, evening |
 | Thu Jan 21, 2027 | Decision night |
@@ -41,9 +43,9 @@ Why this long? The listening phase runs over the winter holidays, and posts can 
 | Dates | Step |
 |---|---|
 | Nov 23 to Nov 29 | Set up: create the issues and labels, name interim maintainers, ask the lab for site approval |
-| Nov 30 to Dec 6 | Soft launch: invite people at the lab first, so the first sketches and comments are in place. Meet Swapatron drop-in on Thu Dec 3, with nothing built to see yet |
+| Nov 30 to Dec 6 | Soft launch, online: invite people first, so the first sketches and comments are in place. Meet Swapatron call on Thu Dec 3, with nothing built to see yet |
 | Mon Nov 30 | The [founding team](docs/founding-team.md) call opens to invited people. It opens to everyone on Dec 7 and closes Sun Jan 10 |
-| From Mon Dec 7 | Public launch: share widely, using the [share kit](docs/share-kit.md). Draw Swapatron sketch day on Sat Dec 12 |
+| From Mon Dec 7 | Public launch: share widely, using the [share kit](docs/share-kit.md). Draw Swapatron online sketch-along on Sat Dec 12 |
 | Thu Jan 7 | "This won't work because..." night |
 | Sun Jan 10 | Listening closes |
 

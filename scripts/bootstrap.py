@@ -32,7 +32,7 @@ LABELS = {
     "bounty": ("FBCA04", "A job with points attached"),
     "decision": ("5319E7", "An open question that will be decided in the open"),
     "challenge": ("D93F0B", "A known problem Swapatron needs help with"),
-    "event": ("0E8A16", "An in-person event. Thumbs up if you are coming"),
+    "event": ("0E8A16", "An event, online or in person. Thumbs up if you are coming"),
     "rfc": ("C5DEF5", "A longer proposal that needs comments"),
     "hardware": ("BFD4F2", "The box, the shell, the bins"),
     "electronics": ("FEF2C0", "Power, sensors, radios"),

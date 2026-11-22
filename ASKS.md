@@ -33,7 +33,7 @@ Browse the [open asks](../../issues?q=is%3Aissue+is%3Aopen+label%3Aask). When yo
 3. Put it in the box.
 4. Comment again: "It's in the box."
 
-Until the box is built, bring parts to the lab instead. Drop-off details will be posted here once confirmed.
+Until the box is built, parts go to the lab instead. **Please do not drop anything off yet.** Nothing in person happens before 2027, and drop-off details will be posted here once the lab confirms.
 
 ### Way 2: Order it and have it delivered
 

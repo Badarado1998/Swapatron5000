@@ -42,7 +42,7 @@ Types: `part`, `build`, `code`, `docs`, `upkeep`, `idea`. Points: 1, 2, 3, or 5.
 | `bounty` | A job with points attached. See [BOUNTIES.md](BOUNTIES.md) |
 | `ask` | Someone needs a part. See [ASKS.md](ASKS.md) |
 | `challenge` | A reason it might not work. See [CHALLENGES.md](CHALLENGES.md) |
-| `event` | An in-person event. See [docs/events.md](docs/events.md) |
+| `event` | An event, online or in person. See [docs/events.md](docs/events.md) |
 | `decision` | An open question the community is deciding |
 | `hardware` | Shell, modules, mounting |
 | `electronics` | Power, lighting, sensors |
